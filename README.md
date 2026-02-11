@@ -1,10 +1,6 @@
----
-coverY: 0
----
+# 🌟 WELCOME
 
-# 🌟 Welcome
-
-### <mark style="color:orange;">Welcome to the ReDI Digital Kids Program!</mark>
+<mark style="color:orange;">**Welcome to the ReDI Digital Kids Program!**</mark>
 
 Thank you for joining us on this journey! As a volunteer teacher, you play a key role in empowering kids with the digital skills, creativity, and confidence they need to thrive in today’s world.
 
@@ -12,11 +8,14 @@ This site is designed as a practical guide to help you get started smoothly. You
 
 * Our program’s mission and goals
 * What to expect during the semester
-* The structure of Sunday Classes
+* The structure of Sunday classes
 * Your role in the teaching team
 * The time commitment and preparation needed
-* The support you can always count on
+* The support you can always count on\
+  <br>
 
 Our aim is to make your volunteering experience rewarding, fun, and impactful. With your help, we create a safe and inspiring environment where kids can explore coding, experiment with ideas, and learn the power of teamwork and problem-solving.
 
-**We’re excited to have you on board, welcome to the team! 💙**
+We’re excited to have you on board, welcome to the team!
+
+<br>

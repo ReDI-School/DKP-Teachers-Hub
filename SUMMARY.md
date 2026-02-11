@@ -27,7 +27,10 @@
     * [Community Events](semester-timeline/teaching-phase/community-events.md)
 * [🚀 Self-Onboarding](self-onboarding/README.md)
   * [Page 2](self-onboarding/page-2.md)
-* [🤖 Teaching Roles](teaching-roles.md)
+
+## 🧰 TEACHING JOURNEY
+
+* [🤖 Teaching Roles](teaching-journey/teaching-roles.md)
 
 ## 🧰 TOOLS; RESOURCES & SUPPORT
 
