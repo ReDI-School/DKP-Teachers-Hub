@@ -1,11 +1,6 @@
----
-metaLinks:
-  alternates:
-    - >-
-      https://app.gitbook.com/s/uejRUS3xfsruSGvRjFWJ/tools-resources-and-support/help
----
+# FAQs
 
-# Help
+
 
 {% content-ref url="/broken/pages/yBP7yF6y0QPEZ9r2aK2L" %}
 [Broken link](/broken/pages/yBP7yF6y0QPEZ9r2aK2L)

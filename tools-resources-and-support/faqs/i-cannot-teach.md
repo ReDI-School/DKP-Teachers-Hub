@@ -1,10 +1,3 @@
----
-metaLinks:
-  alternates:
-    - >-
-      https://app.gitbook.com/s/uejRUS3xfsruSGvRjFWJ/tools-resources-and-support/help/i-cannot-teach
----
-
 # I cannot teach
 
 As part of team planning and management, we kindly ask all teachers to share their availability in advance, both during the[ Planning Session](../../semester-timeline/preparation-phase/planning-session.md) (before the semester begins) and the [Teacher Touchpoint ](../../semester-timeline/teaching-phase/teacher-touchpoints.md)(mid-semester check-in).\

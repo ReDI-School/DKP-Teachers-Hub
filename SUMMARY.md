@@ -1,9 +1,9 @@
 # Table of contents
 
-* [🌟 Welcome](README.md)
+* [🌟 WELCOME](README.md)
   * [About ReDI School](<README (1).md>)
   * [About ReDI Kids Program](welcome/about-redi-kids-program.md)
-* [Semester Timeline](semester-timeline/README.md)
+* [🗓️ Semester Timeline](semester-timeline/README.md)
   * [Recruitment Phase](semester-timeline/recruitment-phase/README.md)
     * [Meet & Greet](semester-timeline/recruitment-phase/meet-and-greet.md)
     * [Teacher Admission](semester-timeline/recruitment-phase/teacher-admission.md)
@@ -31,7 +31,6 @@
 
 ## 🧰 TOOLS; RESOURCES & SUPPORT
 
-* [Community Guidelines](tools-resources-and-support/community-guidelines.md)
 * [Tools & Platforms](tools-resources-and-support/tools-and-platforms/README.md)
   * [Teaching Guidelines](tools-resources-and-support/tools-and-platforms/teaching-guidelines.md)
   * [Course Sheet](tools-resources-and-support/tools-and-platforms/course-sheet.md)
@@ -40,9 +39,25 @@
   * [Attendance Tracker](tools-resources-and-support/tools-and-platforms/attendance-tracker.md)
   * [Google Classroom](tools-resources-and-support/tools-and-platforms/google-classroom.md)
   * [Class Engagement Tools](tools-resources-and-support/tools-and-platforms/class-engagement-tools.md)
-* [Help](tools-resources-and-support/help/README.md)
-  * [I cannot teach](tools-resources-and-support/help/i-cannot-teach.md)
-  * [I am dropping out](tools-resources-and-support/help/i-am-dropping-out.md)
-  * [Volunteer Rights](tools-resources-and-support/help/volunteer-rights.md)
-  * [Get in Touch for Support](tools-resources-and-support/help/get-in-touch-for-support.md)
-  * [INACTIVE: Get in Touch for Support (Course Managers)](tools-resources-and-support/help/inactive-get-in-touch-for-support-course-managers.md)
+* [Community Guidelines](tools-resources-and-support/community-guidelines.md)
+* [FAQs](tools-resources-and-support/faqs/README.md)
+  * [I cannot teach](tools-resources-and-support/faqs/i-cannot-teach.md)
+  * [I am dropping out](tools-resources-and-support/faqs/i-am-dropping-out.md)
+  * [Volunteer Rights](tools-resources-and-support/faqs/volunteer-rights.md)
+  * [Get in Touch for Support](tools-resources-and-support/faqs/get-in-touch-for-support.md)
+  * [INACTIVE: Get in Touch for Support (Course Managers)](tools-resources-and-support/faqs/inactive-get-in-touch-for-support-course-managers.md)
+
+***
+
+* [🥷 NINJAS](ninjas/README.md)
+  * [Overview](ninjas/overview.md)
+  * [Teaching Material](ninjas/teaching-material.md)
+* [🦸 HEROES](heroes.md)
+* [🦸‍♀️ SUPERHEROES](superheroes.md)
+* [👩‍🌾 RANGERS](rangers/README.md)
+  * [🤖 CODING CAMPS](rangers/coding-camps.md)
+* [🤖 CODING CAMPS](coding-camps.md)
+
+## MORE
+
+* [💙 Spread the word!](more/spread-the-word.md)

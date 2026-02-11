@@ -4,7 +4,7 @@ metaLinks:
     - https://app.gitbook.com/s/uejRUS3xfsruSGvRjFWJ/about/semester-timeline
 ---
 
-# Semester Timeline
+# 🗓️ Semester Timeline
 
 **Spring Semester:** January–June | **Fall Semester**: July–December
 

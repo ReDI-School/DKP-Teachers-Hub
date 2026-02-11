@@ -1,10 +1,3 @@
----
-metaLinks:
-  alternates:
-    - >-
-      https://app.gitbook.com/s/uejRUS3xfsruSGvRjFWJ/tools-resources-and-support/help/volunteer-rights
----
-
 # Volunteer Rights
 
 ### **🎖️What's in for you by joining our Mission**

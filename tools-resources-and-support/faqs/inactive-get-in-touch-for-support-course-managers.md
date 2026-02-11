@@ -1,15 +1,16 @@
 ---
-metaLinks:
-  alternates:
-    - >-
-      https://app.gitbook.com/s/uejRUS3xfsruSGvRjFWJ/tools-resources-and-support/help/get-in-touch-for-support
+hidden: true
 ---
 
-# Get in Touch for Support
+# INACTIVE: Get in Touch for Support (Course Managers)
 
+### ReDI DCP Online Course Managers Team
 
+<figure><img src="../../.gitbook/assets/Screenshot 2025-02-11 at 15.01.41.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/Captura de pantalla 2025-06-04 a la(s) 2.36.56 p.m..png" alt=""><figcaption></figcaption></figure>
+This semester, instead of having separate Student and Volunteer Managers following up on students or teachers across different courses, we have **Course Managers**, each overseeing three to four courses on both volunteers and learners side.&#x20;
+
+Course Managers will actively monitor course health and suggest improvements to the program management and tech lead based on the information they collect, in order to enhance the learning and volunteering experience for each course. If you have any questions or feedback, or need support, your Course Manager will be your main point of contact.
 
 ### ReDI DCP Online Safety Officers
 

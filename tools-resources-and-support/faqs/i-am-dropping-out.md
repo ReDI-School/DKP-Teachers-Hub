@@ -1,10 +1,3 @@
----
-metaLinks:
-  alternates:
-    - >-
-      https://app.gitbook.com/s/uejRUS3xfsruSGvRjFWJ/tools-resources-and-support/help/i-am-dropping-out
----
-
 # I am dropping out
 
 ### Drop Out

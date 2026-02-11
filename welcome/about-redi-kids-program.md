@@ -30,4 +30,4 @@ We envision a future where every child has the opportunity to thrive in the digi
 
 <figure><img src="../.gitbook/assets/ReDI Kids Team.png" alt=""><figcaption></figcaption></figure>
 
-<br>
+Explanation of Sunday Class and Coding Camps<br>
