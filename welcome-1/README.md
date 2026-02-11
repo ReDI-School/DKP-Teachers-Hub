@@ -3,7 +3,7 @@ cover: ../.gitbook/assets/ReDI Volinteers.png
 coverY: 0
 ---
 
-# 🌟 Welcome
+# 🌟 Welcome!
 
 ### <mark style="color:orange;">Welcome to the ReDI Digital Kids Program!</mark>
 

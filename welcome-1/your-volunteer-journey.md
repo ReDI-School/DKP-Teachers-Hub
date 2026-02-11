@@ -26,16 +26,6 @@ metaLinks:
 
 # Your Volunteer Journey
 
-### <mark style="color:orange;">Welcome to the ReDI Digital Kids Program!</mark>
-
-Thank you for joining us on this journey! As a volunteer teacher, you play a key role in empowering kids with the digital skills, creativity, and confidence they need to thrive in today’s world.
-
-Our aim is to make your volunteering experience rewarding, fun, and impactful. With your help, we create a safe and inspiring environment where kids can explore coding, experiment with ideas, and learn the power of teamwork and problem-solving.
-
-**We’re excited to have you on board, welcome to the team! ✨**
-
-***
-
 ### **🌟 Why Become a Volunteer Teacher?**
 
 Make a real impact by sharing your tech or design skills while growing your leadership and communication abilities. Connect with a supportive international volunteer network and gain valuable experience — no prior teaching experience needed.&#x20;
@@ -44,10 +34,9 @@ Make a real impact by sharing your tech or design skills while growing your lead
 
 ### **💻 What Courses Can You Teach?**
 
-* **Web Development:** HTML/CSS, JavaScript and Full Stack Web Development Bootcamp
-* **Data:** Python, Data Analytics and AI & Machine Learning
-* **Design:** UX/UI Design Bootcamp
-* **Project Courses:** Full Stack Circle and Data Circle (close-to-closed job simulation courses)
+**The 3-tier system:**
+
+* Ninja's the starting level for the kids. They get introduced to programming and learn the concepts with&#x20;
 
 ***
 
@@ -121,7 +110,7 @@ Already applied? Your next step is to [Broken link](/broken/pages/13EapeDSFQCPmo
 
 ### More info:
 
-* Find out more [About ReDI](../)
+* Find out more [About ReDI](about-redi-school.md)
 * Find out more [About DCP](/broken/pages/UkK8M7zoOLEaLjJhy8Ko)
 * Find out about our [How to Volunteer](your-volunteer-journey.md)
 
