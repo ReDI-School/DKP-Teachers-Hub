@@ -1,10 +1,4 @@
----
-metaLinks:
-  alternates:
-    - https://app.gitbook.com/s/uejRUS3xfsruSGvRjFWJ/about/about-redi-school
----
-
-# About ReDI School
+# About ReDI Kids Program
 
 ### We are **ReDI**
 
@@ -31,9 +25,15 @@ We aim to provide our learners with valuable digital skills, a growth mindset, s
 * <mark style="color:orange;background-color:$warning;">**Reliable:**</mark> Our learners count on us, and we take that seriously. We deliver high-quality learning experiences they can trust.
 * <mark style="color:orange;background-color:$warning;">**Careful:**</mark> We’re “partners in crime” for our community, helping people go further than they ever imagined. By being flexible and supportive, we grow together—students and teachers alike.
 
+{% embed url="https://www.youtube.com/watch?v=Slgk2j_16sY" %}
+
 ### ReDI Community in Numbers
 
-<figure><img src=".gitbook/assets/Screenshot 2025-02-10 at 21.28.30.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2025-02-10 at 21.28.30.png" alt=""><figcaption></figcaption></figure>
+
+***
+
+<h2 align="center"><a href="/broken/pages/0kchzzWzyDzTftgInaI5#volunteer-teacher-recruitment-are-limited-but-more-spots-will-be-reopened-on-thursday-january-8th-at"><mark style="color:orange;background-color:orange;">👋 Book your Meet &#x26; Greet Call!</mark></a></h2>
 
 ***
 
@@ -42,7 +42,7 @@ Thank you for supporting the ReDI students 🧡
 ### More info:
 
 * Find out more [About DCP](/broken/pages/UkK8M7zoOLEaLjJhy8Ko)
-* Find out about our [How to Volunteer](welcome-1/your-volunteer-journey.md)
+* Find out about our [How to Volunteer](../welcome-1/your-volunteer-journey.md)
 
 ### FAQ
 
