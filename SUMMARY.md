@@ -2,7 +2,9 @@
 
 ## 🌟 Welcome
 
-* [Semester Timeline](README.md)
+* [About ReDI School](README.md)
+* [About ReDI Kids Program](welcome/about-redi-kids-program.md)
+* [Semester Timeline](welcome/semester-timeline/README.md)
   * [Recruitment Phase](welcome/semester-timeline/recruitment-phase/README.md)
     * [Meet & Greet](welcome/semester-timeline/recruitment-phase/meet-and-greet.md)
     * [Teacher Admission](welcome/semester-timeline/recruitment-phase/teacher-admission.md)
@@ -47,7 +49,5 @@
 
 ***
 
-* [🌟 Welcome!](welcome-1/README.md)
+* [🌟 Welcome](welcome-1/README.md)
   * [Your Volunteer Journey](welcome-1/your-volunteer-journey.md)
-  * [About ReDI School](welcome-1/about-redi-school.md)
-  * [About ReDI Kids Program](welcome-1/about-redi-kids-program.md)
