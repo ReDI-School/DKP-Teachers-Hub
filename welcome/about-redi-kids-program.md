@@ -1,50 +1,33 @@
 # About ReDI Kids Program
 
-### We are **ReDI**
+## <mark style="color:orange;">Mission and Vision of the ReDI Kids Program</mark>
 
-Founded in 2015, ReDI School of Digital Integration is a non-profit tech school providing migrants and marginalized locals free and equitable access to digital education.&#x20;
+### **Vision**
 
-We offer our learners high-quality coding and basic computer courses in combination with a unique career and mentorship program, which includes the chance to collaborate with tech companies, startups, and digital industry leaders.&#x20;
+We envision a future where every child has the opportunity to thrive in the digital world. Our basic programming course strives to be a catalyst for positive change by providing a platform where children from diverse backgrounds come together, learn, and grow. We aspire to build a supportive community that values collaboration, creativity, and mutual respect, paving the way for a generation of empowered individuals ready to contribute to the global community.&#x20;
 
-We aim to provide our learners with valuable digital skills, a growth mindset, strengthened career skills, and a strong network of tech professionals to help create new opportunities for all.&#x20;
+### **Mission**
 
-### <mark style="background-color:$danger;">**Our Mission**</mark>
+**Digital Autonomy:** Empower kids to gain confidence and autonomy to deal with digital challenges.
 
-<mark style="background-color:$danger;">ReDI School offers education to break down barriers and connect the leaders of tomorrow. We use technology to connect human potential with employment opportunities with dignity and humility.</mark>
+**Creativity & Confidence:** Spark curiosity, confidence, and creative thinking through digital tools.
 
-### <mark style="background-color:blue;">**Our Vision**</mark>
+**Equity in Access:** Provide free, high-quality digital education to marginalized communities in Berlin.
 
-<mark style="background-color:blue;">To provide access to free digital education and create pathways to employment in the tech industry.</mark>
+**Future Career Growth:** Prepare kids with the digital skills they need to succeed in a tech-driven world.
 
-### <mark style="background-color:$danger;">**ReDI Values**</mark>
+### **Overall Goals of the ReDI Kids Program**
 
-<mark style="background-color:$danger;">At ReDI, we follow the four values, which give an orientation on our behaviours and actions, both within the community and within ourselves as a team. Here what the ReDI values mean to us:</mark>
+🎯 Teach programming concepts through fun tools and games.
 
-* <mark style="color:orange;background-color:$warning;">**Useful:**</mark> We focus on creating real impact, not just good intentions. Being useful means helping others grow in ways that truly change their lives.
-* <mark style="color:orange;background-color:$warning;">**Playful:**</mark>  Learning works best when it’s fun. We experiment, try new things, make mistakes together—and build the learning environment we always wished we had.
-* <mark style="color:orange;background-color:$warning;">**Reliable:**</mark> Our learners count on us, and we take that seriously. We deliver high-quality learning experiences they can trust.
-* <mark style="color:orange;background-color:$warning;">**Careful:**</mark> We’re “partners in crime” for our community, helping people go further than they ever imagined. By being flexible and supportive, we grow together—students and teachers alike.
+🎯 Inspire students to bring their ideas to life with digital tools.
 
-{% embed url="https://www.youtube.com/watch?v=Slgk2j_16sY" %}
+🎯 Encourage teamwork, shared projects, and community mindset.
 
-### ReDI Community in Numbers
-
-<figure><img src="../.gitbook/assets/Screenshot 2025-02-10 at 21.28.30.png" alt=""><figcaption></figcaption></figure>
+🎯 Strengthen critical thinking through real-world challenges.
 
 ***
 
-<h2 align="center"><a href="/broken/pages/0kchzzWzyDzTftgInaI5#volunteer-teacher-recruitment-are-limited-but-more-spots-will-be-reopened-on-thursday-january-8th-at"><mark style="color:orange;background-color:orange;">👋 Book your Meet &#x26; Greet Call!</mark></a></h2>
+<figure><img src="../.gitbook/assets/ReDI Kids Team.png" alt=""><figcaption></figcaption></figure>
 
-***
-
-Thank you for supporting the ReDI students 🧡
-
-### More info:
-
-* Find out more [About DCP](/broken/pages/UkK8M7zoOLEaLjJhy8Ko)
-* Find out about our [How to Volunteer](../welcome-1/your-volunteer-journey.md)
-
-### FAQ
-
-* Check out: [I can't teach tonight](/broken/pages/wvc6VmyUFvn9NFRtwtJU), [I am dropping out](/broken/pages/eUzENWHDhDiXk5y8XwYo), [I feel uncomfortable](/broken/pages/yBP7yF6y0QPEZ9r2aK2L).
-* In case you have questions, write an email to [dcp-volunteering@redi-schooll.org](mailto:dcp-volunteering@redi-schooll.org).
+<br>

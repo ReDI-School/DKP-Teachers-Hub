@@ -8,7 +8,7 @@ metaLinks:
 
 **Spring Semester:** January–June | **Fall Semester**: July–December
 
-<figure><img src="../../.gitbook/assets/ReDI School_CoursesTimeline.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/ReDI School_CoursesTimeline.png" alt=""><figcaption></figcaption></figure>
 
 ## 📢 **Recruitment Phase**
 
@@ -249,9 +249,9 @@ Already applied? Your next step is to [Broken link](/broken/pages/13EapeDSFQCPmo
 
 ### More info:
 
-* Find out more [About ReDI](../../)
+* Find out more [About ReDI](<../README (1).md>)
 * Find out more [About DCP](/broken/pages/UkK8M7zoOLEaLjJhy8Ko)
-* Find out about our [How to Volunteer](../../welcome-1/your-volunteer-journey.md)
+* Find out about our [How to Volunteer](/broken/pages/TbIzWjyn7VBNQ0oxHmnV)
 
 ### FAQ
 
