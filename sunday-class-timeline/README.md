@@ -4,56 +4,42 @@ metaLinks:
     - https://app.gitbook.com/s/uejRUS3xfsruSGvRjFWJ/about/semester-timeline
 ---
 
-# 🗓️ Semester Timeline
+# 🗓️ Sunday Class Timeline
 
-**Spring Semester:** January–June | **Fall Semester**: July–December
-
-<figure><img src="../.gitbook/assets/ReDI School_CoursesTimeline.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2026-02-27 at 11.15.32.png" alt=""><figcaption></figcaption></figure>
 
 ## 📢 **Recruitment Phase**
 
 {% stepper %}
 {% step %}
-### Submit your Application
+### Meet & Greet | Introduction to ReDI Kids
+
+This friendly 1:1 interview is part of our volunteer admission process. It helps us understand your experience, motivations, and availability, and gives you space to ask questions. We use it to see if volunteering at the ReDI Kids is a good fit for you.&#x20;
+
+Teaching experience is a plus, but not required. What matters most is your availability, commitment, responsibility to the teaching team, and motivation to keep learning and support students.
+{% endstep %}
+
+{% step %}
+### Fill out the Official Registration
 
 **Your journey as a volunteer teacher has begun!**\
-If you haven’t filled out the [Volunteer Registration Form ](https://redischool.typeform.com/dcp-application)yet, we recommend doing it now. It’s a key step in your application and we need it in order to activate your volunteer role. It also ensures you don’t miss any important information and allows us to prepare everything for your registration. _It will only take about 4 minutes._
+After the Meet\&Greet you will recieve an email with the official [Volunteer Registration Form](https://redischool.typeform.com/dcp-application). If you haven’t filled out the yet, we recommend doing it now. It’s a key step in your application and we need it in order to activate your volunteer role. It also ensures you don’t miss any important information and allows us to prepare everything for your registration. _It will only take about 4 minutes._
 
 {% embed url="https://redischool.typeform.com/dcp-application" %}
 {% endstep %}
 
 {% step %}
-### Meet & Greet
+### Self-Onboarding Process
 
-**Spring Semester:** Jan | **Fall Semester:** Jul
+\[Add]
 
-This friendly 1:1 interview is part of our volunteer admission process. It helps us understand your experience, motivations, and availability, and gives you space to ask questions. We use it to check if your profile aligns with our courses needs for the upcoming semester.
 
-**Before the call, please review:**
-
-* About ReDI, DCP & Volunteer expectations
-* Class formats, schedules & roles of the courses in your preferred track:
-  * [**Full Stack Track**](/broken/pages/kMNZGOpLHrPliiSBFN2O)
-  * [**Data / AI Trrack**](/broken/pages/5yVS94PkIxqSTaVOlHH2)
-  * [**UXUI Design**](/broken/pages/DBhf42Ao7HkCT1L8rV5z)
-* Semester Timeline and key dates
-* Your availability
-
-Teaching experience is a plus, but not required. What matters most is your availability, commitment, responsibility to the teaching team, and motivation to keep learning and support students.
-
-_Interested?_ [_Book your Meet & Greet Call now!_](/broken/pages/0kchzzWzyDzTftgInaI5)
 {% endstep %}
 
 {% step %}
-### Admission
+### Sign your Volunteer Agreement
 
-**Spring Semester Deadline:** Jan–Feb | **Fall Semester Deadline :** Jul–Aug
 
-* We review each profile based on your interests and skills to ensure a good match with the needs of our Teaching Teams.
-* Once your participation is confirmed by both parts, you’ll receive an email with your course assignment and be asked to verify your availability promptly.&#x20;
-* After that, you’ll gain access to our Self-Onboarding process with all the tools and materials you’ll need.
-
-If no spots are available, we’ll contact you for future volunteer opportunities and add you to our _Waiting List._
 {% endstep %}
 {% endstepper %}
 
