@@ -32,7 +32,7 @@ Safety Officers play a crucial role in **protecting the community** and ensuring
 
 **Who to contact:**&#x20;
 
-
+<figure><img src="../.gitbook/assets/ReDI Kids Team (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
