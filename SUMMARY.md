@@ -3,13 +3,14 @@
 * [🌟 WELCOME](README.md)
   * [About ReDI School](<README (1).md>)
   * [About ReDI Kids Program](welcome/about-redi-kids-program.md)
-  * [ReDI Kids Projects](welcome/redi-kids-projects.md)
+  * [ReDI Kids Offers](welcome/redi-kids-offers.md)
 * [🗓️ Sunday Class Timeline](sunday-class-timeline.md)
 * [📜 Child Protection / Kinderschutz](child-protection-kinderschutz.md)
 * [🚀 Self-Onboarding](self-onboarding.md)
 
 ## 🧰 TEACHING JOURNEY
 
+* [💡 Your Volunteer Journey](teaching-journey/your-volunteer-journey.md)
 * [🤖 Teaching Roles](teaching-journey/teaching-roles.md)
 
 ***
@@ -17,8 +18,10 @@
 * [🥷 NINJAS](ninjas/README.md)
   * [Overview](ninjas/overview.md)
   * [Teaching Material](ninjas/teaching-material.md)
-* [🦸 HEROES](heroes.md)
-* [🦸‍♀️ SUPERHEROES](superheroes.md)
+* [🦸 HEROES](heroes/README.md)
+  * [Overview](heroes/overview.md)
+* [🦸‍♀️ SUPERHEROES](superheroes/README.md)
+  * [Overview](superheroes/overview.md)
 * [👩‍🌾 RANGERS](rangers.md)
 * [🤖 CODING CAMPS](coding-camps.md)
 
@@ -40,7 +43,6 @@
   * [I am dropping out](tools-resources-and-support/faqs/i-am-dropping-out.md)
   * [Volunteer Rights](tools-resources-and-support/faqs/volunteer-rights.md)
   * [Get in Touch for Support](tools-resources-and-support/faqs/get-in-touch-for-support.md)
-  * [INACTIVE: Get in Touch for Support (Course Managers)](tools-resources-and-support/faqs/inactive-get-in-touch-for-support-course-managers.md)
 
 ## MORE
 
