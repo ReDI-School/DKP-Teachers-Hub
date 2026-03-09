@@ -1,6 +1,6 @@
 # I cannot teach
 
-As part of team planning and management, we kindly ask all teachers to share their availability in advance, both during the[ Planning Session](../../sunday-class-timeline/preparation-phase/planning-session.md) (before the semester begins) and the [Teacher Touchpoint ](../../sunday-class-timeline/teaching-phase/teacher-touchpoints.md)(mid-semester check-in).\
+As part of team planning and management, we kindly ask all teachers to share their availability in advance, both during the[ Planning Session](/broken/pages/8mZrhhBqkM1mkM1sWT56) (before the semester begins) and the [Teacher Touchpoint ](/broken/pages/9qJKTaEUyMonvGd1Dy80)(mid-semester check-in).\
 This includes signing up for specific teaching sessions and also volunteering as a backup in case of any unexpected changes.
 
 As a member of the teaching team—not just a solo teacher—your communication, commitment, and clarity around availability are incredibly valuable. This helps ensure a smooth and supportive experience for everyone involved: your students, your fellow teachers, and the [ReDI Support Team](/broken/pages/q9wYFqzPpCTBsZPmuH2g)\
