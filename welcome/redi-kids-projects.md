@@ -8,5 +8,10 @@ hidden: true
 
 **Who are our students?**
 
-<table data-view="cards"><thead><tr><th></th></tr></thead><tbody><tr><td></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th></tr></thead><tbody><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr></tbody></table>
 
+### <mark style="color:orange;">Coding Camp</mark>
+
+
+
+### <mark style="color:orange;">One Day Workshops</mark>

@@ -32,7 +32,26 @@ Safety Officers play a crucial role in **protecting the community** and ensuring
 
 **Who to contact:**&#x20;
 
-<figure><img src="../.gitbook/assets/ReDI Kids Team (1).png" alt=""><figcaption></figcaption></figure>
+If you experience any difficult situation or feel uncomfortable for any reason ask for support from the ReDI Team!
+
+Write to your:
+
+* Volunteer Manager
+* Student Manager
+
+They will contact the Safety Officers.
+
+OR write to the Safety Officers directly through this [form](https://redischool.typeform.com/to/FclFZ5jD). Please note that all information is treated as confidential. 💕
+
+**Saftey Officers in Berlin:**&#x20;
+
+<figure><img src="../.gitbook/assets/ReDI Kids Team (2).png" alt=""><figcaption></figcaption></figure>
+
+
+
+
+
+<br>
 
 
 

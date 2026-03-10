@@ -11,5 +11,3 @@ ReDI School’s Code of Conduct ensures a respectful, inclusive, and collaborati
 * **Aim for improvement:** Give constructive feedback and help us grow as a program.
 
 By signing the Volunteer Agreement at the beginning of their teaching experience, volunteers agree to respect the ReDI Code of Conduct during their volunteer experience and interactions with students, other volunteers, as well as with the ReDI team and community.
-
-If you experience any conflict, misunderstanding, discrimination of any kind, or harassment, please never hesitate to get in touch: [tatiana@redi-school.org](mailto:tatiana@redi-school.org) or [lidice@redi-school.org](mailto:lidice@redi-school.org).

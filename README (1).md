@@ -39,7 +39,3 @@ At ReDI, we follow the four values, which give an orientation on our behaviours 
 
 Thank you for supporting the ReDI students 🧡
 
-### FAQ
-
-* Check out: I can't teach tonight, I am dropping out, I feel uncomfortable.
-* In case you have questions, write an email to our Volunteer Coordinator, Tatiana: [tatiana@redi-school.org](mailto:tatiana@redi-schooll.org).

@@ -10,7 +10,7 @@
 
 ## 🧰 TEACHING JOURNEY
 
-* [💡 Your Volunteer Journey](teaching-journey/your-volunteer-journey.md)
+* [🌟 Commitment](teaching-journey/commitment.md)
 * [🤖 Teaching Roles](teaching-journey/teaching-roles.md)
 
 ***
@@ -20,21 +20,19 @@
   * [Teaching Material](ninjas/teaching-material.md)
 * [🦸 HEROES](heroes.md)
   * [Overview](heroes/overview.md)
+  * [Teaching Material](heroes/teaching-material.md)
 * [🦸‍♀️ SUPERHEROES](superheroes.md)
   * [Overview](superheroes/overview.md)
+  * [Teaching Material](superheroes/teaching-material.md)
 * [👩‍🌾 RANGERS](rangers.md)
 * [🤖 CODING CAMPS](coding-camps.md)
 
 ## 🧰 TOOLS; RESOURCES & SUPPORT
 
-* [Tools & Platforms](tools-resources-and-support/tools-and-platforms/README.md)
-  * [Teaching Guidelines](tools-resources-and-support/tools-and-platforms/teaching-guidelines.md)
-  * [Course Sheet](tools-resources-and-support/tools-and-platforms/course-sheet.md)
-  * [Slack](tools-resources-and-support/tools-and-platforms/slack.md)
-  * [Zoom](tools-resources-and-support/tools-and-platforms/zoom.md)
-  * [Attendance Tracker](tools-resources-and-support/tools-and-platforms/attendance-tracker.md)
-  * [Google Classroom](tools-resources-and-support/tools-and-platforms/google-classroom.md)
-  * [Class Engagement Tools](tools-resources-and-support/tools-and-platforms/class-engagement-tools.md)
+* [Organizational Spreadsheet](tools-resources-and-support/organizational-spreadsheet.md)
+* [Slack](tools-resources-and-support/slack.md)
+* [Kahoot](tools-resources-and-support/kahoot.md)
+* [Icebreakers](tools-resources-and-support/icebreakers.md)
 * [Code of Conduct](tools-resources-and-support/code-of-conduct.md)
 * [Conflict Resolution](tools-resources-and-support/conflict-resolution.md)
 * [ReDI DEI Statement](tools-resources-and-support/redi-dei-statement.md)

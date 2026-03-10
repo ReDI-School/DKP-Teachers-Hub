@@ -1,21 +1,16 @@
 # Overview
 
-### Ninjas Goals
+### 🦸🏽‍♀️ Superheroes Goals
 
-**Basic Computer Use:** Use the mouse, keyboard, passwords, and the internet confidently.
-
-🧩 Core Programming Concepts: Understand loops, conditions, and variables.
-
-🧠 Computer Literacy: Solid foundation in computer skills, essential computer parts & terminology.
-
-🛠 Independent Project Building: Complete a mini project i.e. Rock-Paper-Scissors or sensor app.
-
-🛡️Digital Problem-Solving: Build resilience & autonomy to tackle digital challenges.
-
-🤗 Community & Values: Feel part of ReDI, understand inclusion and teamwork.
+* <mark style="color:orange;">**Creative Problem Solving:**</mark> Strengthen critical thinking through problem-solving.
+* <mark style="color:blue;">**Deepen Programming Concepts:**</mark> Deepen understanding of loops, conditions, variables, and events.
+* <mark style="color:orange;">**Python Project Development:**</mark> Complete multiple interactive projects using Python.
+* <mark style="color:blue;">**Confidence in Coding:**</mark> Feel empowered to continue learning Python after ReDI.
+* <mark style="color:orange;">**Python Libraries Exploration:**</mark> Get familiar with tools like Turtle, time, and random to expand creativity.
+* <mark style="color:blue;">**Community & Values:**</mark> Feel part of ReDI, understand inclusion and teamwork.<br>
 
 ### Content Roadmap
 
-The Content Roadmap is a living document with goals and sub-goals for each session, helping us keep the big picture clear.
+The Content Roadmap is a living document with **goals** **and** **sub-goals** **for each session**, helping us keep the big picture clear.
 
-{% embed url="https://docs.google.com/presentation/d/1ZezyA84wK0odC_eUToOz-lFb-kIf3VIWd97kVHRP73g/edit" %}
+{% embed url="https://docs.google.com/presentation/u/3/d/1jDa-0YWcAqO4kCHixUtv3BK1l7jx3FJVP3AnJp4y07I/edit?slide=id.p#slide=id.p" %}
