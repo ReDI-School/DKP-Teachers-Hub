@@ -11,6 +11,4 @@
 
 ### Content Roadmap
 
-The Content Roadmap is a living document with **goals** **and** **sub-goals** **for each session**, helping us keep the big picture clear.
-
-{% embed url="https://docs.google.com/presentation/u/3/d/1jDa-0YWcAqO4kCHixUtv3BK1l7jx3FJVP3AnJp4y07I/edit?slide=id.p#slide=id.p" %}
+The Content Roadmap is a living document with **goals** **and** **sub-goals** **for each session**, helping us keep the big picture clear. We're currently working in updating the Content Roadmap for Superheroes, and will be shared with you shortly. 😉

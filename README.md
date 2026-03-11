@@ -11,11 +11,12 @@ This site is designed as a practical guide to help you get started smoothly. You
 * The structure of Sunday classes
 * Your role in the teaching team
 * The time commitment and preparation needed
-* The support you can always count on\
-  <br>
+* The support you can always count on
 
 Our aim is to make your volunteering experience rewarding, fun, and impactful. With your help, we create a safe and inspiring environment where kids can explore coding, experiment with ideas, and learn the power of teamwork and problem-solving.
 
 We’re excited to have you on board, welcome to the team!
+
+The **estimated time** reading this site is **45 min**.&#x20;
 
 <br>
