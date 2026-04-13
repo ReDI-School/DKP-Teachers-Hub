@@ -23,9 +23,9 @@ Teaching experience is a plus, but not required. What matters most is your avail
 ### Fill out the Official Registration
 
 **Your journey as a volunteer teacher has begun!**\
-After the Meet\&Greet, you will receive an email with the official [Volunteer Registration Form](https://redischool.typeform.com/dcp-application). If you haven’t filled out the yet, we recommend doing it now. It’s a key step in your application and we need it in order to activate your volunteer role. It also ensures you don’t miss any important information and allows us to prepare everything for your registration. _It will only take about 4 minutes._
+After the Meet\&Greet, you will receive an email with the official [Volunteer Registration Form](https://redischool.typeform.com/to/Rh365JG4?typeform-source=www.google.com). If you haven’t filled out the yet, we recommend doing it now. It’s a key step in your application and we need it in order to activate your volunteer role. It also ensures you don’t miss any important information and allows us to prepare everything for your registration. _It will take about 7 minutes._
 
-{% embed url="https://redischool.typeform.com/dcp-application" %}
+{% embed url="https://redischool.typeform.com/to/Rh365JG4?typeform-source=www.google.com" %}
 {% endstep %}
 
 {% step %}
