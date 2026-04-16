@@ -43,10 +43,6 @@ They will contact the Safety Officers.
 
 OR write to the Safety Officers directly through this [form](https://redischool.typeform.com/to/FclFZ5jD). Please note that all information is treated as confidential. 💕
 
-**Saftey Officers in Berlin:**&#x20;
-
-<figure><img src="../.gitbook/assets/ReDI Kids Team (2).png" alt=""><figcaption></figcaption></figure>
-
 
 
 
