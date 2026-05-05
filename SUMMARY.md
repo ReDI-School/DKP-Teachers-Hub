@@ -4,9 +4,9 @@
   * [About ReDI School](<README (1).md>)
   * [About ReDI Kids Program](welcome/about-redi-kids-program.md)
   * [ReDI Kids Offers](welcome/redi-kids-projects.md)
+* [🚀 Self-Onboarding](self-onboarding.md)
 * [🗓️ Sunday Class Timeline](sunday-class-timeline.md)
 * [📜 Child Protection / Kinderschutz](child-protection-kinderschutz.md)
-* [🚀 Self-Onboarding](self-onboarding.md)
 
 ## 🧰 TEACHING JOURNEY
 
