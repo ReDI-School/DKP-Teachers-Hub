@@ -874,23 +874,49 @@ a.add_frame(m, 800)
 
 <details>
 
-<summary><mark style="color:$danger;"><strong>Week 9:</strong></mark> 🎉 Demo Day!</summary>
+<summary><mark style="color:$danger;"><strong>Week 9:</strong></mark> 🎉 Demo-Tag · Demo Day!</summary>
+
+<mark style="color:$info;">Du hast es geschafft! Zeit, deinen imagiCharm zu tragen, die Bühne zu betreten und der Welt zu zeigen, was du mit Python gebaut hast!</mark>
 
 <mark style="color:$info;">You've done it! Time to wear your imagiCharm, take the stage, and show the world what you built with Python!</mark>
 
-**Welcome!**
+**Willkommen! ·** **Welcome!**
+
+<mark style="color:$info;">🇩🇪 Deutsch</mark>
+
+Die Lehrerin teilt Highlights aus der 9-wöchigen Reise mit dem Publikum.
+
+<mark style="color:$info;">🇬🇧 English</mark>
 
 Teacher shares highlights from the 9-week journey with the audience.
 
-**Present!**
+**Präsentieren! · Present!**
+
+<mark style="color:$info;">🇩🇪 Deutsch</mark>
+
+Jede Schülerin zeigt ihr imagiCharm-Projekt und erklärt einen Code, auf den sie stolz ist.
+
+<mark style="color:$info;">🇬🇧 English</mark>
 
 Each student shows their imagiCharm project and explains one piece of code they're proud of.
 
-**Gallery Walk!**
+**Galerie-Rundgang! · Gallery Walk!**
+
+<mark style="color:$info;">🇩🇪 Deutsch</mark>
+
+Schülerinnen tragen ihre imagiCharms und unterhalten sich mit Eltern und dem ReDI-Team.
+
+<mark style="color:$info;">🇬🇧 English</mark>
 
 Students wear their imagiCharms and mingle with parents and the ReDI team.
 
-**Celebrate!**
+**Feiern! · Celebrate!**
+
+<mark style="color:$info;">🇩🇪 Deutsch</mark>
+
+Zertifikate werden vergeben. Gruppenfoto. Du bist jetzt offiziell eine Python-Programmiererin!
+
+<mark style="color:$info;">🇬🇧 English</mark>
 
 Certificates awarded. Group photo. You are officially a Python coder!
 
