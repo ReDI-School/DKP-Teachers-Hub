@@ -22,7 +22,7 @@
   * [Overview](heroes/overview.md)
   * [Teaching Material](heroes/teaching-material.md)
 * [🦸‍♀️ SUPERHEROES](superheroes.md)
-  * [Overview](superheroes/overview.md)
+  * [Content Roadmap](superheroes/content-roadmap.md)
   * [Teaching Material](superheroes/teaching-material.md)
 * [👩‍🌾 RANGERS](rangers.md)
 * [🤖 CODING CAMPS](coding-camps.md)
