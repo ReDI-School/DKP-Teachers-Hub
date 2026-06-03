@@ -6,9 +6,17 @@ The Content Roadmap is a living document with **goals** **and** **sub-goals** **
 
 <summary><mark style="color:red;"><strong>Week 1:</strong></mark> 💡 Hallo, imagiCharm! · Hello, imagiCharm!</summary>
 
-<mark style="color:$info;">🎯 Am Ende dieser Stunde kannst du deinen imagiCharm einschalten, die App öffnen und dein erstes Pixel zum Leuchten bringen!</mark>
+#### <mark style="color:$info;">🎯</mark> Ziele · Goals
 
-<mark style="color:$info;">🎯 By the end of this session you can turn on your imagiCharm, open the app, and light up your first pixel!</mark>
+&#x20;🇩🇪 <mark style="color:$info;">Deutsch</mark>
+
+<mark style="color:$info;">Am Ende dieser Stunde kannst du deinen imagiCharm einschalten, die App öffnen und dein erstes Pixel zum Leuchten bringen!</mark>
+
+🇬🇧 <mark style="color:$info;">English</mark>
+
+<mark style="color:$info;">By the end of this session you can turn on your imagiCharm, open the app, and light up your first pixel!</mark>
+
+***
 
 **🔥 Aufwärmen — Compute-it · Warm-Up — Compute-it**
 
@@ -25,6 +33,8 @@ The Content Roadmap is a living document with **goals** **and** **sub-goals** **
 * Follow the arrows and trace what the computer does step by step.
 * Ask: 'What does a computer actually DO?' — it follows instructions one at a time!
 * This is exactly what Python does — it reads your code line by line, top to bottom.
+
+***
 
 **📖 Theorie — Was ist Python & imagiCharm? · Theory — What is Python & imagiCharm?**
 
@@ -59,6 +69,8 @@ m[7][0] = B
 m[0][0] = (255, 100, 0)   # orange
 ```
 
+***
+
 **💻 Übung — Pixel-Kunst · Exercise — Pixel Art**
 
 <mark style="color:$info;">🇩🇪 Deutsch</mark>
@@ -77,6 +89,8 @@ m[0][0] = (255, 100, 0)   # orange
 * Tip: Sketch your design on graph paper first — draw an 8×8 grid and colour the squares you want to light up.
 * Challenge: Can you make a heart shape? (Hint: it takes about 10 pixels!)
 
+***
+
 **🎨 Freies Erstellen — Mein erstes Pixel-Kunstwerk · Free Create — My First Pixel Art**
 
 🇩🇪 <mark style="color:$info;">Deutsch</mark>
@@ -91,6 +105,8 @@ m[0][0] = (255, 100, 0)   # orange
 * When done, hold up your imagiCharm and show the class — everyone shares what they made!
 * Teacher tip: The most common error is a typo in the variable name. R, G, B must be CAPITAL letters.
 
+***
+
 **💾 Speichern & Reflexion · Save & Reflection**
 
 🇩🇪 <mark style="color:$info;">Deutsch</mark>
@@ -102,6 +118,8 @@ m[0][0] = (255, 100, 0)   # orange
 
 * Save your code in the app with your name.
 * Quick round: each student says ONE thing they learned today in one sentence.
+
+***
 
 **🎮 Kahoot — Zeit zum Spielen! · Kahoot — Game Time!**
 
@@ -117,17 +135,23 @@ m[0][0] = (255, 100, 0)   # orange
 * 10 questions about today — pixels, colours, Python basics!
 * Top 3 winners get a round of applause 👏
 
-<br>
-
 </details>
 
 <details>
 
 <summary><mark style="color:orange;"><strong>Week 2:</strong></mark> 🌈 Jede Farbe mischen · Mix Any Colour!</summary>
 
-<mark style="color:$info;">🎯 Du lernst, was Variablen sind und wie du jede Farbe mit RGB-Werten mischen kannst.</mark>
+#### <mark style="color:$info;">🎯</mark> Ziele · Goals
 
-<mark style="color:$info;">🎯 You'll learn what variables are and how to mix any colour using RGB values.</mark>
+<mark style="color:$info;">🇩🇪 Deutsch</mark>
+
+<mark style="color:$info;">Du lernst, was Variablen sind und wie du jede Farbe mit RGB-Werten mischen kannst.</mark>
+
+<mark style="color:$info;">🇬🇧 English</mark>
+
+<mark style="color:$info;">You'll learn what variables are and how to mix any colour using RGB values.</mark>
+
+***
 
 **🔥 Aufwärmen — Compute-it Level 2 · Warm-Up — Compute-it Level 2**
 
@@ -142,6 +166,8 @@ m[0][0] = (255, 100, 0)   # orange
 * Open compute-it.toxicode.fr — play Level 2 as a class.
 * Focus: the computer remembers values in 'boxes' (variables). Watch how the value in the box changes.
 * Ask: 'If the box starts with 5 and we add 3, what's inside now?' → This is exactly what a variable does!
+
+***
 
 **📖 Theorie — Variablen & RGB · Theory — Variables & RGB**
 
@@ -186,6 +212,8 @@ m[2][2] = G    # green
 m[3][0] = O    # orange
 ```
 
+***
+
 **💻 Übung — Meine Farbpalette · Exercise — My Colour Palette**
 
 🇩🇪 <mark style="color:$info;">Deutsch</mark>
@@ -204,6 +232,8 @@ m[3][0] = O    # orange
 * Colour challenge: Can you make PINK? Try (255, 20, 147).
 * Can you make ORANGE? Try (255, 165, 0).
 
+***
+
 **🎨 Projekt — Mein Pixel-Charakter · Project — My Pixel Character**
 
 <mark style="color:$info;">🇩🇪 Deutsch</mark>
@@ -217,6 +247,8 @@ m[3][0] = O    # orange
 * Design a pixel character using your custom colours! It could be a robot, alien, animal, or superhero.
 * Requirements: use at least 3 different colour variables, light up at least 10 pixels.
 * Name your character and show it to a partner — can they guess what it is?
+
+***
 
 **🎮 Kahoot — Farben & Variablen · Kahoot — Colours & Variables**
 
@@ -234,9 +266,13 @@ m[3][0] = O    # orange
 
 <summary><mark style="color:yellow;"><strong>Week 3:</strong></mark> 🔄 Hör auf, dich zu wiederholen! · Stop Repeating Yourself!</summary>
 
-<mark style="color:$info;">🎯 Du lernst, wie for-Schleifen dir helfen, viele Pixel mit wenigen Zeilen Code zu beleuchten.</mark>
+#### <mark style="color:$info;">🎯</mark> Ziele · Goals
 
-<mark style="color:$info;">🎯 You'll learn how for loops help you light up many pixels with just a few lines of code.</mark>
+<mark style="color:$info;">Du lernst, wie for-Schleifen dir helfen, viele Pixel mit wenigen Zeilen Code zu beleuchten.</mark>
+
+<mark style="color:$info;">You'll learn how for loops help you light up many pixels with just a few lines of code.</mark>
+
+***
 
 **🔥 Aufwärmen — Compute-it Level 3 · Warm-Up — Compute-it Level 3**
 
@@ -251,6 +287,8 @@ m[3][0] = O    # orange
 * Play Compute-it Level 3 — this level introduces LOOPS: doing the same thing multiple times.
 * Count together: how many times does the loop run? What changes each time?
 * Real-world loops: clapping 5 times, counting to 10, washing each dish — same action, repeated!
+
+***
 
 **📖 Theorie — For-Schleifen · Theory — For Loops**
 
@@ -291,6 +329,8 @@ for x in range(8):
         m[x][y] = my_colour
 ```
 
+***
+
 **💻 Übung — Streifen & Muster · Exercise — Stripes & Patterns**
 
 <mark style="color:$info;">🇩🇪 Deutsch</mark>
@@ -307,6 +347,8 @@ for x in range(8):
 * Exercise 3 (10 min): Use nested loops to fill the ENTIRE grid with one colour. Then change the colour — only 1 line to edit!
 * Bonus: Light up rows 0, 2, 4, 6 in R and rows 1, 3, 5, 7 in B to make horizontal stripes.
 
+***
+
 **🎨 Projekt — Streifen & Leitern · Project — Stripes & Ladders**
 
 <mark style="color:$info;">🇩🇪 Deutsch</mark>
@@ -320,6 +362,8 @@ for x in range(8):
 * Create a striped or checkered pattern using ONLY for loops — no individual m\[x]\[y] lines allowed!
 * Ideas: rainbow stripes (each row a different colour), diagonal pattern, border frame.
 * Share your pattern: can your neighbour recreate it just by looking at your imagiCharm?
+
+***
 
 **🎮 Kahoot — Schleifen-Quiz · Kahoot — Loops Quiz**
 
@@ -337,9 +381,13 @@ for x in range(8):
 
 <summary><mark style="color:blue;"><strong>Week 4:</strong></mark> 🎬 Bring es zum Bewegen! · Make It Move!</summary>
 
-<mark style="color:$info;">🎯 Du erstellst deine erste Animation auf dem imagiCharm — mehrere Frames, die wie ein Daumenkino ablaufen!</mark>
+#### <mark style="color:$info;">🎯</mark> Ziele · Goals
 
-<mark style="color:$info;">🎯 You'll create your first animation on the imagiCharm — multiple frames playing like a flip book!</mark>
+<mark style="color:$info;">Du erstellst deine erste Animation auf dem imagiCharm — mehrere Frames, die wie ein Daumenkino ablaufen!</mark>
+
+<mark style="color:$info;">You'll create your first animation on the imagiCharm — multiple frames playing like a flip book!</mark>
+
+***
 
 **🔥 Aufwärmen — Compute-it Level 4 · Warm-Up — Compute-it Level 4**
 
@@ -354,6 +402,8 @@ for x in range(8):
 * Play Compute-it Level 4 — this level shows SEQUENCES: steps that happen one after another.
 * Flip-book demo: quickly flip through a small flip-book (or show a GIF) — ask 'what makes this look like it's moving?'
 * Answer: many still images shown very fast! That's exactly how animation works in code.
+
+***
 
 **📖 Theorie — Animation & Frames · Theory — Animation & Frames**
 
@@ -395,6 +445,8 @@ m[7][3] = Y
 a.add_frame(m, 400)
 ```
 
+***
+
 **💻 Übung — Meine erste Animation · Exercise — My First Animation**
 
 🇩🇪 <mark style="color:$info;">Deutsch</mark>
@@ -410,6 +462,8 @@ a.add_frame(m, 400)
 * Exercise 2 (10 min): Add 2 more frames to make the dot travel back from right to left.
 * Exercise 3 (10 min): Change the colour of the dot in each frame — make it cycle through R, G, B, Y!
 * Tip: Always turn off (= K) the previous dot before drawing the new position.
+
+***
 
 **🎨 Projekt — Schlagendes Herz · Project — Beating Heart**
 
@@ -427,6 +481,8 @@ a.add_frame(m, 400)
 * Set duration to 300ms for a realistic heartbeat.
 * Wear your imagiCharm and show your beating heart to the class!
 
+***
+
 **🎮 Kahoot — Animation-Quiz · Kahoot — Animation Quiz**
 
 <mark style="color:$info;">🇩🇪 Deutsch</mark>
@@ -443,9 +499,13 @@ a.add_frame(m, 400)
 
 <summary><mark style="color:$success;"><strong>Week 5:</strong></mark> 🧠 Code der denkt! · Code That Thinks!</summary>
 
-🎯 <mark style="color:$info;">Du lernst, wie dein Code Entscheidungen treffen kann — mit if, elif und else.</mark>
+#### <mark style="color:$info;">🎯</mark> Ziele · Goals
 
-<mark style="color:$info;">🎯 You'll learn how your code can make decisions — using if, elif, and else.</mark>
+<mark style="color:$info;">Du lernst, wie dein Code Entscheidungen treffen kann — mit if, elif und else.</mark>
+
+<mark style="color:$info;">You'll learn how your code can make decisions — using if, elif, and else.</mark>
+
+***
 
 **🔥 Aufwärmen — Compute-it Level 5 · Warm-Up — Compute-it Level 5**
 
@@ -460,6 +520,8 @@ a.add_frame(m, 400)
 * Play Compute-it Level 5 — this level introduces CONDITIONS (if/else decisions).
 * Real-life if/else: 'IF it's raining, take an umbrella. ELSE, wear sunglasses.'
 * Ask students: give 3 real-life examples of if/else decisions they make every day.
+
+***
 
 📖 **Theorie — If/Else & Modulo · Theory — If/Else & Modulo**
 
@@ -503,6 +565,8 @@ for x in range(8):
             m[x][y] = B
 ```
 
+***
+
 **💻 Übung — Bedingungen in Aktion · Exercise — Conditions in Action**
 
 🇩🇪 <mark style="color:$info;">Deutsch</mark>
@@ -516,6 +580,8 @@ for x in range(8):
 * Exercise 1 (10 min): Type the checkerboard code and run it. Change R and B to your own colours!
 * Exercise 2 (10 min): Modify the condition — try (x + y) % 3 == 0. What pattern does it make?
 * Exercise 3 (10 min): Use elif to make a 3-colour stripe pattern using x % 3.
+
+***
 
 🎨 **Projekt — Magisches Schachbrett · Project — Magic Checkerboard**
 
@@ -533,6 +599,8 @@ for x in range(8):
 * Super challenge: make a DIAGONAL stripe pattern (hint: use x == y or x + y conditions).
 * Show your pattern — can anyone guess the condition you used?
 
+***
+
 🎮 **Kahoot — Bedingungen-Quiz · Kahoot — Conditionals Quiz**
 
 🇩🇪 <mark style="color:$info;">Deutsch</mark>
@@ -549,9 +617,13 @@ for x in range(8):
 
 <summary><mark style="color:violet;"><strong>Week 6:</strong></mark> 🎲 Füge Überraschungen hinzu! · Add Some Surprise!</summary>
 
-<mark style="color:$info;">🎯 Du lernst, wie du das random-Modul importierst und damit Kunst erstellst, die jedes Mal anders aussieht.</mark>
+#### <mark style="color:$info;">🎯</mark> Ziele · Goals
 
-<mark style="color:$info;">🎯 You'll learn how to import the random module and use it to create art that looks different every time.</mark>
+<mark style="color:$info;">Du lernst, wie du das random-Modul importierst und damit Kunst erstellst, die jedes Mal anders aussieht.</mark>
+
+<mark style="color:$info;">You'll learn how to import the random module and use it to create art that looks different every time.</mark>
+
+***
 
 **🔥 Aufwärmen — Compute-it Level 6 · Warm-Up — Compute-it Level 6**
 
@@ -566,6 +638,8 @@ for x in range(8):
 * Play Compute-it Level 6 — this level introduces RANDOMNESS.
 * Dice game: roll a real die. Ask: 'Can you predict what number comes next?' → No! That's randomness.
 * Where is randomness useful in code? Games, art, simulations, security!
+
+***
 
 **📖 Theorie — Module & random · Theory — Modules & random**
 
@@ -608,6 +682,8 @@ if random.randint(0, 10) > 7:
     m[x][y] = W            # sparse white star
 ```
 
+***
+
 **💻 Übung — Zufällige Kunst · Exercise — Random Art**
 
 🇩🇪 <mark style="color:$info;">Deutsch</mark>
@@ -621,6 +697,8 @@ if random.randint(0, 10) > 7:
 * Exercise 1 (10 min): Run the random colour code above. Run it 3 times — different each time!
 * Exercise 2 (10 min): Make a 'random stars' effect: clear the grid to K first, then light up pixels only when random.randint(0, 10) > 7.
 * Exercise 3 (10 min): Pick random positions for 5 yellow stars: rx = random.randint(0,7), ry = random.randint(0,7), m\[rx]\[ry] = Y
+
+***
 
 **🎨 Projekt — Funkelnde Sterne · Project — Sparkling Stars**
 
@@ -640,6 +718,8 @@ if random.randint(0, 10) > 7:
 * The stars will twinkle — different positions each frame!
 * Optional: use a random colour for each star.
 
+***
+
 **🎮 Kahoot — Module & Zufall · Kahoot — Modules & Randomness**
 
 🇩🇪 <mark style="color:$info;">Deutsch</mark>
@@ -656,9 +736,13 @@ if random.randint(0, 10) > 7:
 
 <summary><mark style="color:pink;"><strong>Week 7:</strong></mark> 🧩 Baue deine eigenen Werkzeuge! · Build Your Own Tools!</summary>
 
-<mark style="color:$info;">🎯 Du lernst, eigene Funktionen zu schreiben — wiederverwendbare Code-Bausteine wie LEGO-Steine.</mark>
+#### <mark style="color:$info;">🎯</mark> Ziele · Goals
 
-<mark style="color:$info;">🎯 You'll learn to write your own functions — reusable code building blocks like LEGO bricks.</mark>
+<mark style="color:$info;">Du lernst, eigene Funktionen zu schreiben — wiederverwendbare Code-Bausteine wie LEGO-Steine.</mark>
+
+<mark style="color:$info;">You'll learn to write your own functions — reusable code building blocks like LEGO bricks.</mark>
+
+***
 
 **🔥 Aufwärmen — Compute-it Level 7 · Warm-Up — Compute-it Level 7**
 
@@ -673,6 +757,8 @@ if random.randint(0, 10) > 7:
 * Play Compute-it Level 7 — this level shows FUNCTIONS: named blocks of instructions.
 * LEGO analogy: a function is like a LEGO brick. You design it once, then snap it in wherever you need it!
 * Real-world functions: a recipe is a function! 'make\_cake()' — you call it and it does all the steps.
+
+***
 
 **📖 Theorie — Funktionen definieren & aufrufen · Theory — Defining & Calling Functions**
 
@@ -717,6 +803,8 @@ fill_row(0, G)
 fill_row(7, O)
 ```
 
+***
+
 **💻 Übung — Eigene Funktionen · Exercise — Your Own Functions**
 
 <mark style="color:$info;">🇩🇪 Deutsch</mark>
@@ -730,6 +818,8 @@ fill_row(7, O)
 * Exercise 1 (10 min): Write a function draw\_dot(x, y, colour) that lights up one pixel. Call it 5 times with different positions and colours.
 * Exercise 2 (10 min): Write a function fill\_row(y, colour) that lights up an entire row. Call it for rows 0, 3, and 7.
 * Exercise 3 (10 min): Write a function fill\_box(x1, y1, x2, y2, colour) that fills a rectangular area. Use nested loops inside the function!
+
+***
 
 **🎨 Projekt — Form-Generator · Project — Shape Generator**
 
@@ -747,6 +837,8 @@ fill_row(7, O)
 * Challenge: add a colour parameter to every function so you can change colours easily.
 * Super challenge: make an animated version that cycles through your shapes using Animation()!
 
+***
+
 **🎮 Kahoot — Funktionen-Quiz · Kahoot — Functions Quiz**
 
 <mark style="color:$info;">🇩🇪 Deutsch</mark>
@@ -763,9 +855,13 @@ fill_row(7, O)
 
 <summary><mark style="color:purple;"><strong>Week 8:</strong></mark> ✨ Baue dein Demo-Tag-Projekt! · Build Your Demo Day Project!</summary>
 
-<mark style="color:$info;">🎯 Du kombinierst alle gelernten Fähigkeiten, um dein persönliches Demo-Tag-Projekt zu erstellen und es vor Publikum zu präsentieren.</mark>
+#### <mark style="color:$info;">🎯</mark> Ziele · Goals
 
-<mark style="color:$info;">🎯 You combine all your skills to create your personal Demo Day project and rehearse presenting it to an audience.</mark>
+<mark style="color:$info;">Du kombinierst alle gelernten Fähigkeiten, um dein persönliches Demo-Tag-Projekt zu erstellen und es vor Publikum zu präsentieren.</mark>
+
+<mark style="color:$info;">You combine all your skills to create your personal Demo Day project and rehearse presenting it to an audience.</mark>
+
+***
 
 **🔥 Aufwärmen — Compute-it Level 8 + Rückblick · Warm-Up — Compute-it Level 8 + Review**
 
@@ -780,6 +876,8 @@ fill_row(7, O)
 * Play Compute-it Level 8 — the final level! Celebrate completing the whole game.
 * Quick skills review: go around the room — each student names ONE Python concept they remember.
 * Skills checklist on the board: Variables ✓ Loops ✓ Animation ✓ If/Else ✓ Random ✓ Functions ✓
+
+***
 
 **📖 Projektplanung — Dein Demo-Tag-Projekt · Project Planning — Your Demo Day Project**
 
@@ -829,6 +927,8 @@ a = Animation()
 a.add_frame(m, 800)
 ```
 
+***
+
 **💻 Build Studio — Dein Meisterwerk · Build Studio — Your Masterpiece**
 
 <mark style="color:$info;">🇩🇪 Deutsch</mark>
@@ -848,6 +948,8 @@ a.add_frame(m, 800)
 * At 40 min: start polishing — fix bugs, adjust colours, add animation timing.
 * At 50 min: rehearse your 60-second presentation with a partner.
 * Remember: it doesn't have to be perfect — it has to be YOURS!
+
+***
 
 **🎮 Kahoot — Großes Abschluss-Quiz! · Kahoot — Grand Final Quiz!**
 
@@ -869,6 +971,8 @@ a.add_frame(m, 800)
 
 <mark style="color:$info;">You've done it! Time to wear your imagiCharm, take the stage, and show the world what you built with Python!</mark>
 
+***
+
 **Willkommen! ·** **Welcome!**
 
 <mark style="color:$info;">🇩🇪 Deutsch</mark>
@@ -878,6 +982,8 @@ Die Lehrerin teilt Highlights aus der 9-wöchigen Reise mit dem Publikum.
 <mark style="color:$info;">🇬🇧 English</mark>
 
 Teacher shares highlights from the 9-week journey with the audience.
+
+***
 
 **Präsentieren! · Present!**
 
@@ -889,6 +995,8 @@ Jede Schülerin zeigt ihr imagiCharm-Projekt und erklärt einen Code, auf den si
 
 Each student shows their imagiCharm project and explains one piece of code they're proud of.
 
+***
+
 **Galerie-Rundgang! · Gallery Walk!**
 
 <mark style="color:$info;">🇩🇪 Deutsch</mark>
@@ -898,6 +1006,8 @@ Schülerinnen tragen ihre imagiCharms und unterhalten sich mit Eltern und dem Re
 <mark style="color:$info;">🇬🇧 English</mark>
 
 Students wear their imagiCharms and mingle with parents and the ReDI team.
+
+***
 
 **Feiern! · Celebrate!**
 
