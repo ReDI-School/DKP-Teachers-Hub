@@ -66,13 +66,18 @@ Kahoot Master 🏆: Prepares the Kahoot quiz game
 
 ### <mark style="color:orange;">**Coding Camp**</mark>
 
+#### Overview
 
+* 3 hour workshops
+* Over school holidays (Winter, Spring, Summer, Fall)
+* Covers different topics
+  * AI, Lego, Minecraft, Ozobot, etc.
 
 ### <mark style="color:orange;">**One Day Workshops**</mark>
 
 #### Overview
 
-* One-time workshops over school holidays (Winter, Spring, Summer, Fall)
+* One-time workshops throughout the year
 * Commitment to one 3 hour session
-* 3D printing & AI literacy
-* German and English
+* 3D printing, Future.me
+* Taught in German and English
