@@ -40,9 +40,21 @@ Do you enjoy working with children and introducing them to the digital world? Th
 
 **Social Events:** Teacher Social Events 🍻
 
+#### ⏰ Class Format
 
+* Volunteers arrive at 11:30 & leave at 14:30
+* Students arrive at 12:00
+* Total class duration: 2,5 hrs
 
+#### 📝 Class Roles:
 
+Icebreaker ❄️: Prepares the warm ups and energizer games in class
+
+Presenter 📚: Presents the slides and content
+
+Exerciser 💻: Prepares exercises according to the slides
+
+Kahoot Master 🏆: Prepares the Kahoot quiz game
 
 ### <mark style="color:orange;">Coding Camp</mark>
 
