@@ -10,6 +10,14 @@ At ReDI Digital Kids, we are looking for dedicated volunteers to help us get chi
 
 Our courses are free of charge—and that's only possible thanks to our volunteers.
 
+As a volunteer teacher at ReDI, you:
+
+* Can ask us for a recommendation letter
+* Are insured while working here
+* Always have the right to feel safe, supported, and receive respect for your work
+* Can amend and negotiate class rules with the students
+* Will be supported with whatever you need (students falling behind, content ideas, technical issues, you name it!)
+
 Do you enjoy working with children and introducing them to the digital world? Then you've come to the right place!
 
 ### <mark style="color:orange;">**Sunday Class**</mark>
@@ -56,8 +64,15 @@ Exerciser 💻: Prepares exercises according to the slides
 
 Kahoot Master 🏆: Prepares the Kahoot quiz game
 
-### <mark style="color:orange;">Coding Camp</mark>
+### <mark style="color:orange;">**Coding Camp**</mark>
 
 
 
-### <mark style="color:orange;">One Day Workshops</mark>
+### <mark style="color:orange;">**One Day Workshops**</mark>
+
+#### Overview
+
+* One-time workshops over school holidays (Winter, Spring, Summer, Fall)
+* Commitment to one 3 hour session
+* 3D printing & AI literacy
+* German and English
