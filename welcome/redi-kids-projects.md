@@ -87,3 +87,5 @@ Kahoot Master 🏆: Prepares the Kahoot quiz game
 * Commitment to one 3 hour session
 * 3D printing, Future.me
 * Taught in German and English
+
+**Commitment 💡:** 1 hour of prep time | 3 hour workshop
