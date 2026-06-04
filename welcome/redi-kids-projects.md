@@ -26,13 +26,13 @@ Do you enjoy working with children and introducing them to the digital world? Th
 
 <table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td>Ninjas</td><td>Intro block programming with Calliope</td><td>8-10 años</td><td><a href="../.gitbook/assets/DSC06767.JPG">DSC06767.JPG</a></td></tr><tr><td>Heroes</td><td>Advanced block programming with Scratch</td><td>10-12 años</td><td><a href="../.gitbook/assets/Screenshot 2026-06-03 at 12.45.12.png">Screenshot 2026-06-03 at 12.45.12.png</a></td></tr><tr><td>Superheroes</td><td>Intro to Python with imagiCharm</td><td>11-13 años</td><td><a href="../.gitbook/assets/redi_spring25_dd_FUJI0190.jpg">redi_spring25_dd_FUJI0190.jpg</a></td></tr></tbody></table>
 
-#### **💡 Overview**
+#### **⭐️ Overview**
 
 * Semester based - 9 Sundays
 * B1 German necessary for Ninjas and Heroes courses
 * Superheroes taught in English and German
 
-#### ⭐️ Team Commitment & Structure
+#### **💡** Team Commitment & Structure
 
 **Commitment:** 4 sessions + Demo Day 🌸
 
@@ -66,16 +66,22 @@ Kahoot Master 🏆: Prepares the Kahoot quiz game
 
 ### <mark style="color:orange;">**Coding Camp**</mark>
 
-#### Overview
+#### :star: Overview
 
 * 3 hour workshops
 * Over school holidays (Winter, Spring, Summer, Fall)
 * Covers different topics
   * AI, Lego, Minecraft, Ozobot, etc.
 
+#### ⏰ Class Format
+
+* Camp runs 1-2 weeks every school holiday&#x20;
+* Morning slot 10:00-13:00
+* Afternoon slot 13:30-16:30
+
 ### <mark style="color:orange;">**One Day Workshops**</mark>
 
-#### Overview
+#### :star: Overview
 
 * One-time workshops throughout the year
 * Commitment to one 3 hour session
