@@ -18,13 +18,15 @@ As a volunteer teacher at ReDI, you:
 * Can amend and negotiate class rules with the students
 * Will be supported with whatever you need (students falling behind, content ideas, technical issues, you name it!)
 
-Do you enjoy working with children and introducing them to the digital world? Then you've come to the right place!
+Do you enjoy working with children and introducing them to the digital world? Then you've come to the right place! We have three programs currently seeking volunteers: Sunday classes, Coding Camp, and our One Day Workshops.
 
-### <mark style="color:orange;">**Sunday Class**</mark>
+<details>
+
+<summary><mark style="color:orange;"><strong>Sunday Class</strong></mark></summary>
 
 #### **Who are our students?**
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td>Ninjas</td><td>Intro block programming with Calliope</td><td>8-10 años</td><td><a href="../.gitbook/assets/DSC06767.JPG">DSC06767.JPG</a></td></tr><tr><td>Heroes</td><td>Advanced block programming with Scratch</td><td>10-12 años</td><td><a href="../.gitbook/assets/Screenshot 2026-06-03 at 12.45.12.png">Screenshot 2026-06-03 at 12.45.12.png</a></td></tr><tr><td>Superheroes</td><td>Intro to Python with imagiCharm</td><td>11-13 años</td><td><a href="../.gitbook/assets/redi_spring25_dd_FUJI0190.jpg">redi_spring25_dd_FUJI0190.jpg</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td>Ninjas</td><td>Intro block programming with Calliope</td><td>ages 8-10</td><td><a href="../.gitbook/assets/DSC06767.JPG">DSC06767.JPG</a></td></tr><tr><td>Heroes</td><td>Advanced block programming with Scratch</td><td>ages 10-12</td><td><a href="../.gitbook/assets/Screenshot 2026-06-03 at 12.45.12.png">Screenshot 2026-06-03 at 12.45.12.png</a></td></tr><tr><td>Superheroes</td><td>Intro to Python with imagiCharm</td><td>ages 11-13</td><td><a href="../.gitbook/assets/redi_spring25_dd_FUJI0190.jpg">redi_spring25_dd_FUJI0190.jpg</a></td></tr></tbody></table>
 
 #### **⭐️ Overview**
 
@@ -64,7 +66,11 @@ Exerciser 💻: Prepares exercises according to the slides
 
 Kahoot Master 🏆: Prepares the Kahoot quiz game
 
-### <mark style="color:orange;">**Coding Camp**</mark>
+</details>
+
+<details>
+
+<summary><mark style="color:orange;"><strong>Coding Camp</strong></mark></summary>
 
 #### :star: Overview
 
@@ -79,7 +85,11 @@ Kahoot Master 🏆: Prepares the Kahoot quiz game
 * Morning slot 10:00-13:00
 * Afternoon slot 13:30-16:30
 
-### <mark style="color:orange;">**One Day Workshops**</mark>
+</details>
+
+<details>
+
+<summary><mark style="color:orange;"><strong>One Day Workshops</strong></mark></summary>
 
 #### :star: Overview
 
@@ -89,3 +99,5 @@ Kahoot Master 🏆: Prepares the Kahoot quiz game
 * Taught in German and English
 
 **Commitment 💡:** 1 hour of prep time | 3 hour workshop
+
+</details>
