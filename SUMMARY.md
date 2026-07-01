@@ -16,7 +16,7 @@
 ***
 
 * [🥷 NINJAS](ninjas/README.md)
-  * [Content Roadmap](ninjas/content-roadmap.md)
+  * [Content Roadmap](ninjas/overview.md)
   * [Teaching Material](ninjas/teaching-material.md)
 * [🦸 HEROES](heroes.md)
   * [Overview](heroes/overview.md)

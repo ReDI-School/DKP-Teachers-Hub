@@ -6,13 +6,9 @@ The Content Roadmap is a living document with **goals** **and** **sub-goals** **
 
 <summary><mark style="color:red;"><strong>Week 1:</strong></mark> 💡 Hallo, imagiCharm! · Hello, imagiCharm!</summary>
 
-#### <mark style="color:$info;">🎯</mark> Ziele · Goals
-
-&#x20;🇩🇪 <mark style="color:$info;">Deutsch</mark>
+<mark style="color:$info;">**🎯**</mark>**&#x20;Ziele · Goals**
 
 <mark style="color:$info;">Am Ende dieser Stunde kannst du deinen imagiCharm einschalten, die App öffnen und dein erstes Pixel zum Leuchten bringen!</mark>
-
-🇬🇧 <mark style="color:$info;">English</mark>
 
 <mark style="color:$info;">By the end of this session you can turn on your imagiCharm, open the app, and light up your first pixel!</mark>
 
@@ -141,13 +137,9 @@ m[0][0] = (255, 100, 0)   # orange
 
 <summary><mark style="color:orange;"><strong>Week 2:</strong></mark> 🌈 Jede Farbe mischen · Mix Any Colour!</summary>
 
-#### <mark style="color:$info;">🎯</mark> Ziele · Goals
-
-<mark style="color:$info;">🇩🇪 Deutsch</mark>
+<mark style="color:$info;">**🎯**</mark>**&#x20;Ziele · Goals**
 
 <mark style="color:$info;">Du lernst, was Variablen sind und wie du jede Farbe mit RGB-Werten mischen kannst.</mark>
-
-<mark style="color:$info;">🇬🇧 English</mark>
 
 <mark style="color:$info;">You'll learn what variables are and how to mix any colour using RGB values.</mark>
 
@@ -266,7 +258,7 @@ m[3][0] = O    # orange
 
 <summary><mark style="color:yellow;"><strong>Week 3:</strong></mark> 🔄 Hör auf, dich zu wiederholen! · Stop Repeating Yourself!</summary>
 
-#### <mark style="color:$info;">🎯</mark> Ziele · Goals
+<mark style="color:$info;">**🎯**</mark>**&#x20;Ziele · Goals**
 
 <mark style="color:$info;">Du lernst, wie for-Schleifen dir helfen, viele Pixel mit wenigen Zeilen Code zu beleuchten.</mark>
 
@@ -381,7 +373,7 @@ for x in range(8):
 
 <summary><mark style="color:blue;"><strong>Week 4:</strong></mark> 🎬 Bring es zum Bewegen! · Make It Move!</summary>
 
-#### <mark style="color:$info;">🎯</mark> Ziele · Goals
+<mark style="color:$info;">**🎯**</mark>**&#x20;Ziele · Goals**
 
 <mark style="color:$info;">Du erstellst deine erste Animation auf dem imagiCharm — mehrere Frames, die wie ein Daumenkino ablaufen!</mark>
 
@@ -499,7 +491,7 @@ a.add_frame(m, 400)
 
 <summary><mark style="color:$success;"><strong>Week 5:</strong></mark> 🧠 Code der denkt! · Code That Thinks!</summary>
 
-#### <mark style="color:$info;">🎯</mark> Ziele · Goals
+<mark style="color:$info;">**🎯**</mark>**&#x20;Ziele · Goals**
 
 <mark style="color:$info;">Du lernst, wie dein Code Entscheidungen treffen kann — mit if, elif und else.</mark>
 
@@ -617,7 +609,7 @@ for x in range(8):
 
 <summary><mark style="color:violet;"><strong>Week 6:</strong></mark> 🎲 Füge Überraschungen hinzu! · Add Some Surprise!</summary>
 
-#### <mark style="color:$info;">🎯</mark> Ziele · Goals
+<mark style="color:$info;">**🎯**</mark>**&#x20;Ziele · Goals**
 
 <mark style="color:$info;">Du lernst, wie du das random-Modul importierst und damit Kunst erstellst, die jedes Mal anders aussieht.</mark>
 
@@ -736,7 +728,7 @@ if random.randint(0, 10) > 7:
 
 <summary><mark style="color:pink;"><strong>Week 7:</strong></mark> 🧩 Baue deine eigenen Werkzeuge! · Build Your Own Tools!</summary>
 
-#### <mark style="color:$info;">🎯</mark> Ziele · Goals
+<mark style="color:$info;">**🎯**</mark>**&#x20;Ziele · Goals**
 
 <mark style="color:$info;">Du lernst, eigene Funktionen zu schreiben — wiederverwendbare Code-Bausteine wie LEGO-Steine.</mark>
 
@@ -855,7 +847,7 @@ fill_row(7, O)
 
 <summary><mark style="color:purple;"><strong>Week 8:</strong></mark> ✨ Baue dein Demo-Tag-Projekt! · Build Your Demo Day Project!</summary>
 
-#### <mark style="color:$info;">🎯</mark> Ziele · Goals
+<mark style="color:$info;">**🎯**</mark>**&#x20;Ziele · Goals**
 
 <mark style="color:$info;">Du kombinierst alle gelernten Fähigkeiten, um dein persönliches Demo-Tag-Projekt zu erstellen und es vor Publikum zu präsentieren.</mark>
 
