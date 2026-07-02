@@ -99,7 +99,7 @@ My Digital Profile — Create a digital profile card with your first name (not f
 
 <details>
 
-<summary><mark style="color:orange;"><strong>Week 2:</strong></mark> 🧩 Algorithmus &#x26; Block-Programmierung · Algorithms &#x26; BlONLEITER / MUSIKock Programming </summary>
+<summary><mark style="color:orange;"><strong>Week 2:</strong></mark> 🧩 Algorithmus &#x26; Block-Programmierung · Algorithms &#x26; Block Programming </summary>
 
 <mark style="color:$info;">**🎯**</mark>**&#x20;Ziele · Goals**
 
@@ -172,7 +172,17 @@ Work in pairs! One person is the 'Robot' — they must follow instructions EXACT
 
 **💻 Dein erstes MakeCode-Programm · Your First MakeCode Program**
 
-Open makecode.calliope.cc. Create a program that: 1. Shows your name when the program starts 2. Shows a heart icon after 2 seconds 3. Shows a smiley face after another 2 seconds Use these blocks: 'on start', 'show string', 'pause (ms)', 'show icon' Bonus: Replace the 'on start' block with a 'forever' block. What is the difference?
+Open makecode.calliope.cc. Create a program that:
+
+1\. Shows your name when the program start
+
+2\. Shows a heart icon after 2 seconds
+
+3\. Shows a smiley face after another 2 seconds
+
+Use these blocks: 'on start', 'show string', 'pause (ms)', 'show icon'
+
+Bonus: Replace the 'on start' block with a 'forever' block. What is the difference?
 
 ***
 
