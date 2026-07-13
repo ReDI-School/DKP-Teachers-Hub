@@ -84,6 +84,8 @@ There are many ways to get involved in Coding Camps! You can assist one of our l
 
 <summary><mark style="color:orange;"><strong>One Day Workshops</strong></mark></summary>
 
+**One-Day Workshops** are special projects that take place throughout the year in collaboration with schools, partners, or community organizations. These are single workshops (typically around 3 hours) focused on specific digital topics, giving children the opportunity to explore new technologies through fun, hands-on activities. Some examples include our **Future.me** career and digital skills workshops and our **3D Printing** workshops.
+
 #### :star: Overview
 
 * One-time workshops throughout the year
@@ -91,6 +93,8 @@ There are many ways to get involved in Coding Camps! You can assist one of our l
 * 3D printing, Future.me
 * Taught in German and English
 
-**Commitment 💡:** 1 hour of prep time | 3 hour workshop
+#### **How can you get involved?**
+
+You can support a lead teacher during a workshop or, if you have an idea for a hands-on digital workshop, we'd love to hear it! We’re always looking for volunteers who want to share their skills and create engaging learning experiences for our students.
 
 </details>
