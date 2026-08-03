@@ -113,11 +113,11 @@ My Digital Profile — Create a digital profile card with your first name (not f
 
 <mark style="color:$info;">🇩🇪 Deutsch</mark>
 
-Spiele das Sequenz-Level auf compute-it.toxicode.fr. Kannst du den Roboter Schritt für Schritt zur Flagge führen? Wie viele Anweisungen brauchst du?
+Wandert durch den Raum und fragt euch gegenseitig: "Was ist dein Lieblingsessen?". Hört einander zu und bildet eine Gruppe mit denen, die das gleiche Lieblingsessen wie ihr haben. Gruppen mit den gleichen Lieblingsessen formen zusammen eine größere Gruppe. Wer niemanden mit dem gleichen Lieblingsessen findet, bildet dann eine Einzelgruppe.
 
 <mark style="color:$info;">🇬🇧 English</mark>
 
-Play the Sequence level on compute-it.toxicode.fr. Can you guide the robot to the flag step by step? How many instructions do you need?
+Walk through the room and ask each other: "What is your favourite food?". Listen to each other and form a group with people who share the same favourite food as you.  Groups that share the same favourite group can merge into a bigger group. If you can't find anyone with the same food as you, you form an individual group.
 
 ***
 
