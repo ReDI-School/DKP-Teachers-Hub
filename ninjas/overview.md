@@ -218,11 +218,11 @@ My Story Program — Create a MakeCode program that tells a short story about yo
 
 <mark style="color:$info;">🇩🇪 Deutsch</mark>
 
-Spiele das Schleife-Level auf compute-it.toxicode.fr. Kannst du den Roboter dieselben Schritte mit einer Schleife wiederholen lassen? Wie spart eine Schleife Zeit?
+Ihr spielt "Simon says". Eine Person ist am Anfang Simon. Wenn Simon einen Befehl gibt, der mit "Simon says" anfängt, müssen alle dem Befehl folgen. Wenn er in seinem Befehl "Simon says" nicht sagt, sollt ihr das aber nicht machen. Spieler/innen, die einen Fehler machen scheiden aus. Der/die letzte/r Spieler/in ist der neue Simon. Spielt noch eine Runde oder beendet das Spiel je nach Wunsch.
 
 <mark style="color:$info;">🇬🇧 English</mark>
 
-Play the Loop level on compute-it.toxicode.fr. Can you make the robot repeat the same steps using a loop? How does using a loop save you time?
+You're playing "Simon says". One person is selected to be Simon at the beginning. If Simon gives an order starting with "Simon says", everyone has to obey this order. Otherwise, if the order doesn't start with "Simon says", you are not allowed to obey the order. Players that make a mistake get eliminated. The last player standing is the new Simon. You can play another round or end the game as desired.
 
 ***
 
