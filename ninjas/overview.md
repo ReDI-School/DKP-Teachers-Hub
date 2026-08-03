@@ -616,11 +616,11 @@ Light Show — Create an impressive looping LED animation on your Calliope Mini.
 
 🇩🇪 <mark style="color:$info;">Deutsch</mark>
 
-Spiele die Variablen-Herausforderung auf compute-it.toxicode.fr. Der Roboter muss sich merken, wie viele Schritte er gemacht hat. Kannst du einen Zähler verwenden?
+Ihr spielt "Ich packe meinen Koffer". Versammelt euch dazu im Kreis. Jetzt fängt eine Person an, indem Sie sagt "Ich packe meinen Koffer und lege hinein ...". Die nächste Person im Uhrzeigersinn muss diesen Koffer nun um einen Gegenstand erweitern, also "Ich packe meinen Koffer und lege hinein ..., ...". Das Spiel geht so weiter und man muss sich an die Gegenstände im Koffer erinnern. Wer einen Fehler macht scheidet aus. Der/die letzte/r Spieler/in hat gewonnen.
 
 🇬🇧 <mark style="color:$info;">English</mark>
 
-Play the Variables challenge on compute-it.toxicode.fr. The robot needs to remember how many steps it has taken. Can you use a counter to track this?
+You will be playing "Ich packe meinen Koffer". Gather in circle. The first player starts by saying "Ich packe meinen Koffer und lege hinein ...". Now the next Player clockwise adds another item to the Suitcase: "Ich packe meinen Koffer und lege hinein ..., ...". The game continues and you have to remember what everyone put in the suitcase. If a player makes a mistake they are eliminated. The last player standing is the winner.
 
 ***
 
