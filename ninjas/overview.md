@@ -18,11 +18,11 @@ The Content Roadmap is a living document with **goals and sub-goals for each ses
 
 🇩🇪 <mark style="color:$info;">Deutsch</mark>
 
-Versammelt euch zusammen im Kreis. Du fängst an indem du deinen Namen nennst, deine Gefühle heute beschreibst, und einen lustigen Move machst. Danach munterst du alle auf deinen Move nachzumachen. So geht das Spiel jetzt im Kreis weiter: der/die nächste/r stellt sich vor etc.
+Versammelt euch zusammen im Kreis. Du fängst an indem du deinen Namen nennst, deine Gefühle heute beschreibst, und einen lustigen Move machst. Danach munterst du alle auf deinen Move nachzumachen. So geht das Spiel jetzt im Kreis weiter: der/die nächste/r stellt sich vor etc. Bleibt respektvoll und habt Spaß!
 
 <mark style="color:$info;">🇬🇧 English</mark>
 
-Gather in a big circle. You will start by saying your name, how you are feeling today and doing a silly move. Now encourage everyone in the group to copy your move. This is how the game continues: The next in the circle introduces themselves etc.
+Gather in a big circle. You will start by saying your name, how you are feeling today and doing a silly move. Now encourage everyone in the group to copy your move. This is how the game continues: The next in the circle introduces themselves etc. Be respectful and have fun!
 
 ***
 
