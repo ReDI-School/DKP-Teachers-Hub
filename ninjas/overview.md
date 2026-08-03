@@ -473,11 +473,11 @@ My Compass App — Build a working compass on your Calliope Mini that shows N, S
 
 🇩🇪 <mark style="color:$info;">Deutsch</mark>
 
-Spiele das Schleifen-Level auf compute-it.toxicode.fr. Kannst du den Roboter denselben Weg mit einer Schleife wiederholen lassen? Wie viele Blöcke sparst du im Vergleich zu einzelnen Schritten?
+Ihr lernt wie man den Macarena tanzt. Schaut dazu das Video und lernt den Tanz, Schritt für Schritt. Am Ende können alle den Macarena zusammen Tanzen!
 
 🇬🇧 <mark style="color:$info;">English</mark>
 
-Play the Loop level on compute-it.toxicode.fr. Can you make the robot repeat the same path using a loop? How many blocks do you save compared to writing each step separately?
+You will learn to dance the Macarena. Watch the Video and learn the dance step by step. At the end everyone can do the Macarena together!
 
 ***
 
