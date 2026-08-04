@@ -125,11 +125,11 @@ Walk through the room and ask each other: "What is your favourite food?". Listen
 
 <mark style="color:$info;">🇩🇪 Deutsch</mark>
 
-Was haben wir letzte Woche gelernt? Was ist ein Computer? Welche Bauteile hat ein Computer? Eingabe, Ausgabe, Prozessor, Speicher. Calliope ist ein Computer.
+Was haben wir letzte Woche gelernt? Stelle offene Fragen und identifiziere die wesentlichen Punkte von letzter Woche, an die sich die Kinder erinnern sollen. Was ist ein Computer? Welche Bauteile hat ein Computer? Eingabe, Ausgabe, Prozessor, Speicher. Calliope ist ein Computer.
 
 <mark style="color:$info;">🇬🇧 English</mark>
 
-What did we learn last week? What is a Computer? Which components does a computer have? Input, Output, Prozessor, Speicher. Calliope is a Computer
+What did we learn last week? Ask open-ended Questions and identify what the kids should remember from last week. What is a Computer? Which components does a computer have? Input, Output, Prozessor, Speicher. Calliope is a Computer.
 
 ***
 
