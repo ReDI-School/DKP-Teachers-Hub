@@ -20,6 +20,7 @@
   * [Teaching Material](ninjas/teaching-material.md)
 * [🦸 HEROES](heroes.md)
   * [Overview](heroes/overview.md)
+  * [Content Roadmap](heroes/content-roadmap.md)
   * [Teaching Material](heroes/teaching-material.md)
 * [🦸‍♀️ SUPERHEROES](superheroes.md)
   * [Content Roadmap](superheroes/content-roadmap.md)
