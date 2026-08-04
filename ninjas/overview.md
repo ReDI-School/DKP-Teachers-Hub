@@ -355,7 +355,7 @@ Versammelt euch im Kreis. Wir möchten verstehen, dass wir Menschen auch Sensore
 
 <mark style="color:$info;">🇬🇧 English</mark>
 
-Gather in a circle. We want to understand, that we humans also have sensors. To do this everyone will say a sentence of this shape: "Ich habe einen ...-sensor, und fühle ..." — so "I have a ... sensor, and I can feel ...". Everyone in the circle gets to say one sentence. Example sentences are: "Ich habe einen Temperatursensor, und ich fühle, dass meine Hände warm sind." — "I have a temperature sensor, and I can feel that my hands are warm" or "Ich habe einen Lichtsensor, und ich sehe, dass es hell ist." — "I have a light sensor, and can see that it is light".&#x20;
+Gather in a circle. We want to understand, that we humans also have sensors. To do this, everyone will say a sentence of this shape: "Ich habe einen ...-sensor, und fühle ..." — so "I have a ... sensor, and I can feel ...". Everyone in the circle gets to say one sentence. Example sentences are: "Ich habe einen Temperatursensor, und ich fühle, dass meine Hände warm sind." — "I have a temperature sensor, and I can feel that my hands are warm" or "Ich habe einen Lichtsensor, und ich sehe, dass es hell ist." — "I have a light sensor, and can see that it is light".&#x20;
 
 ***
 
