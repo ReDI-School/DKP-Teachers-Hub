@@ -854,11 +854,11 @@ My Mini Game — Build a program that combines a loop, a condition, and a variab
 
 🇩🇪 <mark style="color:$info;">Deutsch</mark>
 
-Die Kinder teilen sich auf eine zufällige und fair Art in Gruppen auf. Erzähle dazu, dass die Kinder sich
+Die Kinder teilen sich auf eine zufällige und faire Art und Weise in Gruppen auf. Erzähle dazu, dass die Kinder nun auf spaßiger Art Teams bilden und, dass jede Farbe ein Team mit einer eigenen Zone im Raum darstellt. Nun zieht jedes Kind eine Farbe aus der Tasche. Wenn jedes Kind eine Farbe gezogen hat versammeln sie sich in ihrer entsprechenden Zone im Raum. Wenn die Teams unfair in Größe sind, kannst du sie umverteilen. Nun kann sich jedes Team einen kreativen Namen ausdenken.
 
 🇬🇧 <mark style="color:$info;">English</mark>
 
-Play any level on compute-it.toxicode.fr and try to beat your personal best! Challenge a classmate to see who can solve it in fewer steps.
+The kids will be divided into groups in a random and fair way. Mention to the kids that they will now be forming groups in a fun way and that each colour represents a team with a designated area in the room. Now the kids will draw a colour from the bag. Once everyone has drawn a colour they can gather in their respective areas. If the groups seem unfair in size, you can adjust them by moving kids. Now every team will come up with a creative name.
 
 ***
 
