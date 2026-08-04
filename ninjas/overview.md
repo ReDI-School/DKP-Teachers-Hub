@@ -793,11 +793,11 @@ Score Keeper Game — Build a 2-player reaction game! Player 1 uses Button A to 
 
 🇩🇪 <mark style="color:$info;">Deutsch</mark>
 
-Versuche das schwerste Level auf compute-it.toxicode.fr, das du noch nicht abgeschlossen hast. Arbeite mit einem Partner zusammen und helft euch gegenseitig!
+Die Kinder werden sich gegenseitig programmieren. Teile dazu die Kinder in Paare ein. Ein Kind ist der/die Programmierer/in  und das andere Kind ist der Roboter. Der/die Programmierer/in muss nun dem Roboter Schritt für Schritt Anweisungen geben um eine Aufgabe zu machen. Der Roboter darf aber nur GENAU das machen, was ihm der/die Programmier/in sagt. Das führt du lustigen Fehlern, die der/die Programmier/in beheben muss. Nachdem die Aufgabe erfüllt ist, tauschen die Kinder ihre Rollen. Beispielaufgaben: Ein Quadrat zeichnen auf Papier oder etwas kleines aus Bausteinen bauen.
 
 🇬🇧 <mark style="color:$info;">English</mark>
 
-Try the hardest level on compute-it.toxicode.fr that you have not completed yet. Work with a partner and help each other figure out the solution!
+The kids will be programming eachother. Pair the students up. One kid is the programmer and one kid is the robot. The programmer will now be giving the robot step by step instructions to do a task. However the robot only allowed to do EXACTLY what he is instructed. This causes funny mistakes that the Programmer hast to fix. After the task is finished the kids will swap roles. Example tasks: Draw a square on a piece of paper or build something small out of blocks.
 
 ***
 
