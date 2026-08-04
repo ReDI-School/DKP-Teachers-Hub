@@ -121,6 +121,18 @@ Walk through the room and ask each other: "What is your favourite food?". Listen
 
 ***
 
+🧠 **Wiederholen · Recap**
+
+<mark style="color:$info;">🇩🇪 Deutsch</mark>
+
+Was haben wir letzte Woche gelernt? Was ist ein Computer? Welche Bauteile hat ein Computer? Eingabe, Ausgabe, Prozessor, Speicher. Calliope ist ein Computer.
+
+<mark style="color:$info;">🇬🇧 English</mark>
+
+What did we learn last week? What is a Computer? Which components does a computer have? Input, Output, Prozessor, Speicher. Calliope is a Computer
+
+***
+
 **📖 Was ist ein Algorithmus? · What is an Algorithm?**
 
 An algorithm is a set of step-by-step instructions to solve a problem or complete a task. Computers follow algorithms exactly — they cannot guess or skip steps!
