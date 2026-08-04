@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Content Roadmap
 
 The Content Roadmap is a living document with **goals** **and** **sub-goals** **for each session**, helping us keep the big picture clear.
