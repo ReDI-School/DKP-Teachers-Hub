@@ -938,6 +938,18 @@ The kids will be divided into groups in a random and fair way. Mention to the ki
 
 ***
 
+🧠 **Wiederholen · Recap**
+
+<mark style="color:$info;">🇩🇪 Deutsch</mark>
+
+Die Kinder spielen jetzt ein Memory-Spiel in ihren Gruppen mit den gelernten Inhalten dieses Semesters. Dazu verdecken sie die ausgedruckten Karten und das erste Kind dreht zwei davon um. Gehören sie zusammen, so darf das Kind sie behalten, ansonsten werden sie umgedreht und das nächste Kind ist am Zug. Wer am Ende die meisten Karten hat, hat gewonnen.
+
+🇬🇧 <mark style="color:$info;">English</mark>
+
+The kids will now be playing a memory game in their groups. To do so they will first lay all the printed cards face down. The current player will then uncover two cards. If they belong together, the player can keep them. Otherwise the cards are placed face down and it's the next players turn. Whoever has the most cards at the end of the game is the winner.
+
+***
+
 **📖 Projektideen · Project Ideas**
 
 Here are the project ideas from your teacher — pick one or create your own!
