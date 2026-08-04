@@ -517,6 +517,18 @@ You will learn to dance the Macarena. Watch the Video and learn the dance step b
 
 ***
 
+🧠 **Wiederholen · Recap**
+
+<mark style="color:$info;">🇩🇪 Deutsch</mark>
+
+Was haben wir letzte Woche gelernt? Stelle offene Fragen und identifiziere die wesentlichen Punkte von letzter Woche, an die sich die Kinder erinnern sollen. Was sind Sensoren? Was sind Bedingungsblöcke? Was sind Vergleiche?
+
+<mark style="color:$info;">🇬🇧 English</mark>
+
+What did we learn last week? Ask open-ended questions and identify what the kids should remember from last week. What are sensors? What are condition-blocks? What are Comparisons?
+
+***
+
 **📖 Was ist eine Schleife? · What is a Loop?**
 
 A loop is a way to repeat instructions multiple times without writing them out again and again.
