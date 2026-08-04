@@ -854,7 +854,7 @@ My Mini Game — Build a program that combines a loop, a condition, and a variab
 
 🇩🇪 <mark style="color:$info;">Deutsch</mark>
 
-Spiele ein beliebiges Level auf compute-it.toxicode.fr und versuche deinen persönlichen Rekord zu brechen! Fordere einen Mitschüler heraus, wer es in weniger Schritten lösen kann.
+Die Kinder teilen sich auf eine zufällige und fair Art in Gruppen auf. Erzähle dazu, dass die Kinder sich
 
 🇬🇧 <mark style="color:$info;">English</mark>
 
