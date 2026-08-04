@@ -801,6 +801,22 @@ Try the hardest level on compute-it.toxicode.fr that you have not completed yet.
 
 ***
 
+🧠 **Wiederholen · Recap**
+
+<mark style="color:$info;">🇩🇪 Deutsch</mark>
+
+Was haben wir letzte Woche gelernt? Stelle offene Fragen und identifiziere die wesentlichen Punkte von letzter Woche, an die sich die Kinder erinnern sollen. Wo speichern wir Daten auf dem Computer? Was sind Variablen? Was für Variablen kennst du?
+
+Was haben wir in der ersten Stunde gelernt? Stelle offene Fragen und identifiziere die wesentlichen Punkte von letzter Woche, an die sich die Kinder erinnern sollen. Woraus besteht ein Computer? Ihr spielt ein Spiel dazu.
+
+<mark style="color:$info;">🇬🇧 English</mark>
+
+What did we learn last week? Ask open-ended questions and identify what the kids should remember from last week. Where do we save data on the computer? What are Variables? What types of Variables do you know?
+
+What did we learn in the first lesson? Ask open-ended questions and identify what the kids should remember from last week. What components is a computer made of? You will be playing a game about this.
+
+***
+
 **📖 Alles was wir dieses Semester gelernt haben · Everything We Learned This Semester**
 
 Let us review all the concepts from this semester:
