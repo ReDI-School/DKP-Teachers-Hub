@@ -672,6 +672,18 @@ You will be playing "Ich packe meinen Koffer". Gather in circle. The first playe
 
 ***
 
+🧠 **Wiederholen · Recap**
+
+<mark style="color:$info;">🇩🇪 Deutsch</mark>
+
+Was haben wir letzte Woche gelernt? Stelle offene Fragen und identifiziere die wesentlichen Punkte von letzter Woche, an die sich die Kinder erinnern sollen. Was sind Schleifen? Warum benutzt man Schleifen? Was gibt es für Schleifen?
+
+<mark style="color:$info;">🇬🇧 English</mark>
+
+What did we learn last week? Ask open-ended questions and identify what the kids should remember from last week. What are loops? Why do we use loops? What types of loops are there?
+
+***
+
 **📖 Wie Computer Daten speichern · How Computers Store Data**
 
 Computers have two types of memory:
