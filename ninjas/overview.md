@@ -521,11 +521,11 @@ You will learn to dance the Macarena. Watch the Video and learn the dance step b
 
 <mark style="color:$info;">🇩🇪 Deutsch</mark>
 
-Was haben wir letzte Woche gelernt? Stelle offene Fragen und identifiziere die wesentlichen Punkte von letzter Woche, an die sich die Kinder erinnern sollen. Was sind Sensoren? Was sind Sensoren im Calliope?
+Was haben wir letzte Woche gelernt? Stelle offene Fragen und identifiziere die wesentlichen Punkte von letzter Woche, an die sich die Kinder erinnern sollen. Was sind Sensoren? Was sind Bedingungsblöcke? Was für Sensoren kennst du?
 
 <mark style="color:$info;">🇬🇧 English</mark>
 
-What did we learn last week? Ask open-ended questions and identify what the kids should remember from last week. What are sensors? What are sensors in the Calliope?
+What did we learn last week? Ask open-ended questions and identify what the kids should remember from last week. What are sensors? What are condition-blocks? What sensors do you know?
 
 ***
 
