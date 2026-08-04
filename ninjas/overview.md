@@ -242,11 +242,11 @@ You're playing "Simon says". One person is selected to be Simon at the beginning
 
 <mark style="color:$info;">🇩🇪 Deutsch</mark>
 
-Was haben wir letzte Woche gelernt? Stelle offene Fragen und identifiziere die wesentlichen Punkte von letzter Woche, an die sich die Kinder erinnern sollen. Was ist ein Algorithmus? Was ist eine Programmiersprache? Was ist Block-Programmierung?
+Was haben wir letzte Woche gelernt? Stelle offene Fragen und identifiziere die wesentlichen Punkte von letzter Woche, an die sich die Kinder erinnern sollen. Was ist ein Algorithmus? Was ist eine Programmiersprache? Was sind Binärzahlen? Was ist Block-Programmierung?
 
 <mark style="color:$info;">🇬🇧 English</mark>
 
-What did we learn last week? Ask open-ended questions and identify what the kids should remember from last week. What is an algorithm? What is a programming language? What is block-programming?
+What did we learn last week? Ask open-ended questions and identify what the kids should remember from last week. What is an algorithm? What is a programming language? What are binary numbers? What is block-programming?
 
 ***
 
@@ -380,6 +380,18 @@ Versammelt euch im Kreis. Wir möchten verstehen, dass wir Menschen auch Sensore
 <mark style="color:$info;">🇬🇧 English</mark>
 
 Gather in a circle. We want to understand, that we humans also have sensors. To do this, everyone will say a sentence of this shape: "Ich habe einen ...-sensor, und fühle ..." — so "I have a ... sensor, and I can feel ...". Everyone in the circle gets to say one sentence. Example sentences are: "Ich habe einen Temperatursensor, und ich fühle, dass meine Hände warm sind." — "I have a temperature sensor, and I can feel that my hands are warm" or "Ich habe einen Lichtsensor, und ich sehe, dass es hell ist." — "I have a light sensor, and can see that it is light".&#x20;
+
+***
+
+🧠 **Wiederholen · Recap**
+
+<mark style="color:$info;">🇩🇪 Deutsch</mark>
+
+Was haben wir letzte Woche gelernt? Stelle offene Fragen und identifiziere die wesentlichen Punkte von letzter Woche, an die sich die Kinder erinnern sollen. Was ist der Calliope Mini? Was ist der Unterschied zwischen MakeCode und Blockprogrammierung? Wie funktioniert MakeCode?
+
+<mark style="color:$info;">🇬🇧 English</mark>
+
+What did we learn last week? Ask open-ended questions and identify what the kids should remember from last week. What is the Calliope Mini? What is the difference between MakeCode and block-programming? How does MakeCode work?
 
 ***
 
