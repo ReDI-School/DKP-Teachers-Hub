@@ -238,6 +238,18 @@ You're playing "Simon says". One person is selected to be Simon at the beginning
 
 ***
 
+🧠 **Wiederholen · Recap**
+
+<mark style="color:$info;">🇩🇪 Deutsch</mark>
+
+Was haben wir letzte Woche gelernt? Stelle offene Fragen und identifiziere die wesentlichen Punkte von letzter Woche, an die sich die Kinder erinnern sollen. Was ist ein Algorithmus? Was ist eine Programmiersprache? Was ist Block-Programmierung?
+
+<mark style="color:$info;">🇬🇧 English</mark>
+
+What did we learn last week? Ask open-ended questions and identify what the kids should remember from last week. What is an algorithm? What is a programming language? What is block-programming?
+
+***
+
 **📖 Was ist der Calliope Mini? · What is the Calliope Mini?**
 
 The Calliope Mini is a small computer board — a real computer you can hold in your hand! It is the same as a big computer, just smaller and more colourful.
