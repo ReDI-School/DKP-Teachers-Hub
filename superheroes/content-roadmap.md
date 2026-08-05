@@ -8,9 +8,9 @@ The Content Roadmap is a living document with **goals** **and** **sub-goals** **
 
 <mark style="color:$info;">**🎯**</mark>**&#x20;Ziele · Goals**
 
-<mark style="color:$info;">Am Ende dieser Stunde können die Kinder ihren imagiCharm einschalten, die App öffnen und ihr erstes Pixel zum Leuchten bringen!</mark>
+<mark style="color:$info;">Am Ende dieser Stunde können die Schüler\*innen ihren imagiCharm einschalten, die App öffnen und ihr erstes Pixel zum Leuchten bringen!</mark>
 
-<mark style="color:$info;">By the end of this session the kids can turn on their imagiCharm, open the app, and light up their first pixel!</mark>
+<mark style="color:$info;">By the end of this session the students can turn on their imagiCharm, open the app, and light up their first pixel!</mark>
 
 ***
 
@@ -139,9 +139,9 @@ m[0][0] = (255, 100, 0)   # orange
 
 <mark style="color:$info;">**🎯**</mark>**&#x20;Ziele · Goals**
 
-<mark style="color:$info;">Die Kinder lernen, was Variablen sind und wie sie jede Farbe mit RGB-Werten mischen kannst.</mark>
+<mark style="color:$info;">Die Schüler\*innen lernen, was Variablen sind und wie sie jede Farbe mit RGB-Werten mischen kannst.</mark>
 
-<mark style="color:$info;">The kids will learn what variables are and how to mix any colour using RGB values.</mark>
+<mark style="color:$info;">The students will learn what variables are and how to mix any colour using RGB values.</mark>
 
 ***
 
@@ -260,9 +260,9 @@ m[3][0] = O    # orange
 
 <mark style="color:$info;">**🎯**</mark>**&#x20;Ziele · Goals**
 
-<mark style="color:$info;">Die Kinder lernen, wie for-Schleifen ihnen helfen, viele Pixel mit wenigen Zeilen Code zu beleuchten.</mark>
+<mark style="color:$info;">Die Schüler\*innen lernen, wie for-Schleifen ihnen helfen, viele Pixel mit wenigen Zeilen Code zu beleuchten.</mark>
 
-<mark style="color:$info;">The kids will learn how for loops help them light up many pixels with just a few lines of code.</mark>
+<mark style="color:$info;">The students will learn how for loops help them light up many pixels with just a few lines of code.</mark>
 
 ***
 
@@ -375,9 +375,9 @@ for x in range(8):
 
 <mark style="color:$info;">**🎯**</mark>**&#x20;Ziele · Goals**
 
-<mark style="color:$info;">Die Kinder erstellen ihre erste Animation auf dem imagiCharm — mehrere Frames, die wie ein Daumenkino ablaufen!</mark>
+<mark style="color:$info;">Die Schüler\*innen erstellen ihre erste Animation auf dem imagiCharm — mehrere Frames, die wie ein Daumenkino ablaufen!</mark>
 
-<mark style="color:$info;">The kids will create their first animation on the imagiCharm — multiple frames playing like a flip book!</mark>
+<mark style="color:$info;">The students will create their first animation on the imagiCharm — multiple frames playing like a flip book!</mark>
 
 ***
 
@@ -493,9 +493,9 @@ a.add_frame(m, 400)
 
 <mark style="color:$info;">**🎯**</mark>**&#x20;Ziele · Goals**
 
-<mark style="color:$info;">Die Kinder lernen, wie ihr Code Entscheidungen treffen kann — mit if, elif und else.</mark>
+<mark style="color:$info;">Die Schüler\*innen lernen, wie ihr Code Entscheidungen treffen kann — mit if, elif und else.</mark>
 
-<mark style="color:$info;">The kids will learn how their code can make decisions — using if, elif, and else.</mark>
+<mark style="color:$info;">The students will learn how their code can make decisions — using if, elif, and else.</mark>
 
 ***
 
@@ -611,9 +611,9 @@ for x in range(8):
 
 <mark style="color:$info;">**🎯**</mark>**&#x20;Ziele · Goals**
 
-<mark style="color:$info;">Die Kinder lernen, wie sie das random-Modul importieren und damit Kunst erstellen, die jedes Mal anders aussieht.</mark>
+<mark style="color:$info;">Die Schüler\*innen lernen, wie sie das random-Modul importieren und damit Kunst erstellen, die jedes Mal anders aussieht.</mark>
 
-<mark style="color:$info;">The kids will learn how to import the random module and use it to create art that looks different every time.</mark>
+<mark style="color:$info;">The students will learn how to import the random module and use it to create art that looks different every time.</mark>
 
 ***
 
@@ -730,9 +730,9 @@ if random.randint(0, 10) > 7:
 
 <mark style="color:$info;">**🎯**</mark>**&#x20;Ziele · Goals**
 
-<mark style="color:$info;">Die Kinder lernen, eigene Funktionen zu schreiben — wiederverwendbare Code-Bausteine wie LEGO-Steine.</mark>
+<mark style="color:$info;">Die Schüler\*innen lernen, eigene Funktionen zu schreiben — wiederverwendbare Code-Bausteine wie LEGO-Steine.</mark>
 
-<mark style="color:$info;">The kids will learn to write their own functions — reusable code building blocks like LEGO bricks.</mark>
+<mark style="color:$info;">The students will learn to write their own functions — reusable code building blocks like LEGO bricks.</mark>
 
 ***
 
@@ -849,9 +849,9 @@ fill_row(7, O)
 
 <mark style="color:$info;">**🎯**</mark>**&#x20;Ziele · Goals**
 
-<mark style="color:$info;">Die Kinder kombinieren alle gelernten Fähigkeiten, um ihr persönliches Demo-Tag-Projekt zu erstellen und es vor einem Publikum zu präsentieren.</mark>
+<mark style="color:$info;">Die Schüler\*innen kombinieren alle gelernten Fähigkeiten, um ihr persönliches Demo-Tag-Projekt zu erstellen und es vor einem Publikum zu präsentieren.</mark>
 
-<mark style="color:$info;">The kids will combine all their skills to create their personal Demo Day project and rehearse presenting it to an audience.</mark>
+<mark style="color:$info;">The students will combine all their skills to create their personal Demo Day project and rehearse presenting it to an audience.</mark>
 
 ***
 
@@ -959,9 +959,9 @@ a.add_frame(m, 800)
 
 <summary><mark style="color:$danger;"><strong>Week 9:</strong></mark> 🎉 Demo-Tag · Demo Day!</summary>
 
-<mark style="color:$info;">Die Kinder haben es geschafft! Zeit, ihren imagiCharm zu tragen, die Bühne zu betreten und der Welt zu zeigen, was sie mit Python gebaut haben!</mark>
+<mark style="color:$info;">Die Schüler\*innen haben es geschafft! Zeit, ihren imagiCharm zu tragen, die Bühne zu betreten und der Welt zu zeigen, was sie mit Python gebaut haben!</mark>
 
-<mark style="color:$info;">The kids have done it! Time to wear their imagiCharm, take the stage, and show the world what they built with Python!</mark>
+<mark style="color:$info;">The students have done it! Time to wear their imagiCharm, take the stage, and show the world what they built with Python!</mark>
 
 ***
 
