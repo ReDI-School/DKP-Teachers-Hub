@@ -8,9 +8,9 @@ The Content Roadmap is a living document with **goals** **and** **sub-goals** **
 
 <mark style="color:$info;">**🎯**</mark>**&#x20;Ziele · Goals**
 
-<mark style="color:$info;">Am Ende dieser Stunde kannst du deinen imagiCharm einschalten, die App öffnen und dein erstes Pixel zum Leuchten bringen!</mark>
+<mark style="color:$info;">Am Ende dieser Stunde können die Kinder ihren imagiCharm einschalten, die App öffnen und ihr erstes Pixel zum Leuchten bringen!</mark>
 
-<mark style="color:$info;">By the end of this session you can turn on your imagiCharm, open the app, and light up your first pixel!</mark>
+<mark style="color:$info;">By the end of this session the kids can turn on their imagiCharm, open the app, and light up their first pixel!</mark>
 
 ***
 
