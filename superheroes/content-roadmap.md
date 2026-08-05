@@ -393,11 +393,15 @@ for x in range(8):
 
 🇩🇪 <mark style="color:$info;">Deutsch</mark>
 
+Ihr spielt wahr oder falsch. Dazu liest der/die Lehrer/in eine Aussage vor und die Schüler\*innen müssen entscheiden, ob die Aussage wahr oder falsch ist. Wenn sie glauben, dass die Aussage wahr ist, sollen sie aufstehen. Ansonsten sollen sie sitzen bleiben. Im Anschluss erklärt ihr zusammen warum.
+
 * Spiele Compute-it Level 4 — dieses Level zeigt SEQUENZEN: Schritte, die nacheinander passieren.
 * Daumenkino-Demo: Blättere schnell durch ein kleines Daumenkino (oder zeige ein GIF) — frage 'Was lässt das wie Bewegung aussehen?'
 * Antwort: Viele Standbilder, sehr schnell gezeigt! Genau so funktioniert Animation im Code.
 
 🇬🇧 <mark style="color:$info;">English</mark>
+
+You will be playing true or false. To do so, the teacher will read a statement and the students have to decide, whether the statement is true or false. If they think that the statement is true, they should stand up. Otherwise they should stay seated. Afterwards you will discuss together why.
 
 * Play Compute-it Level 4 — this level shows SEQUENCES: steps that happen one after another.
 * Flip-book demo: quickly flip through a small flip-book (or show a GIF) — ask 'what makes this look like it's moving?'
