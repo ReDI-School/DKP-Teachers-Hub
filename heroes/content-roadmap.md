@@ -22,3 +22,51 @@ The Content Roadmap is a living document with **goals** **and** **sub-goals** **
 
 </details>
 
+<details>
+
+<summary><mark style="color:yellow;"><strong>Week 3:</strong></mark></summary>
+
+
+
+</details>
+
+<details>
+
+<summary><mark style="color:blue;"><strong>Week 4:</strong></mark></summary>
+
+
+
+</details>
+
+<details>
+
+<summary><mark style="color:$success;"><strong>Week 5:</strong></mark></summary>
+
+
+
+</details>
+
+<details>
+
+<summary><mark style="color:violet;"><strong>Week 6:</strong></mark></summary>
+
+
+
+</details>
+
+<details>
+
+<summary><mark style="color:pink;"><strong>Week 7:</strong></mark></summary>
+
+
+
+</details>
+
+<details>
+
+<summary><mark style="color:purple;"><strong>Week 8:</strong></mark></summary>
+
+
+
+</details>
+
