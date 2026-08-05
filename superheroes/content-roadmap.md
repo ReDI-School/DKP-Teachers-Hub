@@ -276,6 +276,8 @@ m[3][0] = O    # orange
 
 **🔥 Aufwärmen — Compute-it Level 3 · Warm-Up — Compute-it Level 3**
 
+TODO: add warm-up from icebreaker
+
 🇩🇪 <mark style="color:$info;">Deutsch</mark>
 
 * Spiele Compute-it Level 3 — dieses Level führt SCHLEIFEN ein: dieselbe Sache mehrmals tun.
@@ -513,6 +515,8 @@ a.add_frame(m, 400)
 
 **🔥 Aufwärmen — Compute-it Level 5 · Warm-Up — Compute-it Level 5**
 
+TODO: add warm-up from icebreaker
+
 🇩🇪 <mark style="color:$info;">Deutsch</mark>
 
 * Spiele Compute-it Level 5 — dieses Level führt BEDINGUNGEN (if/else-Entscheidungen) ein.
@@ -630,6 +634,8 @@ for x in range(8):
 ***
 
 **🔥 Aufwärmen — Compute-it Level 6 · Warm-Up — Compute-it Level 6**
+
+TODO: add warm-up from icebreaker
 
 <mark style="color:$info;">🇩🇪 Deutsch</mark>
 
@@ -750,6 +756,8 @@ if random.randint(0, 10) > 7:
 
 **🔥 Aufwärmen — Compute-it Level 7 · Warm-Up — Compute-it Level 7**
 
+TODO: add warm-up from icebreaker
+
 🇩🇪 <mark style="color:$info;">Deutsch</mark>
 
 * Spiele Compute-it Level 7 — dieses Level zeigt FUNKTIONEN: benannte Blöcke von Anweisungen.
@@ -868,6 +876,8 @@ fill_row(7, O)
 ***
 
 **🔥 Aufwärmen — Compute-it Level 8 + Rückblick · Warm-Up — Compute-it Level 8 + Review**
+
+TODO: add warm-up from icebreaker
 
 🇩🇪 <mark style="color:$info;">Deutsch</mark>
 
