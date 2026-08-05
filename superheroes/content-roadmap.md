@@ -153,6 +153,8 @@ m[0][0] = (255, 100, 0)   # orange
 
 <mark style="color:$info;">🇩🇪 Deutsch</mark>
 
+Die Schüler\*innen müssen den Satz ausfüllen: "Wenn ich ein persönliches Logo für meinen Rucksack programmieren müsste, wäre es eine \[Farbe] \[Form], die meine Begeisterung für \[Hobby] zeigt.". Dazu kriegen sie 60 Sekunden Zeit um sich ihre Werte für die drei Variablen auszudenken. Jetzt führt jede/r ihren code der Reihe nach aus, indem sie den Satz, mit ihren Werten eingesetzt, vorlesen.
+
 * Öffne compute-it.toxicode.fr — spiele Level 2 als Klasse.
 * Fokus: Der Computer merkt sich Werte in 'Boxen' (Variablen). Beobachte, wie sich der Wert in der Box ändert.
 * Frage: 'Wenn die Box mit 5 beginnt und wir 3 addieren, was ist jetzt drin?' → Das ist genau das, was eine Variable macht!
