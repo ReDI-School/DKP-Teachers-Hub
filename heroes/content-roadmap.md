@@ -10,7 +10,45 @@ The Content Roadmap is a living document with **goals** **and** **sub-goals** **
 
 <summary><mark style="color:red;"><strong>Week 1:</strong></mark> 🚀 Scratch Einführung · Scratch Intro</summary>
 
+<mark style="color:$info;">**🎯**</mark>**&#x20;Ziele · Goals**
 
+<mark style="color:$info;">Die Schüler lernen sich kennen und bestimmen Klassenregeln, lernen etwas über Fake-News und wie man Fake-News erkennt, Tastenkombinationen und lernen Scratch kennen, indem sie ihr erstes Programm schreiben.</mark>
+
+<mark style="color:$info;">Students get to know each other and the class rules, learn about fake news and how to spot fake news, keyboard shortcuts and get to know Scratch, by writing their first program.</mark>
+
+***
+
+**🔥 Aufwärmen · Warm-Up**
+
+Not sure which warm-up we want
+
+🇩🇪 <mark style="color:$info;">Deutsch</mark>
+
+<mark style="color:$info;">🇬🇧 English</mark>
+
+***
+
+**💻 Unsere Klassenregeln · Class Rules**
+
+🇩🇪 <mark style="color:$info;">Deutsch</mark>
+
+Ihr werdet jetzt gemeinsam mit den Schüler\*innen die Klassenregeln bestimmen. Dazu gehören Fragen wie: Wie gehen wir miteinander um? Wie gehen wir mit den Laptops um? Wie zeigen wir einander Respekt?
+
+<mark style="color:$info;">🇬🇧 English</mark>
+
+You will now be establishing the class rules together with the students. Relevant questions are: How do we treat each other? How do we behave around the Laptops?  How do we show respect to each other?
+
+***
+
+**🛡️ Cyber Guard Mission:**
+
+🇩🇪 <mark style="color:$info;">Deutsch</mark>
+
+Die Schüler\*innen lernen was Fake News sind. Sie lernen die STOP-Methode kennen um Fake News zu erkennen. Ihr Wissen werden sie dann in einem Spiel anwenden: Der/die Lehrer/in wird eine Nachricht zeigen und die Schüler\*innen haben drei Sekunden Zeit um sich zu entscheiden, ob es sich um Fake News handelt oder nicht. Dazu müssen sie in die entsprechende Seite des Raumes rennen. Wer falsch liegt muss drei Kniebeuge machen.
+
+<mark style="color:$info;">🇬🇧 English</mark>
+
+The students learn what fake news is. They learn about the STOP-method to help identify fake news. They can then use their knowledge in a game: The teacher will show a piece of news and the students have three seconds to decide whether it is fake news or not. To make this decision they must run to the corresponding side of the room. If someone makes mistake they have to do three squats.
 
 </details>
 
