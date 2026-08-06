@@ -1090,18 +1090,6 @@ a.add_frame(m, 800)
 
 ***
 
-🧩 **Compute-it · Compute-it**
-
-🇩🇪 <mark style="color:$info;">Deutsch</mark>
-
-Die Schüler\*innen sollen compute-it.toxicode.fr auf ihrem Rechner öffnen. Danach können sie selbstständig einige Levels spielen um sich an die Befehle zu gewöhnen.
-
-🇬🇧 <mark style="color:$info;">English</mark>
-
-The students should open compute-it.toxicode.fr on their computers. Then they can play some levels freely for them to get used to the commands.
-
-***
-
 **🎮 Kahoot — Großes Abschluss-Quiz! · Kahoot — Grand Final Quiz!**
 
 🇩🇪 <mark style="color:$info;">Deutsch</mark>
