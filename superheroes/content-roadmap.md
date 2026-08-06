@@ -14,25 +14,15 @@ The Content Roadmap is a living document with **goals** **and** **sub-goals** **
 
 ***
 
-**🔥 Aufwärmen — Compute-it · Warm-Up — Compute-it**
+**🔥 Aufwärmen · Warm-Up**&#x20;
 
 🇩🇪 <mark style="color:$info;">Deutsch</mark>
 
 Der/die Lehrer/in ist ein Roboter. Die Schüler\*innen müssen dem Roboter Schritt für Schritt Anweisungen geben um ein Quadrat zu Zeichnen. Dazu gibt jede/r Schüler/in der Reihe nach genau eine Anweisung und nennt davor seinen/ihren Namen und sein/ihr Alter. Danach geht ihr in die Besprechung: Warum war das so schwer? Nur ein kleiner Fehler, führt schon zu Problemen.
 
-* Öffne compute-it.toxicode.fr auf deinem Bildschirm und spiele Level 1 gemeinsam als Klasse.
-* Folge den Pfeilen und verfolge, was der Computer Schritt für Schritt tut.
-* Frage: 'Was macht ein Computer eigentlich?' — er folgt Anweisungen, eine nach der anderen!
-* Genau das macht Python auch — es liest deinen Code Zeile für Zeile, von oben nach unten.
-
 🇬🇧 <mark style="color:$info;">English</mark>
 
 The teacher is a robot. The students have to give the robot step by step instructions in order to draw a square. To do this/ every student has one turn in order. In their turn, they should say their name, age and give exactly one instruction. Afterwards, you discuss what happened. Why was this so difficult? Just one small mistake can cause big problems.
-
-* Open compute-it.toxicode.fr on your screen and play Level 1 together as a class.
-* Follow the arrows and trace what the computer does step by step.
-* Ask: 'What does a computer actually DO?' — it follows instructions one at a time!
-* This is exactly what Python does — it reads your code line by line, top to bottom.
 
 ***
 
@@ -118,6 +108,24 @@ m[0][0] = (255, 100, 0)   # orange
 
 * Save your code in the app with your name.
 * Quick round: each student says ONE thing they learned today in one sentence.
+
+***
+
+🧩 **Compute-it · Compute-it**
+
+🇩🇪 <mark style="color:$info;">Deutsch</mark>
+
+* Öffne compute-it.toxicode.fr auf deinem Bildschirm und spiele Level 1 gemeinsam als Klasse.
+* Folge den Pfeilen und verfolge, was der Computer Schritt für Schritt tut.
+* Frage: 'Was macht ein Computer eigentlich?' — er folgt Anweisungen, eine nach der anderen!
+* Genau das macht Python auch — es liest deinen Code Zeile für Zeile, von oben nach unten.
+
+🇬🇧 <mark style="color:$info;">English</mark>
+
+* Open compute-it.toxicode.fr on your screen and play Level 1 together as a class.
+* Follow the arrows and trace what the computer does step by step.
+* Ask: 'What does a computer actually DO?' — it follows instructions one at a time!
+* This is exactly what Python does — it reads your code line by line, top to bottom.
 
 ***
 
