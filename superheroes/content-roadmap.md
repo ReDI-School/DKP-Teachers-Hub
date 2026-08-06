@@ -660,7 +660,7 @@ Die Schüler\*innen werden jetzt ein Ketten-Assoziationsspiel spielen. Dazu vers
 * Wo ist Zufälligkeit im Code nützlich? Spiele, Kunst, Simulationen, Sicherheit!
 
 <mark style="color:$info;">🇬🇧 English</mark>\
-The student will now be playing a chain-association game. To do this, first gather in a circle. Then one student can say one word out loud (e.g. sun). Now the next student in the circle has to quickly say a fitting word (e.g. light). This then continues though the circle. If someone needs more than 3 seconds to come of with a word or repeats a word, they are eliminated.
+The student will now be playing a chain-association game. To do this, first gather in a circle. Then one student can say one word out loud (e.g. sun). Now the next student in the circle has to quickly say a fitting word (e.g. light). This then continues through the circle. If someone needs more than 3 seconds to come up with a word or repeats a word, they are eliminated.
 
 * Play Compute-it Level 6 — this level introduces RANDOMNESS.
 * Dice game: roll a real die. Ask: 'Can you predict what number comes next?' → No! That's randomness.
