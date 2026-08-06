@@ -761,8 +761,6 @@ if random.randint(0, 10) > 7:
 
 **🔥 Aufwärmen — Compute-it Level 7 · Warm-Up — Compute-it Level 7**
 
-TODO: add warm-up from icebreaker list
-
 🇩🇪 <mark style="color:$info;">Deutsch</mark>
 
 Ihr spielt Feuer, Wasser, Sturm. Die Schüler\*innen laufen frei im Raum herum. Wenn du ein Befehl gibst, müssen alle Schüler\*innen diesen befolgen. Die Befehle sind:
