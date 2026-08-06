@@ -539,7 +539,7 @@ Die Schüler\*innen werden sich jetzt in sortierten Reihen zusammenfinden müsse
 
 🇬🇧 <mark style="color:$info;">English</mark>
 
-The students will now have to line up in order according to a criterion. To do so you will determine the criterion (e.g.  age) and the students have to line up in order as fast as possible. To make this more interesting you can modify the game by having a silent round, where the students can't talk to eachother or by setting a time limit. Examples for criteria are: age, birthday month, height, name (alphabetically), etc.
+The students will now have to line up in order according to a criterion. To do so you will determine the criterion (e.g.  age) and the students have to line up in order as fast as possible. To make this more interesting, you can modify the game by having a silent round, where the students can't talk to each other or by setting a time limit. Examples of criteria are: age, birthday month, height, name (alphabetically), etc.
 
 * Play Compute-it Level 5 — this level introduces CONDITIONS (if/else decisions).
 * Real-life if/else: 'IF it's raining, take an umbrella. ELSE, wear sunglasses.'
