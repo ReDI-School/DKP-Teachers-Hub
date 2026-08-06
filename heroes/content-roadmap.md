@@ -52,6 +52,38 @@ Die Schüler\*innen lernen was Fake News sind. Sie lernen die STOP-Methode kenne
 
 The students learn what fake news is. They learn about the STOP-method to help identify fake news. They can then use their knowledge in a game: The teacher will show a piece of news and the students have three seconds to decide whether it is fake news or not. To make this decision they must run to the corresponding side of the room. If someone makes mistake they have to do three squats.
 
+***
+
+**⌨️ Tastenkombinationen · Keyboard Shortcuts:**
+
+🇩🇪 <mark style="color:$info;">Deutsch</mark>
+
+<mark style="color:$info;">🇬🇧 English</mark>
+
+***
+
+**🐱 Scratch Interface · Scratch Interface:**
+
+🇩🇪 <mark style="color:$info;">Deutsch</mark>
+
+<mark style="color:$info;">🇬🇧 English</mark>
+
+***
+
+**🟢 Erstes Programm · First Program:**
+
+🇩🇪 <mark style="color:$info;">Deutsch</mark>
+
+<mark style="color:$info;">🇬🇧 English</mark>
+
+***
+
+**🎮 Kahoot — Zeit zum Spielen! · Kahoot — Game Time!**
+
+🇩🇪 <mark style="color:$info;">Deutsch</mark>
+
+<mark style="color:$info;">🇬🇧 English</mark>
+
 </details>
 
 <details>
