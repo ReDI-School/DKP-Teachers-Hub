@@ -445,7 +445,7 @@ Was haben wir in den letzten drei Wochen gelernt? Stelle offene Fragen und ident
 
 <mark style="color:$info;">🇬🇧 English</mark>
 
-What did we learn in the last three weeks? Ask open-ended questions and identify what the kids should remember from the last weeks. Work with the recap slide. week 1: coordinates and colours, week 2: variables, week 3: the for-loop.
+What did we learn in the last three weeks? Ask open-ended questions and identify what the kids should remember from the last weeks. Work with the recap slide. week 1: coordinates and colours (How do coordinates work in ImagiCharm?), week 2: variables (Why do we use variables?), week 3: the for-loop (How does the for loop work?).
 
 ***
 
@@ -579,7 +579,7 @@ Was haben wir in den letzten vier Wochen gelernt? Stelle offene Fragen und ident
 
 <mark style="color:$info;">🇬🇧 English</mark>
 
-What did we learn in the last four weeks? Ask open-ended questions and identify what the kids should remember from the last weeks. Work with the recap slide. week 1: coordinates and colours, week 2: variables, week 3: the for-loop, week 4: if-conditions.
+What did we learn in the last four weeks? Ask open-ended questions and identify what the kids should remember from the last weeks. Work with the recap slide. week 1: coordinates and colours (How do coordinates work in ImagiCharm?), week 2: variables (Why do we use variables), week 3: the for-loop (How does the for loop work?), week 4: if-conditions (What do if conditions do?).
 
 ***
 
