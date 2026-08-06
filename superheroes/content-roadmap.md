@@ -765,11 +765,29 @@ TODO: add warm-up from icebreaker list
 
 🇩🇪 <mark style="color:$info;">Deutsch</mark>
 
+Ihr spielt Feuer, Wasser, Sturm. Die Schüler\*innen laufen frei im Raum herum. Wenn du ein Befehl gibst, müssen alle Schüler\*innen diesen befolgen. Die Befehle sind:
+
+* 🔥 Feuer: Lauft in die Raumecke!
+* 💧 Wasser: Setzt euch auf einen Stuhl (Füße hoch)!
+* ⛈️ Sturm: Legt euch flach auf den Bauch!
+* 🧊 Eis: Bleibt wie eingefroren stehen!
+
+Nach ein paar Runden kann dann ein/e Schüler/in die Befehle geben. Ihr könnt auch eigene Befehle hinzufügen oder andere Wörter (z.B. Tornado) zur Verwirrung sagen.
+
 * Spiele Compute-it Level 7 — dieses Level zeigt FUNKTIONEN: benannte Blöcke von Anweisungen.
 * LEGO-Analogie: Eine Funktion ist wie ein LEGO-Stein. Du entwirfst ihn einmal, dann schnappst du ihn überall ein, wo du ihn brauchst!
 * Funktionen im echten Leben: Ein Rezept ist eine Funktion! 'kuchen\_backen()' — du rufst es auf und es macht alle Schritte.
 
 🇬🇧 <mark style="color:$info;">English</mark>
+
+You will be playing Feuer, Wasser, Sturm. The students will be walking through the room freely. When you give an instruction, they must do the corresponding action. The instructions are:
+
+* 🔥 Feuer: Run to a corner of the room!
+* 💧 Wasser: Sit down on a chair (lift your feet)!
+* ⛈️ Sturm: Lay down flat on your belly!
+* 🧊 Eis: Stand still as if you were frozen!
+
+After a few round a student can be giving the instructions. You can also add your own instructions or add in random words (e.g. Tornado) for confusion.
 
 * Play Compute-it Level 7 — this level shows FUNCTIONS: named blocks of instructions.
 * LEGO analogy: a function is like a LEGO brick. You design it once, then snap it in wherever you need it!
