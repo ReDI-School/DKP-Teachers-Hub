@@ -517,15 +517,17 @@ a.add_frame(m, 400)
 
 **🔥 Aufwärmen — Compute-it Level 5 · Warm-Up — Compute-it Level 5**
 
-TODO: add warm-up from icebreaker list
-
 🇩🇪 <mark style="color:$info;">Deutsch</mark>
+
+Die Schüler\*innen werden sich jetzt in sortierten Reihen zusammenfinden müssen. Dazu gibst du ein Kriterium vor (z.B. Alter) und Schüler\*innen müssen sich so schnell wie möglich nach diesem Kriterium sortiert aufstellen. Um das ganze etwas spannender zu machen kannst du das Spiel noch modifizieren, indem die Schüler\*innen z.B. nicht reden dürfen oder du ihnen ein Zeitlimit setzt. Beispiele für Kriterien sind: Alter, Geburtagsmonat, Körpergröße, Vorname (alphabetisch), etc.
 
 * Spiele Compute-it Level 5 — dieses Level führt BEDINGUNGEN (if/else-Entscheidungen) ein.
 * If/else im echten Leben: 'WENN es regnet, nimm einen Regenschirm. SONST trage eine Sonnenbrille.'
 * Frage Schüler: Gib 3 Beispiele aus dem echten Leben für if/else-Entscheidungen, die du jeden Tag triffst.
 
 🇬🇧 <mark style="color:$info;">English</mark>
+
+The students will now have to line up in order according to a criterion. To do so you will determine the criterion (e.g.  age) and the students have to line up in order as fast as possible. To make this more interesting you can modify the game by having a silent round, where the students can't talk to eachother or by setting a time limit. Examples for criteria are: age, birthday month, height, name (alphabetically), etc.
 
 * Play Compute-it Level 5 — this level introduces CONDITIONS (if/else decisions).
 * Real-life if/else: 'IF it's raining, take an umbrella. ELSE, wear sunglasses.'
