@@ -298,17 +298,9 @@ The students should open compute-it.toxicode.fr on their computers. Then they ca
 
 Ihr werdet jetzt Stille Post spielen. Versammelt euch dazu im Kreis. Ein/e Schüler\*in denkt sich jetzt ein Wort aus. Nun flüstert er/sie das Wort zum/r  Nächsten. Das passiert nun weiter so im Kreis bis das Wort wieder bei dem/der ersten Schüler\*in ankommt. Dann vergleicht ihr das Startwort und das aktuelle Wort und schaut ob sich das Wort verändert hat.
 
-* Spiele Compute-it Level 3 — dieses Level führt SCHLEIFEN ein: dieselbe Sache mehrmals tun.
-* Zähle zusammen: Wie oft läuft die Schleife? Was ändert sich jedes Mal?
-* Schleifen im echten Leben: 5 Mal klatschen, bis 10 zählen, jeden Teller abwaschen — gleiche Aktion, wiederholt!
-
 🇬🇧 <mark style="color:$info;">English</mark>
 
 You will now be silently passing a message through the group. To do this, first gather in a circle. Now the first student can think of a word. They will now whisper their word to the next student. This continues throughout the entire circle until the word arrives back at the first student. Now compare the first word and the current word and see if something has changed.
-
-* Play Compute-it Level 3 — this level introduces LOOPS: doing the same thing multiple times.
-* Count together: how many times does the loop run? What changes each time?
-* Real-world loops: clapping 5 times, counting to 10, washing each dish — same action, repeated!
 
 ***
 
@@ -383,10 +375,6 @@ for x in range(8):
 
 ***
 
-🧩 **Compute-it · Compute-it**
-
-***
-
 **🎨 Projekt — Streifen & Leitern · Project — Stripes & Ladders**
 
 <mark style="color:$info;">🇩🇪 Deutsch</mark>
@@ -400,6 +388,18 @@ for x in range(8):
 * Create a striped or checkered pattern using ONLY for loops — no individual m\[x]\[y] lines allowed!
 * Ideas: rainbow stripes (each row a different colour), diagonal pattern, border frame.
 * Share your pattern: can your neighbour recreate it just by looking at your imagiCharm?
+
+***
+
+🧩 **Compute-it · Compute-it**
+
+🇩🇪 <mark style="color:$info;">Deutsch</mark>
+
+Die Schüler\*innen sollen compute-it.toxicode.fr auf ihrem Rechner öffnen. Danach können sie selbstständig einige levels spielen um sich an die Befehle zu gewöhnen.
+
+🇬🇧 <mark style="color:$info;">English</mark>
+
+The students should open compute-it.toxicode.fr on their computers. Then they can play some levels freely for them to get used to the commands.
 
 ***
 
@@ -433,17 +433,9 @@ for x in range(8):
 
 Ihr spielt wahr oder falsch. Dazu liest der/die Lehrer/in eine Aussage vor und die Schüler\*innen müssen entscheiden, ob die Aussage wahr oder falsch ist. Wenn sie glauben, dass die Aussage wahr ist, sollen sie aufstehen. Ansonsten sollen sie sitzen bleiben. Im Anschluss erklärt ihr zusammen warum.
 
-* Spiele Compute-it Level 4 — dieses Level zeigt SEQUENZEN: Schritte, die nacheinander passieren.
-* Daumenkino-Demo: Blättere schnell durch ein kleines Daumenkino (oder zeige ein GIF) — frage 'Was lässt das wie Bewegung aussehen?'
-* Antwort: Viele Standbilder, sehr schnell gezeigt! Genau so funktioniert Animation im Code.
-
 🇬🇧 <mark style="color:$info;">English</mark>
 
 You will be playing true or false. To do so, the teacher will read a statement and the students have to decide whether the statement is true or false. If they think that the statement is true, they should stand up. Otherwise, they should stay seated. Afterwards, you will discuss together why.
-
-* Play Compute-it Level 4 — this level shows SEQUENCES: steps that happen one after another.
-* Flip-book demo: quickly flip through a small flip-book (or show a GIF) — ask 'what makes this look like it's moving?'
-* Answer: many still images shown very fast! That's exactly how animation works in code.
 
 ***
 
@@ -539,6 +531,14 @@ a.add_frame(m, 400)
 
 🧩 **Compute-it · Compute-it**
 
+🇩🇪 <mark style="color:$info;">Deutsch</mark>
+
+Die Schüler\*innen sollen compute-it.toxicode.fr auf ihrem Rechner öffnen. Danach können sie selbstständig einige levels spielen um sich an die Befehle zu gewöhnen.
+
+🇬🇧 <mark style="color:$info;">English</mark>
+
+The students should open compute-it.toxicode.fr on their computers. Then they can play some levels freely for them to get used to the commands.
+
 ***
 
 **🎮 Kahoot — Animation-Quiz · Kahoot — Animation Quiz**
@@ -571,17 +571,9 @@ a.add_frame(m, 400)
 
 Die Schüler\*innen werden sich jetzt in sortierten Reihen zusammenfinden müssen. Dazu gibst du ein Kriterium vor (z.B. Alter) und Schüler\*innen müssen sich so schnell wie möglich nach diesem Kriterium sortiert aufstellen. Um das ganze etwas spannender zu machen kannst du das Spiel noch modifizieren, indem die Schüler\*innen z.B. nicht reden dürfen oder du ihnen ein Zeitlimit setzt. Beispiele für Kriterien sind: Alter, Geburtagsmonat, Körpergröße, Vorname (alphabetisch), etc.
 
-* Spiele Compute-it Level 5 — dieses Level führt BEDINGUNGEN (if/else-Entscheidungen) ein.
-* If/else im echten Leben: 'WENN es regnet, nimm einen Regenschirm. SONST trage eine Sonnenbrille.'
-* Frage Schüler: Gib 3 Beispiele aus dem echten Leben für if/else-Entscheidungen, die du jeden Tag triffst.
-
 🇬🇧 <mark style="color:$info;">English</mark>
 
 The students will now have to line up in order according to a criterion. To do so you will determine the criterion (e.g.  age) and the students have to line up in order as fast as possible. To make this more interesting, you can modify the game by having a silent round, where the students can't talk to each other or by setting a time limit. Examples of criteria are: age, birthday month, height, name (alphabetically), etc.
-
-* Play Compute-it Level 5 — this level introduces CONDITIONS (if/else decisions).
-* Real-life if/else: 'IF it's raining, take an umbrella. ELSE, wear sunglasses.'
-* Ask students: give 3 real-life examples of if/else decisions they make every day.
 
 ***
 
@@ -677,6 +669,14 @@ for x in range(8):
 
 🧩 **Compute-it · Compute-it**
 
+🇩🇪 <mark style="color:$info;">Deutsch</mark>
+
+Die Schüler\*innen sollen compute-it.toxicode.fr auf ihrem Rechner öffnen. Danach können sie selbstständig einige levels spielen um sich an die Befehle zu gewöhnen.
+
+🇬🇧 <mark style="color:$info;">English</mark>
+
+The students should open compute-it.toxicode.fr on their computers. Then they can play some levels freely for them to get used to the commands.
+
 ***
 
 🎮 **Kahoot — Bedingungen-Quiz · Kahoot — Conditionals Quiz**
@@ -709,16 +709,8 @@ for x in range(8):
 
 Die Schüler\*innen werden jetzt ein Ketten-Assoziationsspiel spielen. Dazu versammelt ihr euch im Kreis. Ein/e Schüler/in kann jetzt das erste Wort nennen (z.B. Sonne). Der/die nächste/r im Kreis muss jetzt schnell ein Wort nennen, das dazu passt (z.B. Licht). Das geht jetzt im Kreis immer so weiter. Wenn jemand mehr als 3 Sekunden braucht oder ein Wort wiederholt ist er raus.
 
-* Spiele Compute-it Level 6 — dieses Level führt ZUFÄLLIGKEIT ein.
-* Würfelspiel: Wirf einen echten Würfel. Frage: 'Kannst du vorhersagen, welche Zahl als nächstes kommt?' → Nein! Das ist Zufälligkeit.
-* Wo ist Zufälligkeit im Code nützlich? Spiele, Kunst, Simulationen, Sicherheit!
-
 <mark style="color:$info;">🇬🇧 English</mark>\
 The student will now be playing a chain-association game. To do this, first gather in a circle. Then one student can say one word out loud (e.g. sun). Now the next student in the circle has to quickly say a fitting word (e.g. light). This then continues through the circle. If someone needs more than 3 seconds to come up with a word or repeats a word, they are eliminated.
-
-* Play Compute-it Level 6 — this level introduces RANDOMNESS.
-* Dice game: roll a real die. Ask: 'Can you predict what number comes next?' → No! That's randomness.
-* Where is randomness useful in code? Games, art, simulations, security!
 
 ***
 
@@ -815,6 +807,14 @@ if random.randint(0, 10) > 7:
 
 🧩 **Compute-it · Compute-it**
 
+🇩🇪 <mark style="color:$info;">Deutsch</mark>
+
+Die Schüler\*innen sollen compute-it.toxicode.fr auf ihrem Rechner öffnen. Danach können sie selbstständig einige levels spielen um sich an die Befehle zu gewöhnen.
+
+🇬🇧 <mark style="color:$info;">English</mark>
+
+The students should open compute-it.toxicode.fr on their computers. Then they can play some levels freely for them to get used to the commands.
+
 ***
 
 **🎮 Kahoot — Module & Zufall · Kahoot — Modules & Randomness**
@@ -854,10 +854,6 @@ Ihr spielt Feuer, Wasser, Sturm. Die Schüler\*innen laufen frei im Raum herum. 
 
 Nach ein paar Runden kann dann ein/e Schüler/in die Befehle geben. Ihr könnt auch eigene Befehle hinzufügen oder andere Wörter (z.B. Tornado) zur Verwirrung sagen.
 
-* Spiele Compute-it Level 7 — dieses Level zeigt FUNKTIONEN: benannte Blöcke von Anweisungen.
-* LEGO-Analogie: Eine Funktion ist wie ein LEGO-Stein. Du entwirfst ihn einmal, dann schnappst du ihn überall ein, wo du ihn brauchst!
-* Funktionen im echten Leben: Ein Rezept ist eine Funktion! 'kuchen\_backen()' — du rufst es auf und es macht alle Schritte.
-
 🇬🇧 <mark style="color:$info;">English</mark>
 
 You will be playing Feuer, Wasser, Sturm. The students will be walking through the room freely. When you give an instruction, they must do the corresponding action. The instructions are:
@@ -868,10 +864,6 @@ You will be playing Feuer, Wasser, Sturm. The students will be walking through t
 * 🧊 Eis: Stand still as if you were frozen!
 
 After a few rounds a student can be giving the instructions. You can also add your own instructions or add in random words (e.g. Tornado) for confusion.
-
-* Play Compute-it Level 7 — this level shows FUNCTIONS: named blocks of instructions.
-* LEGO analogy: a function is like a LEGO brick. You design it once, then snap it in wherever you need it!
-* Real-world functions: a recipe is a function! 'make\_cake()' — you call it and it does all the steps.
 
 ***
 
@@ -968,6 +960,14 @@ fill_row(7, O)
 
 🧩 **Compute-it · Compute-it**
 
+🇩🇪 <mark style="color:$info;">Deutsch</mark>
+
+Die Schüler\*innen sollen compute-it.toxicode.fr auf ihrem Rechner öffnen. Danach können sie selbstständig einige levels spielen um sich an die Befehle zu gewöhnen.
+
+🇬🇧 <mark style="color:$info;">English</mark>
+
+The students should open compute-it.toxicode.fr on their computers. Then they can play some levels freely for them to get used to the commands.
+
 ***
 
 **🎮 Kahoot — Funktionen-Quiz · Kahoot — Functions Quiz**
@@ -1000,17 +1000,9 @@ fill_row(7, O)
 
 Die Kinder werden sich gegenseitig programmieren. Teile dazu die Kinder in Paare ein. Ein Kind ist der/die Programmierer/in  und das andere Kind ist der Roboter. Der/die Programmierer/in muss nun dem Roboter Schritt für Schritt Anweisungen geben um eine Aufgabe zu machen. Der Roboter darf aber nur GENAU das machen, was ihm der/die Programmier/in sagt. Das führt du lustigen Fehlern, die der/die Programmier/in beheben muss. Nachdem die Aufgabe erfüllt ist, tauschen die Kinder ihre Rollen. Beispielaufgaben: Ein Quadrat zeichnen auf Papier oder etwas kleines aus Bausteinen bauen.
 
-* Spiele Compute-it Level 8 — das letzte Level! Feiere den Abschluss des gesamten Spiels.
-* Schneller Fähigkeiten-Rückblick: Gehe durch den Raum — jede Schülerin nennt EINEN Python-Begriff, den sie sich merkt.
-* Fähigkeiten-Checkliste an der Tafel: Variablen ✓ Schleifen ✓ Animation ✓ If/Else ✓ Zufall ✓ Funktionen ✓
-
 🇬🇧 <mark style="color:$info;">English</mark>
 
 The kids will be programming each other. Pair the students up. One kid is the programmer and one kid is the robot. The programmer will now be giving the robot step by step instructions to do a task. However, the robot is only allowed to do EXACTLY what he is instructed. This causes funny mistakes that the programmer has to fix. After the task is finished, the kids will swap roles. Example tasks: Draw a square on a piece of paper or build something small out of blocks.
-
-* Play Compute-it Level 8 — the final level! Celebrate completing the whole game.
-* Quick skills review: go around the room — each student names ONE Python concept they remember.
-* Skills checklist on the board: Variables ✓ Loops ✓ Animation ✓ If/Else ✓ Random ✓ Functions ✓
 
 ***
 
@@ -1099,6 +1091,14 @@ a.add_frame(m, 800)
 ***
 
 🧩 **Compute-it · Compute-it**
+
+🇩🇪 <mark style="color:$info;">Deutsch</mark>
+
+Die Schüler\*innen sollen compute-it.toxicode.fr auf ihrem Rechner öffnen. Danach können sie selbstständig einige levels spielen um sich an die Befehle zu gewöhnen.
+
+🇬🇧 <mark style="color:$info;">English</mark>
+
+The students should open compute-it.toxicode.fr on their computers. Then they can play some levels freely for them to get used to the commands.
 
 ***
 
