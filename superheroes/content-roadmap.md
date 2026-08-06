@@ -441,7 +441,7 @@ You will be playing true or false. To do so, the teacher will read a statement a
 
 <mark style="color:$info;">🇩🇪 Deutsch</mark>
 
-Was haben wir in den letzten drei Wochen gelernt? Stelle offene Fragen und identifiziere die wesentlichen Punkte von den letzten Woche, an die sich die Kinder erinnern sollen. Arbeite mit der Recap Folie. Woche 1: Koordinaten und Farben, Woche 2: Variablen, Woche 3: Die for-Schleife.
+Was haben wir in den letzten drei Wochen gelernt? Stelle offene Fragen und identifiziere die wesentlichen Punkte von den letzten Woche, an die sich die Kinder erinnern sollen. Arbeite mit der Recap Folie. Woche 1: Koordinaten und Farben (Wie funktionieren Koordinaten im ImagiCharm?), Woche 2: Variablen (Warum benutzt man Variablen?), Woche 3: Die for-Schleife (Wie funktioniert die for-Schleife?).
 
 <mark style="color:$info;">🇬🇧 English</mark>
 
@@ -575,7 +575,7 @@ The students will now have to line up in order according to a criterion. To do s
 
 <mark style="color:$info;">🇩🇪 Deutsch</mark>
 
-Was haben wir in den letzten vier Wochen gelernt? Stelle offene Fragen und identifiziere die wesentlichen Punkte von den letzten Woche, an die sich die Kinder erinnern sollen. Arbeite mit der Recap Folie. Woche 1: Koordinaten und Farben, Woche 2: Variablen, Woche 3: Die for-Schleife, Woche 4: if-Anweisungen.
+Was haben wir in den letzten vier Wochen gelernt? Stelle offene Fragen und identifiziere die wesentlichen Punkte von den letzten Woche, an die sich die Kinder erinnern sollen. Arbeite mit der Recap Folie. Woche 1: Koordinaten und Farben (Wie funktionieren Koordinaten im ImagiCharm?), Woche 2: Variablen Warum benutzt man Variablen?), Woche 3: Die for-Schleife (Wie funktioniert die for-Schleife?), Woche 4: if-Anweisungen (Was machen if-Anweisungen?).
 
 <mark style="color:$info;">🇬🇧 English</mark>
 
