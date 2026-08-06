@@ -306,6 +306,18 @@ You will now be silently passing a message through the group. To do this, first 
 
 ***
 
+🧠 **Wiederholen · Recap**
+
+<mark style="color:$info;">🇩🇪 Deutsch</mark>
+
+Was haben wir letzte Woche gelernt? Stelle offene Fragen und identifiziere die wesentlichen Punkte von letzter Woche, an die sich die Kinder erinnern sollen. Was ist eine Variable? Warum gibt es Variablen? Was ist RGB? Gehe die Recap Folie durch.
+
+<mark style="color:$info;">🇬🇧 English</mark>
+
+What did we learn last week? Ask open-ended questions and identify what the kids should remember from last week. What are variables? Why do we use variables?  What is RGB? Go through the recap slide.
+
+***
+
 **📖 Theorie — For-Schleifen · Theory — For Loops**
 
 <mark style="color:$info;">🇩🇪 Deutsch</mark>
