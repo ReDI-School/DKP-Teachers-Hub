@@ -161,7 +161,7 @@ Die Schüler\*innen müssen den Satz ausfüllen: "Wenn ich ein persönliches Log
 
 <mark style="color:$info;">🇬🇧 English</mark>
 
-The students need to fill out the sentence: "If I had to code a personal logo for my backpack, it would be a \[Color] \[Shape] that represents my love for \[Hobby].". They will get 60 seconds to think of their values for the three variables in this sentence. Then they will each "run their code", by reading the sentence filled out with their values for the variables on by one.
+The students need to fill out the sentence: "If I had to code a personal logo for my backpack, it would be a \[Color] \[Shape] that represents my love for \[Hobby].". They will get 60 seconds to think of their values for the three variables in this sentence. Then they will each "run their code", by reading the sentence filled out with their values for the variables one by one.
 
 * Open compute-it.toxicode.fr — play Level 2 as a class.
 * Focus: the computer remembers values in 'boxes' (variables). Watch how the value in the box changes.
