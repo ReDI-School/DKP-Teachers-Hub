@@ -643,11 +643,14 @@ TODO: add warm-up from icebreaker list
 
 <mark style="color:$info;">🇩🇪 Deutsch</mark>
 
+Die Schüler\*innen werden jetzt ein Ketten-Assoziationsspiel spielen. Dazu versammelt ihr euch im Kreis. Ein/e Schüler/in kann jetzt das erste Wort nennen (z.B. Sonne). Der/die nächste/r im Kreis muss jetzt schnell ein Wort nennen, das dazu passt (z.B. Licht). Das geht jetzt im Kreis immer so weiter. Wenn jemand mehr als 3 Sekunden braucht oder ein Wort wiederholt ist er raus.
+
 * Spiele Compute-it Level 6 — dieses Level führt ZUFÄLLIGKEIT ein.
 * Würfelspiel: Wirf einen echten Würfel. Frage: 'Kannst du vorhersagen, welche Zahl als nächstes kommt?' → Nein! Das ist Zufälligkeit.
 * Wo ist Zufälligkeit im Code nützlich? Spiele, Kunst, Simulationen, Sicherheit!
 
-<mark style="color:$info;">🇬🇧 English</mark>
+<mark style="color:$info;">🇬🇧 English</mark>\
+The student will now be playing a chain-association game. To do this, first gather in a circle. Then one student can say one word out loud (e.g. sun). Now the next student in the circle has to quickly say a fitting word (e.g. light). This then continues though the circle. If someone needs more than 3 seconds to come of with a word or repeats a word, they are eliminated.
 
 * Play Compute-it Level 6 — this level introduces RANDOMNESS.
 * Dice game: roll a real die. Ask: 'Can you predict what number comes next?' → No! That's randomness.
