@@ -393,6 +393,10 @@ for x in range(8):
 
 ***
 
+🧩 **Compute-it · Compute-it**
+
+***
+
 **🎨 Projekt — Streifen & Leitern · Project — Stripes & Ladders**
 
 <mark style="color:$info;">🇩🇪 Deutsch</mark>
@@ -543,6 +547,10 @@ a.add_frame(m, 400)
 
 ***
 
+🧩 **Compute-it · Compute-it**
+
+***
+
 **🎮 Kahoot — Animation-Quiz · Kahoot — Animation Quiz**
 
 <mark style="color:$info;">🇩🇪 Deutsch</mark>
@@ -677,6 +685,10 @@ for x in range(8):
 
 ***
 
+🧩 **Compute-it · Compute-it**
+
+***
+
 🎮 **Kahoot — Bedingungen-Quiz · Kahoot — Conditionals Quiz**
 
 🇩🇪 <mark style="color:$info;">Deutsch</mark>
@@ -808,6 +820,10 @@ if random.randint(0, 10) > 7:
 * Step 2: In a loop for 4 frames — clear grid to K, then place 6 random stars using random.randint(0,7), then a.add\_frame(m, 300).
 * The stars will twinkle — different positions each frame!
 * Optional: use a random colour for each star.
+
+***
+
+🧩 **Compute-it · Compute-it**
 
 ***
 
@@ -960,6 +976,10 @@ fill_row(7, O)
 
 ***
 
+🧩 **Compute-it · Compute-it**
+
+***
+
 **🎮 Kahoot — Funktionen-Quiz · Kahoot — Functions Quiz**
 
 <mark style="color:$info;">🇩🇪 Deutsch</mark>
@@ -1085,6 +1105,10 @@ a.add_frame(m, 800)
 * At 40 min: start polishing — fix bugs, adjust colours, add animation timing.
 * At 50 min: rehearse your 60-second presentation with a partner.
 * Remember: it doesn't have to be perfect — it has to be YOURS!
+
+***
+
+🧩 **Compute-it · Compute-it**
 
 ***
 
