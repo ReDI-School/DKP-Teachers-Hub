@@ -258,17 +258,13 @@ m[3][0] = O    # orange
 
 🧩 **Compute-it · Compute-it**
 
-<mark style="color:$info;">🇩🇪 Deutsch</mark>
+🇩🇪 <mark style="color:$info;">Deutsch</mark>
 
-* Öffne compute-it.toxicode.fr — spiele Level 2 als Klasse.
-* Fokus: Der Computer merkt sich Werte in 'Boxen' (Variablen). Beobachte, wie sich der Wert in der Box ändert.
-* Frage: 'Wenn die Box mit 5 beginnt und wir 3 addieren, was ist jetzt drin?' → Das ist genau das, was eine Variable macht!
+Die Schüler\*innen sollen compute-it.toxicode.fr auf ihrem Rechner öffnen. Danach können sie selbstständig einige levels spielen um sich an die Befehle zu gewöhnen.
 
 🇬🇧 <mark style="color:$info;">English</mark>
 
-* Open compute-it.toxicode.fr — play Level 2 as a class.
-* Focus: the computer remembers values in 'boxes' (variables). Watch how the value in the box changes.
-* Ask: 'If the box starts with 5 and we add 3, what's inside now?' → This is exactly what a variable does!
+The students should open compute-it.toxicode.fr on their computers. Then they can play some levels freely for them to get used to the commands.
 
 ***
 
