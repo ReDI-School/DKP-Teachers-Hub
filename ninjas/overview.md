@@ -797,7 +797,7 @@ Die Kinder werden sich gegenseitig programmieren. Teile dazu die Kinder in Paare
 
 🇬🇧 <mark style="color:$info;">English</mark>
 
-The kids will be programming eachother. Pair the students up. One kid is the programmer and one kid is the robot. The programmer will now be giving the robot step by step instructions to do a task. However the robot only allowed to do EXACTLY what he is instructed. This causes funny mistakes that the Programmer hast to fix. After the task is finished the kids will swap roles. Example tasks: Draw a square on a piece of paper or build something small out of blocks.
+The kids will be programming each other. Pair the students up. One kid is the programmer and one kid is the robot. The programmer will now be giving the robot step by step instructions to do a task. However, the robot is only allowed to do EXACTLY what he is instructed. This causes funny mistakes that the programmer has to fix. After the task is finished, the kids will swap roles. Example tasks: Draw a square on a piece of paper or build something small out of blocks.
 
 ***
 
