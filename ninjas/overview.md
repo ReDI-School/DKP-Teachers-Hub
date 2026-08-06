@@ -942,11 +942,11 @@ The kids will be divided into groups in a random and fair way. Mention to the ki
 
 <mark style="color:$info;">🇩🇪 Deutsch</mark>
 
-Die Kinder spielen jetzt ein Memory-Spiel in ihren Gruppen mit den gelernten Inhalten dieses Semesters. Dazu verdecken sie die ausgedruckten Karten und das erste Kind dreht zwei davon um. Gehören sie zusammen, so darf das Kind sie behalten, ansonsten werden sie umgedreht und das nächste Kind ist am Zug. Wer am Ende die meisten Karten hat, hat gewonnen.
+Die Kinder spielen jetzt ein Memory-Spiel in ihren Gruppen mit den gelernten Inhalten dieses Semesters. Dazu verdecken sie die ausgedruckten Karten und das erste Kind dreht zwei davon um. Gehören sie zusammen, so darf das Kind sie behalten, ansonsten werden sie umgedreht und das nächste Kind ist am Zug. Wer am Ende die meisten Karten hat, hat gewonnen. Du kannst die Karten zum ausdruck [hier](https://docs.google.com/document/d/167DDFZlsskDpCX6sYG6Ee4nevWBSC5334YVsLScGAhQ/edit?tab=t.0) finden.
 
 🇬🇧 <mark style="color:$info;">English</mark>
 
-The kids will now be playing a memory game in their groups. To do so they will first lay all the printed cards face down. The current player will then uncover two cards. If they belong together, the player can keep them. Otherwise the cards are placed face down and it's the next players turn. Whoever has the most cards at the end of the game is the winner.
+The kids will now be playing a memory game in their groups. To do so they will first lay all the printed cards face down. The current player will then uncover two cards. If they belong together, the player can keep them. Otherwise the cards are placed face down and it's the next players turn. Whoever has the most cards at the end of the game is the winner. You can find the printable cards [here](https://docs.google.com/document/d/167DDFZlsskDpCX6sYG6Ee4nevWBSC5334YVsLScGAhQ/edit?tab=t.0).
 
 ***
 
