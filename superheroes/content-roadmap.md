@@ -417,7 +417,7 @@ Ihr spielt wahr oder falsch. Dazu liest der/die Lehrer/in eine Aussage vor und d
 
 🇬🇧 <mark style="color:$info;">English</mark>
 
-You will be playing true or false. To do so, the teacher will read a statement and the students have to decide, whether the statement is true or false. If they think that the statement is true, they should stand up. Otherwise they should stay seated. Afterwards you will discuss together why.
+You will be playing true or false. To do so, the teacher will read a statement and the students have to decide whether the statement is true or false. If they think that the statement is true, they should stand up. Otherwise, they should stay seated. Afterwards, you will discuss together why.
 
 * Play Compute-it Level 4 — this level shows SEQUENCES: steps that happen one after another.
 * Flip-book demo: quickly flip through a small flip-book (or show a GIF) — ask 'what makes this look like it's moving?'
