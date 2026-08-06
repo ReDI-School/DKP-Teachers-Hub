@@ -163,17 +163,9 @@ m[0][0] = (255, 100, 0)   # orange
 
 Die Schüler\*innen müssen den Satz ausfüllen: "Wenn ich ein persönliches Logo für meinen Rucksack programmieren müsste, wäre es eine \[Farbe] \[Form], die meine Begeisterung für \[Hobby] zeigt.". Dazu kriegen sie 60 Sekunden Zeit um sich ihre Werte für die drei Variablen auszudenken. Jetzt "führt" jede/r ihren code der Reihe nach "aus", indem sie den Satz, mit ihren Werten eingesetzt, vorlesen.
 
-* Öffne compute-it.toxicode.fr — spiele Level 2 als Klasse.
-* Fokus: Der Computer merkt sich Werte in 'Boxen' (Variablen). Beobachte, wie sich der Wert in der Box ändert.
-* Frage: 'Wenn die Box mit 5 beginnt und wir 3 addieren, was ist jetzt drin?' → Das ist genau das, was eine Variable macht!
-
 <mark style="color:$info;">🇬🇧 English</mark>
 
 The students need to fill out the sentence: "If I had to code a personal logo for my backpack, it would be a \[Color] \[Shape] that represents my love for \[Hobby].". They will get 60 seconds to think of their values for the three variables in this sentence. Then they will each "run their code", by reading the sentence filled out with their values for the variables one by one.
-
-* Open compute-it.toxicode.fr — play Level 2 as a class.
-* Focus: the computer remembers values in 'boxes' (variables). Watch how the value in the box changes.
-* Ask: 'If the box starts with 5 and we add 3, what's inside now?' → This is exactly what a variable does!
 
 ***
 
@@ -267,6 +259,22 @@ m[3][0] = O    # orange
 * Design a pixel character using your custom colours! It could be a robot, alien, animal, or superhero.
 * Requirements: use at least 3 different colour variables, light up at least 10 pixels.
 * Name your character and show it to a partner — can they guess what it is?
+
+***
+
+🧩 **Compute-it · Compute-it**
+
+<mark style="color:$info;">🇩🇪 Deutsch</mark>
+
+* Öffne compute-it.toxicode.fr — spiele Level 2 als Klasse.
+* Fokus: Der Computer merkt sich Werte in 'Boxen' (Variablen). Beobachte, wie sich der Wert in der Box ändert.
+* Frage: 'Wenn die Box mit 5 beginnt und wir 3 addieren, was ist jetzt drin?' → Das ist genau das, was eine Variable macht!
+
+🇬🇧 <mark style="color:$info;">English</mark>
+
+* Open compute-it.toxicode.fr — play Level 2 as a class.
+* Focus: the computer remembers values in 'boxes' (variables). Watch how the value in the box changes.
+* Ask: 'If the box starts with 5 and we add 3, what's inside now?' → This is exactly what a variable does!
 
 ***
 
