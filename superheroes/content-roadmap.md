@@ -169,6 +169,18 @@ The students need to fill out the sentence: "If I had to code a personal logo fo
 
 ***
 
+🧠 **Wiederholen · Recap**
+
+<mark style="color:$info;">🇩🇪 Deutsch</mark>
+
+Was haben wir letzte Woche gelernt? Stelle offene Fragen und identifiziere die wesentlichen Punkte von letzter Woche, an die sich die Kinder erinnern sollen. Was ist Python? Was ist ImagiCharm? Was sind Fake-News? Wie erkennt man Fake-News?
+
+<mark style="color:$info;">🇬🇧 English</mark>
+
+What did we learn last week? Ask open-ended questions and identify what the kids should remember from last week. What is Python? What is ImagiCharm? What are are fake news? How can you identify fake news?
+
+***
+
 **📖 Theorie — Variablen & RGB · Theory — Variables & RGB**
 
 🇩🇪 <mark style="color:$info;">Deutsch</mark>
