@@ -797,7 +797,7 @@ You will be playing Feuer, Wasser, Sturm. The students will be walking through t
 * ⛈️ Sturm: Lay down flat on your belly!
 * 🧊 Eis: Stand still as if you were frozen!
 
-After a few round a student can be giving the instructions. You can also add your own instructions or add in random words (e.g. Tornado) for confusion.
+After a few rounds a student can be giving the instructions. You can also add your own instructions or add in random words (e.g. Tornado) for confusion.
 
 * Play Compute-it Level 7 — this level shows FUNCTIONS: named blocks of instructions.
 * LEGO analogy: a function is like a LEGO brick. You design it once, then snap it in wherever you need it!
