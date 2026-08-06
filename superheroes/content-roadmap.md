@@ -437,6 +437,18 @@ You will be playing true or false. To do so, the teacher will read a statement a
 
 ***
 
+🧠 **Wiederholen · Recap**
+
+<mark style="color:$info;">🇩🇪 Deutsch</mark>
+
+Was haben wir in den letzten drei Wochen gelernt? Stelle offene Fragen und identifiziere die wesentlichen Punkte von den letzten Woche, an die sich die Kinder erinnern sollen. Arbeite mit der Recap Folie. Woche 1: Koordinaten und Farben, Woche 2: Variablen, Woche 3: Die for-Schleife.
+
+<mark style="color:$info;">🇬🇧 English</mark>
+
+What did we learn in the last three weeks? Ask open-ended questions and identify what the kids should remember from the last weeks. Work with the recap slide. week 1: coordinates and colours, week 2: variables, week 3: the for-loop.
+
+***
+
 **📖 Theorie — Animation & Frames · Theory — Animation & Frames**
 
 🇩🇪 <mark style="color:$info;">Deutsch</mark>
