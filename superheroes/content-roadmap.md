@@ -639,8 +639,6 @@ for x in range(8):
 
 **🔥 Aufwärmen — Compute-it Level 6 · Warm-Up — Compute-it Level 6**
 
-TODO: add warm-up from icebreaker list
-
 <mark style="color:$info;">🇩🇪 Deutsch</mark>
 
 Die Schüler\*innen werden jetzt ein Ketten-Assoziationsspiel spielen. Dazu versammelt ihr euch im Kreis. Ein/e Schüler/in kann jetzt das erste Wort nennen (z.B. Sonne). Der/die nächste/r im Kreis muss jetzt schnell ein Wort nennen, das dazu passt (z.B. Licht). Das geht jetzt im Kreis immer so weiter. Wenn jemand mehr als 3 Sekunden braucht oder ein Wort wiederholt ist er raus.
