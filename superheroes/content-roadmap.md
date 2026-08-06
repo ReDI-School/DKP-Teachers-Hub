@@ -18,11 +18,11 @@ The Content Roadmap is a living document with **goals** **and** **sub-goals** **
 
 🇩🇪 <mark style="color:$info;">Deutsch</mark>
 
-Der/die Lehrer/in ist ein Roboter. Die Schüler\*innen müssen dem Roboter Schritt für Schritt Anweisungen geben um ein Quadrat zu Zeichnen. Dazu gibt jede/r Schüler/in der Reihe nach genau eine Anweisung und nennt davor seinen/ihren Namen und sein/ihr Alter. Danach geht ihr in die Besprechung: Warum war das so schwer? Nur ein kleiner Fehler, führt schon zu Problemen.
+Der/die Lehrer/in ist ein Roboter. Die Schüler\*innen müssen dem Roboter Schritt für Schritt Anweisungen geben um ein Quadrat zu Zeichnen. Dazu gibt jede/r Schüler/in der Reihe nach genau eine Anweisung und nennt davor seinen/ihren Namen und sein/ihr Alter. Danach geht ihr in die Besprechung: Warum war das so schwer? Nur ein kleiner Fehler führt schon zu Problemen. Es gibt eine detaillierte Erklärung mit Beispielszenarien in den Speaker Notes der Folie.
 
 🇬🇧 <mark style="color:$info;">English</mark>
 
-The teacher is a robot. The students have to give the robot step by step instructions in order to draw a square. To do this/ every student has one turn in order. In their turn, they should say their name, age and give exactly one instruction. Afterwards, you discuss what happened. Why was this so difficult? Just one small mistake can cause big problems.
+The teacher is a robot. The students have to give the robot step by step instructions in order to draw a square. To do this/ every student has one turn in order. In their turn, they should say their name, age and give exactly one instruction. Afterwards, you discuss what happened. Why was this so difficult? Just one small mistake can cause big problems. There is a more detailed description with example scenarios in the speaker notes of the slides.
 
 ***
 
