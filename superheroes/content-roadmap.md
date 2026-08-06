@@ -298,7 +298,7 @@ Ihr werdet jetzt Stille Post spielen. Versammelt euch dazu im Kreis. Ein/e Schü
 
 🇬🇧 <mark style="color:$info;">English</mark>
 
-You will now be silenty passing a message through the group. To do this first gather in a circle. Now the first student can think of a word. They will now whisper their word to the next student. This continues through the entire circle untill the word arrives back at the first student. Now compare the first word and the current word and see if something has changed.
+You will now be silently passing a message through the group. To do this, first gather in a circle. Now the first student can think of a word. They will now whisper their word to the next student. This continues throughout the entire circle until the word arrives back at the first student. Now compare the first word and the current word and see if something has changed.
 
 * Play Compute-it Level 3 — this level introduces LOOPS: doing the same thing multiple times.
 * Count together: how many times does the loop run? What changes each time?
