@@ -115,7 +115,7 @@ m[0][0] = (255, 100, 0)   # orange
 
 🇩🇪 <mark style="color:$info;">Deutsch</mark>
 
-Die Schüler\*innen sollen compute-it.toxicode.fr auf ihrem Rechner öffnen. Danach können sie selbstständig einige levels spielen um sich an die Befehle zu gewöhnen.
+Die Schüler\*innen sollen compute-it.toxicode.fr auf ihrem Rechner öffnen. Danach können sie selbstständig einige Levels spielen um sich an die Befehle zu gewöhnen.
 
 🇬🇧 <mark style="color:$info;">English</mark>
 
@@ -260,7 +260,7 @@ m[3][0] = O    # orange
 
 🇩🇪 <mark style="color:$info;">Deutsch</mark>
 
-Die Schüler\*innen sollen compute-it.toxicode.fr auf ihrem Rechner öffnen. Danach können sie selbstständig einige levels spielen um sich an die Befehle zu gewöhnen.
+Die Schüler\*innen sollen compute-it.toxicode.fr auf ihrem Rechner öffnen. Danach können sie selbstständig einige Levels spielen um sich an die Befehle zu gewöhnen.
 
 🇬🇧 <mark style="color:$info;">English</mark>
 
@@ -395,7 +395,7 @@ for x in range(8):
 
 🇩🇪 <mark style="color:$info;">Deutsch</mark>
 
-Die Schüler\*innen sollen compute-it.toxicode.fr auf ihrem Rechner öffnen. Danach können sie selbstständig einige levels spielen um sich an die Befehle zu gewöhnen.
+Die Schüler\*innen sollen compute-it.toxicode.fr auf ihrem Rechner öffnen. Danach können sie selbstständig einige Levels spielen um sich an die Befehle zu gewöhnen.
 
 🇬🇧 <mark style="color:$info;">English</mark>
 
@@ -533,7 +533,7 @@ a.add_frame(m, 400)
 
 🇩🇪 <mark style="color:$info;">Deutsch</mark>
 
-Die Schüler\*innen sollen compute-it.toxicode.fr auf ihrem Rechner öffnen. Danach können sie selbstständig einige levels spielen um sich an die Befehle zu gewöhnen.
+Die Schüler\*innen sollen compute-it.toxicode.fr auf ihrem Rechner öffnen. Danach können sie selbstständig einige Levels spielen um sich an die Befehle zu gewöhnen.
 
 🇬🇧 <mark style="color:$info;">English</mark>
 
@@ -671,7 +671,7 @@ for x in range(8):
 
 🇩🇪 <mark style="color:$info;">Deutsch</mark>
 
-Die Schüler\*innen sollen compute-it.toxicode.fr auf ihrem Rechner öffnen. Danach können sie selbstständig einige levels spielen um sich an die Befehle zu gewöhnen.
+Die Schüler\*innen sollen compute-it.toxicode.fr auf ihrem Rechner öffnen. Danach können sie selbstständig einige Levels spielen um sich an die Befehle zu gewöhnen.
 
 🇬🇧 <mark style="color:$info;">English</mark>
 
@@ -809,7 +809,7 @@ if random.randint(0, 10) > 7:
 
 🇩🇪 <mark style="color:$info;">Deutsch</mark>
 
-Die Schüler\*innen sollen compute-it.toxicode.fr auf ihrem Rechner öffnen. Danach können sie selbstständig einige levels spielen um sich an die Befehle zu gewöhnen.
+Die Schüler\*innen sollen compute-it.toxicode.fr auf ihrem Rechner öffnen. Danach können sie selbstständig einige Levels spielen um sich an die Befehle zu gewöhnen.
 
 🇬🇧 <mark style="color:$info;">English</mark>
 
@@ -962,7 +962,7 @@ fill_row(7, O)
 
 🇩🇪 <mark style="color:$info;">Deutsch</mark>
 
-Die Schüler\*innen sollen compute-it.toxicode.fr auf ihrem Rechner öffnen. Danach können sie selbstständig einige levels spielen um sich an die Befehle zu gewöhnen.
+Die Schüler\*innen sollen compute-it.toxicode.fr auf ihrem Rechner öffnen. Danach können sie selbstständig einige Levels spielen um sich an die Befehle zu gewöhnen.
 
 🇬🇧 <mark style="color:$info;">English</mark>
 
@@ -1094,7 +1094,7 @@ a.add_frame(m, 800)
 
 🇩🇪 <mark style="color:$info;">Deutsch</mark>
 
-Die Schüler\*innen sollen compute-it.toxicode.fr auf ihrem Rechner öffnen. Danach können sie selbstständig einige levels spielen um sich an die Befehle zu gewöhnen.
+Die Schüler\*innen sollen compute-it.toxicode.fr auf ihrem Rechner öffnen. Danach können sie selbstständig einige Levels spielen um sich an die Befehle zu gewöhnen.
 
 🇬🇧 <mark style="color:$info;">English</mark>
 
