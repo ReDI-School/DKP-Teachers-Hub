@@ -27,7 +27,7 @@ Der/die Lehrer/in ist ein Roboter. Die Schüler\*innen müssen dem Roboter Schri
 
 🇬🇧 <mark style="color:$info;">English</mark>
 
-The Teacher is a robot. The students have to give the robot step by step instructions in order to draw a square. To do this every student has one turn in order. In their turn they should say their name, age and give exactly one instruction. Afterwards you discuss what happened. Why was this so difficult? Just one small mistake can cause big problems.
+The teacher is a robot. The students have to give the robot step by step instructions in order to draw a square. To do this/ every student has one turn in order. In their turn, they should say their name, age and give exactly one instruction. Afterwards, you discuss what happened. Why was this so difficult? Just one small mistake can cause big problems.
 
 * Open compute-it.toxicode.fr on your screen and play Level 1 together as a class.
 * Follow the arrows and trace what the computer does step by step.
