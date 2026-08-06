@@ -569,11 +569,11 @@ The students should open compute-it.toxicode.fr on their computers. Then they ca
 
 🇩🇪 <mark style="color:$info;">Deutsch</mark>
 
-Die Schüler\*innen werden sich jetzt in sortierten Reihen zusammenfinden müssen. Dazu gibst du ein Kriterium vor (z.B. Alter) und Schüler\*innen müssen sich so schnell wie möglich nach diesem Kriterium sortiert aufstellen. Um das ganze etwas spannender zu machen kannst du das Spiel noch modifizieren, indem die Schüler\*innen z.B. nicht reden dürfen oder du ihnen ein Zeitlimit setzt. Beispiele für Kriterien sind: Alter, Geburtagsmonat, Körpergröße, Vorname (alphabetisch), etc.
+Die Schüler\*innen werden sich jetzt in sortierten Reihen zusammenfinden müssen. Dazu gibst du ein Kriterium vor z.B. Alter und Schüler\*innen müssen sich so schnell wie möglich nach diesem Kriterium sortiert aufstellen. Am Ende jeder Runde sagt jeder einen Fakt über sich, also z.B. sein/ihr Alter. Um das ganze etwas spannender zu machen kannst du das Spiel noch modifizieren, indem die Schüler\*innen z.B. nicht reden dürfen oder du ihnen ein Zeitlimit setzt. Beispiele für Kriterien sind: Alter, Geburtagsmonat, Körpergröße, Vorname (alphabetisch), etc.
 
 🇬🇧 <mark style="color:$info;">English</mark>
 
-The students will now have to line up in order according to a criterion. To do so you will determine the criterion (e.g.  age) and the students have to line up in order as fast as possible. To make this more interesting, you can modify the game by having a silent round, where the students can't talk to each other or by setting a time limit. Examples of criteria are: age, birthday month, height, name (alphabetically), etc.
+The students will now have to line up in order according to a criterion. To do so you will determine the criterion e.g. age and the students have to line up in order as fast as possible. At the end of each row everyone will sayone fact about hemselves, so for example their age.To make this more interesting, you can modify the game by having a silent round, where the students can't talk to each other or by setting a time limit. Examples of criteria are: age, birthday month, height, name (alphabetically), etc.
 
 ***
 
