@@ -970,8 +970,6 @@ fill_row(7, O)
 
 **🔥 Aufwärmen — Compute-it Level 8 + Rückblick · Warm-Up — Compute-it Level 8 + Review**
 
-TODO: add warm-up from icebreaker list
-
 🇩🇪 <mark style="color:$info;">Deutsch</mark>
 
 Die Kinder werden sich gegenseitig programmieren. Teile dazu die Kinder in Paare ein. Ein Kind ist der/die Programmierer/in  und das andere Kind ist der Roboter. Der/die Programmierer/in muss nun dem Roboter Schritt für Schritt Anweisungen geben um eine Aufgabe zu machen. Der Roboter darf aber nur GENAU das machen, was ihm der/die Programmier/in sagt. Das führt du lustigen Fehlern, die der/die Programmier/in beheben muss. Nachdem die Aufgabe erfüllt ist, tauschen die Kinder ihre Rollen. Beispielaufgaben: Ein Quadrat zeichnen auf Papier oder etwas kleines aus Bausteinen bauen.
