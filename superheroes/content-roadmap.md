@@ -276,15 +276,17 @@ m[3][0] = O    # orange
 
 **🔥 Aufwärmen — Compute-it Level 3 · Warm-Up — Compute-it Level 3**
 
-TODO: add warm-up from icebreaker list
-
 🇩🇪 <mark style="color:$info;">Deutsch</mark>
+
+Ihr werdet jetzt Stille Post spielen. Versammelt euch dazu im Kreis. Ein/e Schüler\*in denkt sich jetzt ein Wort aus. Nun flüstert er/sie das Wort zum/r  Nächsten. Das passiert nun weiter so im Kreis bis das Wort wieder bei dem/der ersten Schüler\*in ankommt. Dann vergleicht ihr das Startwort und das aktuelle Wort und schaut ob sich das Wort verändert hat.
 
 * Spiele Compute-it Level 3 — dieses Level führt SCHLEIFEN ein: dieselbe Sache mehrmals tun.
 * Zähle zusammen: Wie oft läuft die Schleife? Was ändert sich jedes Mal?
 * Schleifen im echten Leben: 5 Mal klatschen, bis 10 zählen, jeden Teller abwaschen — gleiche Aktion, wiederholt!
 
 🇬🇧 <mark style="color:$info;">English</mark>
+
+You will now be silenty passing a message through the group. To do this first gather in a circle. Now the first student can think of a word. They will now whisper their word to the next student. This continues through the entire circle untill the word arrives back at the first student. Now compare the first word and the current word and see if something has changed.
 
 * Play Compute-it Level 3 — this level introduces LOOPS: doing the same thing multiple times.
 * Count together: how many times does the loop run? What changes each time?
