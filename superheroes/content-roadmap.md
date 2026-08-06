@@ -853,6 +853,18 @@ After a few rounds a student can be giving the instructions. You can also add yo
 
 ***
 
+🧠 **Wiederholen · Recap**
+
+<mark style="color:$info;">🇩🇪 Deutsch</mark>
+
+Was haben wir in den letzten sechs Wochen gelernt? Stelle offene Fragen und identifiziere die wesentlichen Punkte von den letzten Woche, an die sich die Kinder erinnern sollen. Arbeite mit der Recap Folie. Woche 1: Koordinaten und Farben (Wie funktionieren Koordinaten im ImagiCharm?), Woche 2: Variablen (Warum benutzt man Variablen?), Woche 3: Die for-Schleife (Wie funktioniert die for-Schleife?), Woche 4: if-Anweisungen (Was machen if-Anweisungen?), Woche 5: Animationen (Wie funktionieren Animationen?), Woche 6: random-Modul (Wie funktioniert das random-Modul?).&#x20;
+
+<mark style="color:$info;">🇬🇧 English</mark>
+
+What did we learn in the last six weeks? Ask open-ended questions and identify what the kids should remember from the last weeks. Work with the recap slide. week 1: coordinates and colours (How do coordinates work in ImagiCharm?), week 2: variables (Why do we use variables?), week 3: the for-loop (How does the for loop work), week 4: if-conditions (What do if conditions do?), week 5: animations (How do animations work?), week 6: random modules (How does the random module work?).
+
+***
+
 **📖 Theorie — Funktionen definieren & aufrufen · Theory — Defining & Calling Functions**
 
 <mark style="color:$info;">🇩🇪 Deutsch</mark>
