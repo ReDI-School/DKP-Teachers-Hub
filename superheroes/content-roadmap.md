@@ -968,6 +968,18 @@ fill_row(7, O)
 
 ***
 
+🧠 **Wiederholen · Recap**
+
+<mark style="color:$info;">🇩🇪 Deutsch</mark>
+
+Was haben wir in den letzten sieben Wochen gelernt? Stelle offene Fragen und identifiziere die wesentlichen Punkte von den letzten Woche, an die sich die Kinder erinnern sollen. Arbeite mit den Recap Folien. Es gibt eine recht detaillierte Wiederholung aller Sitzungen bisher. Woche 1: ImagiCharm, Woche 2: Variablen, Woche 3: For-Schleifen, Woche 4: If-Anweisungen, Woche 5 Animationen, Woche 6: Random-Modul, Woche 7: Funktionen.
+
+<mark style="color:$info;">🇬🇧 English</mark>
+
+What did we learn in the last seven weeks? Ask open-ended questions and identify what the kids should remember from the last weeks. Work with the recap slides. There is quite a detailed recap of all sessions so far. Week 1: ImagiCharm, week 2: variables, week 3: for loops, week 4: if conditions, week 5: animations, week 6: random module, week 7: functions.
+
+***
+
 **🔥 Aufwärmen — Compute-it Level 8 + Rückblick · Warm-Up — Compute-it Level 8 + Review**
 
 🇩🇪 <mark style="color:$info;">Deutsch</mark>
