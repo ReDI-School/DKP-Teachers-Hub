@@ -115,17 +115,11 @@ m[0][0] = (255, 100, 0)   # orange
 
 🇩🇪 <mark style="color:$info;">Deutsch</mark>
 
-* Öffne compute-it.toxicode.fr auf deinem Bildschirm und spiele Level 1 gemeinsam als Klasse.
-* Folge den Pfeilen und verfolge, was der Computer Schritt für Schritt tut.
-* Frage: 'Was macht ein Computer eigentlich?' — er folgt Anweisungen, eine nach der anderen!
-* Genau das macht Python auch — es liest deinen Code Zeile für Zeile, von oben nach unten.
+Die Schüler\*innen sollen compute-it.toxicode.fr auf ihrem Rechner öffnen. Danach können sie selbstständig einige levels spielen um sich an die Befehle zu gewöhnen.
 
 🇬🇧 <mark style="color:$info;">English</mark>
 
-* Open compute-it.toxicode.fr on your screen and play Level 1 together as a class.
-* Follow the arrows and trace what the computer does step by step.
-* Ask: 'What does a computer actually DO?' — it follows instructions one at a time!
-* This is exactly what Python does — it reads your code line by line, top to bottom.
+The students should open compute-it.toxicode.fr on their computers. Then they can play some levels freely for them to get used to the commands.
 
 ***
 
