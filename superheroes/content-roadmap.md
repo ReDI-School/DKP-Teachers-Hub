@@ -571,6 +571,18 @@ The students will now have to line up in order according to a criterion. To do s
 
 ***
 
+🧠 **Wiederholen · Recap**
+
+<mark style="color:$info;">🇩🇪 Deutsch</mark>
+
+Was haben wir in den letzten vier Wochen gelernt? Stelle offene Fragen und identifiziere die wesentlichen Punkte von den letzten Woche, an die sich die Kinder erinnern sollen. Arbeite mit der Recap Folie. Woche 1: Koordinaten und Farben, Woche 2: Variablen, Woche 3: Die for-Schleife, Woche 4: if-Anweisungen.
+
+<mark style="color:$info;">🇬🇧 English</mark>
+
+What did we learn in the last four weeks? Ask open-ended questions and identify what the kids should remember from the last weeks. Work with the recap slide. week 1: coordinates and colours, week 2: variables, week 3: the for-loop, week 4: if-conditions.
+
+***
+
 📖 **Theorie — If/Else & Modulo · Theory — If/Else & Modulo**
 
 🇩🇪 <mark style="color:$info;">Deutsch</mark>
