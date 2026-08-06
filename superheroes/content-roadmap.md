@@ -575,7 +575,7 @@ The students will now have to line up in order according to a criterion. To do s
 
 <mark style="color:$info;">🇩🇪 Deutsch</mark>
 
-Was haben wir in den letzten vier Wochen gelernt? Stelle offene Fragen und identifiziere die wesentlichen Punkte von den letzten Woche, an die sich die Kinder erinnern sollen. Arbeite mit der Recap Folie. Woche 1: Koordinaten und Farben (Wie funktionieren Koordinaten im ImagiCharm?), Woche 2: Variablen Warum benutzt man Variablen?), Woche 3: Die for-Schleife (Wie funktioniert die for-Schleife?), Woche 4: if-Anweisungen (Was machen if-Anweisungen?).
+Was haben wir in den letzten vier Wochen gelernt? Stelle offene Fragen und identifiziere die wesentlichen Punkte von den letzten Woche, an die sich die Kinder erinnern sollen. Arbeite mit der Recap Folie. Woche 1: Koordinaten und Farben (Wie funktionieren Koordinaten im ImagiCharm?), Woche 2: Variablen (Warum benutzt man Variablen?), Woche 3: Die for-Schleife (Wie funktioniert die for-Schleife?), Woche 4: if-Anweisungen (Was machen if-Anweisungen?).
 
 <mark style="color:$info;">🇬🇧 English</mark>
 
@@ -708,11 +708,11 @@ The student will now be playing a chain-association game. To do this, first gath
 
 <mark style="color:$info;">🇩🇪 Deutsch</mark>
 
-Was haben wir in den letzten fünf Wochen gelernt? Stelle offene Fragen und identifiziere die wesentlichen Punkte von den letzten Woche, an die sich die Kinder erinnern sollen. Arbeite mit der Recap Folie. Woche 1: Koordinaten und Farben, Woche 2: Variablen, Woche 3: Die for-Schleife, Woche 4: if-Anweisungen, Woche 5: Animationen.
+Was haben wir in den letzten fünf Wochen gelernt? Stelle offene Fragen und identifiziere die wesentlichen Punkte von den letzten Woche, an die sich die Kinder erinnern sollen. Arbeite mit der Recap Folie. Woche 1: Koordinaten und Farben (Wie funktionieren Koordinaten im ImagiCharm?), Woche 2: Variablen (Warum benutzt man Variablen?), Woche 3: Die for-Schleife (Wie funktioniert die for-Schleife?), Woche 4: if-Anweisungen (Was machen if-Anweisungen?), Woche 5: Animationen (Wie funktionieren Animationen?).&#x20;
 
 <mark style="color:$info;">🇬🇧 English</mark>
 
-What did we learn in the last five weeks? Ask open-ended questions and identify what the kids should remember from the last weeks. Work with the recap slide. week 1: coordinates and colours, week 2: variables, week 3: the for-loop, week 4: if-conditions, week 5: animations.
+What did we learn in the last five weeks? Ask open-ended questions and identify what the kids should remember from the last weeks. Work with the recap slide. week 1: coordinates and colours (How do coordinates work in ImagiCharm?), week 2: variables (Why do we use variables?), week 3: the for-loop (How does the for loop work), week 4: if-conditions (What do if conditions do?), week 5: animations (How do animations work?).
 
 ***
 
