@@ -54,19 +54,27 @@ The students learn what fake news is. They learn about the STOP-method to help i
 
 ***
 
-**⌨️ Tastenkombinationen · Keyboard Shortcuts:**
-
-🇩🇪 <mark style="color:$info;">Deutsch</mark>
-
-<mark style="color:$info;">🇬🇧 English</mark>
-
-***
-
 **🐱 Scratch Interface · Scratch Interface:**
 
 🇩🇪 <mark style="color:$info;">Deutsch</mark>
 
+Geht gemeinsam das Scratch-tutorial durch. Zeige die Bühne, die Sprites und die Codeblöcke auf deinem Laptop
+
 <mark style="color:$info;">🇬🇧 English</mark>
+
+Walk through the Scratch tutorial together. Show the stage, sprites, and code blocks on your laptop.
+
+***
+
+**⌨️ Tastenkombinationen · Keyboard Shortcuts:**
+
+🇩🇪 <mark style="color:$info;">Deutsch</mark>
+
+Die Schüler\*innen sollen Notepad öffnen, einen Satz schreiben und dann Ctrl+C, Ctrl+V, Ctrl+X, Ctrl+Z eins nach dem anderen üben.
+
+<mark style="color:$info;">🇬🇧 English</mark>
+
+The kids should open Notepad, type a sentence, then practice Ctrl+C, Ctrl+V, Ctrl+X, Ctrl+Z one by one.
 
 ***
 
