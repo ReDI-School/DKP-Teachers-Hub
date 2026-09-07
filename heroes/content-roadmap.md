@@ -139,11 +139,15 @@ The kids will code their first scratch programm.&#x20;
 
 🇩🇪 <mark style="color:$info;">Deutsch</mark>
 
-Versammelt euch zusammen im Kreis. Du fängst an indem du deinen Namen nennst, deine Gefühle heute beschreibst, und einen lustigen Move machst. Danach munterst du alle auf deinen Move nachzumachen. So geht das Spiel jetzt im Kreis weiter: der/die nächste/r stellt sich vor etc. Bleibt respektvoll und habt Spaß!
+* Führe die vierfarbigen Karten ein, wobei jede Farbe für eine bestimmte Aktion steht. Ordnen Sie den Farben folgende Aktionen zu: Blau = Winken, Rot = Aufstehen, Grün = In die Hände klatschen, Gelb = Hinsetzen.
+* Erklären Sie, dass eine Person die Rolle des „Anführers“ übernimmt und auf eine der Farben zeigt. Sobald der Anführer auf eine Farbe zeigt, führen alle die dieser Farbe zugeordnete Aktion aus. Die Rolle des Anführers kann nach einigen Runden gewechselt werden.
+* Optional lässt sich das Programmierkonzept des „Else“-Falls (Sonst-Bedingung) integrieren, indem eine bestimmte Aktion für den Fall festgelegt wird, dass keine der vier Farben gewählt wird: Zeigt der Anführer auf keine der vier Farben, führen alle eine andere, von der Gruppe festgelegte Aktion aus (z. B. die Zehen berühren oder mit den Fingern wackeln).
 
 <mark style="color:$info;">🇬🇧 English</mark>
 
-Gather in a big circle. You will start by saying your name, how you are feeling today and doing a silly move. Now encourage everyone in the group to copy your move. This is how the game continues: The next in the circle introduces themselves etc. Be respectful and have fun!
+* Introduce the four color Slide, each representing a specific action. Assign the following actions to each color: Blue = Wave, Red = Stand up, Green = Clap your hands, Yellow = Sit down.
+* Explain that one person will be the "leader" and will point to one of the colors. When the leader points to a color, everyone should perform the action associated with that color. You can change leader after every few rounds.
+* Optionally, you can relate the concept of the "else" part in programming by incorporating a specific action when none of the four colors are chosen. that if the leader doesn't point to any of the four colors, everyone should perform a different action decided by the group(e.g., touch their toes, wiggle their fingers).
 
 ***
 
