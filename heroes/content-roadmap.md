@@ -150,7 +150,11 @@ The kids will code their first scratch programm.&#x20;
 
 <mark style="color:$info;">**🎯**</mark>**&#x20;Ziele · Goals**
 
-<mark style="color:$info;">Die Schüler\*innen lernen heute über Bedingungen in Scratch</mark>
+🇩🇪 <mark style="color:$info;">Deutsch</mark>
+
+<mark style="color:$info;">Die Schüler\*innen lernen heute über Bedingungen in Scratch.</mark>
+
+<mark style="color:$info;">🇬🇧 English</mark>
 
 <mark style="color:$info;">Today the students will learn about conditions in scratch.</mark>
 
@@ -272,7 +276,11 @@ Explain conditions to the students by giving real-world examples. Show then how 
 
 🇩🇪 <mark style="color:$info;">Deutsch</mark>
 
+<mark style="color:$info;">Die Schüler\*innen lernen über Schleifen in Scratch.</mark>
+
 🇬🇧 <mark style="color:$info;">English</mark>
+
+<mark style="color:$info;">The students learn about loops ins scratch.</mark>
 
 ***
 
