@@ -163,27 +163,31 @@ What did we learn last week? Ask open-ended Questions and identify what the kids
 
 ***
 
-**🛡️ Cyber Guard Mission · Cyber Guard Mission:**
+🔀 **Bedingungen in Scratch · Conditions in Scratch**
 
 🇩🇪 <mark style="color:$info;">Deutsch</mark>
 
-Die Schüler\*innen lernen was Fake News sind. Sie lernen die STOP-Methode kennen um Fake News zu erkennen. Ihr Wissen werden sie dann in einem Spiel anwenden: Der/die Lehrer/in wird eine Nachricht zeigen und die Schüler\*innen haben drei Sekunden Zeit um sich zu entscheiden, ob es sich um Fake News handelt oder nicht. Dazu müssen sie in die entsprechende Seite des Raumes rennen. Wer falsch liegt muss drei Kniebeuge machen.
+Erkläre den Schüler\*innen Bedingungen anhand von echten Beispielen. Zeige ihnen wie Bedinungen in Scratch funktionieren.
 
 <mark style="color:$info;">🇬🇧 English</mark>
 
-The students learn what fake news is. They learn about the STOP-method to help identify fake news. They can then use their knowledge in a game: The teacher will show a piece of news and the students have three seconds to decide whether it is fake news or not. To make this decision they must run to the corresponding side of the room. If someone makes mistake they have to do three squats.
+Explain conditions to the students by giving real-world examples. Show then how conditions work in Scratch.&#x20;
 
 ***
 
-**🐱 Scratch Interface · Scratch Interface:**
+&#x20;🧩 **Scratch Programme · Scratch programs:**
 
 🇩🇪 <mark style="color:$info;">Deutsch</mark>
 
-Geht gemeinsam das Scratch-tutorial durch. Zeige die Bühne, Sprites und die Codeblöcke auf deinem Laptop.
+**Interaktiver Charakter:** Wenn auf die Figur geklickt wird -> sag "Hallo!". Wenn die Leertaste gedrückt wird -> bewegen.
+
+Aquarium Projekt: Baue einen Unterwasser-Hintegrund unf füge einen Tintenfish und drei Fische hinzu. Steuere den Tintenfisch mit den Pfeiltasten, er soll dabei nach rechts/links in die richtige Richtung schauen. Wenn die Leertaste gedrückt wird sollen Fische in der Nähe angezogen werden. Sonst sollen sich die Fische zufällig bewegen.
 
 <mark style="color:$info;">🇬🇧 English</mark>
 
-Walk through the Scratch tutorial together. Show the stage, sprites, and code blocks on your laptop.
+**Interactive Character:** When sprite is clicked → say 'Hallo!'. When spacebar is pressed → move. Kids test both conditions.
+
+**Aquarium Project:** Build an underwater background and add an octopus and three fish. Control the octopus with arrow keys, he should look in the right direction left/right. Press spacebar to attract fish nearby. Fish move randomly otherwise.
 
 ***
 
