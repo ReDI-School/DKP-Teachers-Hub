@@ -270,15 +270,19 @@ Explain conditions to the students by giving real-world examples. Show then how 
 
 **🎯 Ziele · Goals**
 
+🇩🇪 <mark style="color:$info;">Deutsch</mark>
 
+🇬🇧 <mark style="color:$info;">English</mark>
 
 ***
 
-**🔥 Aufwärmen · Warm-Up**🇩🇪 Deutsch
+**🔥 Aufwärmen · Warm-Up**
+
+🇩🇪 <mark style="color:$info;">Deutsch</mark>
 
 
 
-🇬🇧 English
+🇬🇧 <mark style="color:$info;">English</mark>
 
 
 
