@@ -151,15 +151,15 @@ The kids will code their first scratch programm.&#x20;
 
 ***
 
-**💻 Unsere Klassenregeln · Class Rules**
+🧠 **Wiederholen · Recap**
 
-🇩🇪 <mark style="color:$info;">Deutsch</mark>
+<mark style="color:$info;">🇩🇪 Deutsch</mark>
 
-Ihr werdet jetzt gemeinsam mit den Schüler\*innen die Klassenregeln bestimmen. Dazu gehören Fragen wie: Wie gehen wir miteinander um? Wie gehen wir mit den Laptops um? Wie zeigen wir einander Respekt?
+Was haben wir letzte Woche gelernt? Stelle offene Fragen und identifiziere die wesentlichen Punkte von letzter Woche, an die sich die Kinder erinnern sollen. Was ist die STOP-Methode. Was ist Scratch? Was sind Tastenkombinationen?
 
 <mark style="color:$info;">🇬🇧 English</mark>
 
-You will now be establishing the class rules together with the students. Relevant questions are: How do we treat each other? How do we behave around the Laptops?  How do we show respect to each other?
+What did we learn last week? Ask open-ended Questions and identify what the kids should remember from last week. What is the STOP-method? What is Scratch? What are shortcuts?
 
 ***
 
