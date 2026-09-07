@@ -335,6 +335,15 @@ Anschließend können Schüler\*innen ihr Programm vorstellen.
 
 🇬🇧 <mark style="color:$info;">English</mark>
 
+Students will now create their own programs using loops:
+
+* Exercise 1: Create a character and animate it to make it jump.
+* Exercise 2: (Show them how to add the "Pen" extension for this) Draw a square using a loop.
+* Exercise 3: Draw a star using a loop.
+* Exercise 4: Create your own pattern using various shapes and a loop.
+
+Afterwards, students can present their programs.
+
 ***
 
 **🎮 Kahoot — Zeit zum Spielen! · Kahoot — Game Time!**
