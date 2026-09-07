@@ -85,14 +85,14 @@ The kids should open Notepad, type a sentence, then practice Ctrl+C, Ctrl+V, Ctr
 Die Kinder schreiben ihr erstes Scratch-Programm.
 
 * Gebe Schritt für Schritt Anweisungen.
-* Fange an zu programmieren, während du präsentierst, schreibe ein erses Programm.
+* Fange an zu programmieren. Während du präsentierst, schreibe ein erses Programm.
 
 <mark style="color:$info;">🇬🇧 English</mark>
 
 The kids will code their first scratch programm.&#x20;
 
 * Provide step-by-step instructions.&#x20;
-* Start programming, while presenting and create a first programm.
+* Start programming. While presenting, create a first programm.
 
 ***
 
