@@ -231,11 +231,35 @@ Explain conditions to the students by giving real-world examples. Show then how 
 
 <mark style="color:$info;">🇬🇧 English</mark>
 
-📋**Before class:** Pre-build the Aquarium starter project (octopus + 2 fish sprites) and share the link. Have the Kahoot ready.\
-⏱️**Timing guide:** Brainstorm: 10 min → Interactive Character: 20 min → Aquarium: 40 min → Kahoot: 10 min.\
-🚨**Common mistake:** Kids put actions OUTSIDE the if-block. Show the indentation clearly — only code INSIDE the block runs when true.\
-🗣️**How to explain:** Use the traffic light: 'IF the light is green, THEN drive. ELSE, stop.' Act it out physically with the class.\
+📋**Before class:** Pre-build the Aquarium starter project (octopus + 2 fish sprites) and share the link. Have the Kahoot ready.
+
+⏱️**Timing guide:** Brainstorm: 10 min → Interactive Character: 20 min → Aquarium: 40 min → Kahoot: 10 min.
+
+🚨**Common mistake:** Kids put actions OUTSIDE the if-block. Show the indentation clearly — only code INSIDE the block runs when true.
+
+🗣️**How to explain:** Use the traffic light: 'IF the light is green, THEN drive. ELSE, stop.' Act it out physically with the class.
+
 🔗**Connects to:** Session 1 (green flag, movement). Remind kids they already know the building blocks — this just adds a decision.
+
+***
+
+💡**Schnelle Tipps · Quick tips**
+
+🇩🇪 <mark style="color:$info;">Deutsch</mark>
+
+→ Verwende das Ampel-Beispiel – das kennen Kinder aus dem Alltag!
+
+→ Zeige die Sechseck-Form = Boolean (wahr/falsch). Das ist entscheidend.
+
+→ Das Aquarium-Projekt umfasst 3 Sprites – bereite es vorab vor, um Zeit zu sparen.
+
+<mark style="color:$info;">🇬🇧 English</mark>
+
+→Use the traffic light example — kids know it from real life!
+
+→Show the hexagon shape = boolean (true/false). This is key.
+
+→The Aquarium project has 3 sprites — prep it in advance to save time.
 
 </details>
 
