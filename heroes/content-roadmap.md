@@ -100,7 +100,7 @@ The kids will code their first scratch programm.&#x20;
 
 ***
 
-**📝 Lehrer\*innenhandbuch ·  Teacher Notes**
+**📝 Lehrer\*innenhandbuch · Teacher Notes**
 
 🇩🇪 <mark style="color:$info;">Deutsch</mark>
 
@@ -120,6 +120,26 @@ The kids will code their first scratch programm.&#x20;
 🗣️**How to explain:** Say: 'Scratch is like LEGO for code — you snap pieces together instead of typing.' This clicks instantly.
 
 🏃**If kids are fast:** Ask them to make the sprite say something, change colour, or play a sound when clicked.
+
+***
+
+💡**Schnelle Tipps · Quick tips**
+
+🇩🇪 <mark style="color:$info;">Deutsch</mark>
+
+→Lasst die Kinder ihre Spielfigur selbst auswählen – das steigert die Motivation!
+
+→Demonstriert die Stopp-Regel vor dem Spiel anhand eines Beispiels (zeigt eine fiktive Schlagzeile).
+
+→Wenn die Kinder frühzeitig fertig sind, fordert sie auf, ein Geräusch hinzuzufügen oder die Richtung zu ändern.
+
+<mark style="color:$info;">🇬🇧 English</mark>
+
+→Let kids pick their own sprite — ownership boosts engagement!
+
+→Demo the STOP-Rule with a real example (show a fake headline) before the game.
+
+→If kids finish early, challenge them to add a sound or change direction.
 
 </details>
 
