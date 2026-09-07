@@ -272,7 +272,43 @@ Explain conditions to the students by giving real-world examples. Show then how 
 
 <summary><mark style="color:yellow;"><strong>Week 3:</strong></mark> 🔁 Scratch &#x26; Schleifen · Scratch &#x26; Loops</summary>
 
+**🎯 Ziele · Goals**
 
+
+
+***
+
+**🔥 Aufwärmen · Warm-Up**🇩🇪 Deutsch
+
+
+
+🇬🇧 English
+
+
+
+***
+
+🧠 **Wiederholen · Recap**🇩🇪 DeutschWas haben wir letzte Woche gelernt? Stelle offene Fragen und identifiziere die wesentlichen Punkte von letzter Woche, an die sich die Kinder erinnern sollen. Was ist die STOP-Methode. Was ist Scratch? Was sind Tastenkombinationen?🇬🇧 EnglishWhat did we learn last week? Ask open-ended Questions and identify what the kids should remember from last week. What is the STOP-method? What is Scratch? What are shortcuts?
+
+***
+
+🔀 **Bedingungen in Scratch · Conditions in Scratch**
+
+***
+
+🧩 **Scratch Programme · Scratch programs:**
+
+***
+
+**🎮 Kahoot — Zeit zum Spielen! · Kahoot — Game Time!**
+
+***
+
+**📝 Lehrer\*innenhandbuch · Teacher Notes**
+
+***
+
+💡**Schnelle Tipps · Quick tips**
 
 </details>
 
