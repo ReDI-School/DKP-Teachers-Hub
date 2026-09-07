@@ -201,13 +201,13 @@ Explain conditions to the students by giving real-world examples. Show then how 
 
 **Interaktiver Charakter:** Wenn auf die Figur geklickt wird -> sag "Hallo!". Wenn die Leertaste gedrückt wird -> bewegen.
 
-**Aquarium Projekt:** Baue einen Unterwasser-Hintegrund unf füge einen Tintenfish und drei Fische hinzu. Steuere den Tintenfisch mit den Pfeiltasten, er soll dabei nach rechts/links in die richtige Richtung schauen. Wenn die Leertaste gedrückt wird sollen Fische in der Nähe angezogen werden. Sonst sollen sich die Fische zufällig bewegen.
+**Aquarium Projekt:** Aufgabe für die Kinder: Baue einen Unterwasser-Hintegrund und füge einen Tintenfish und drei Fische hinzu. Steuere den Tintenfisch mit den Pfeiltasten, er soll dabei nach rechts/links in die richtige Richtung schauen. Wenn die Leertaste gedrückt wird sollen Fische in der Nähe angezogen werden. Sonst sollen sich die Fische zufällig bewegen.
 
 <mark style="color:$info;">🇬🇧 English</mark>
 
 **Interactive Character:** When sprite is clicked → say 'Hallo!'. When spacebar is pressed → move. Kids test both conditions.
 
-**Aquarium Project:** Build an underwater background and add an octopus and three fish. Control the octopus with arrow keys, he should look in the right direction left/right. Press spacebar to attract fish nearby. Fish move randomly otherwise.
+**Aquarium Project:** Task for the kids: Build an underwater background and add an octopus and three fish. Control the octopus with arrow keys, he should look in the right direction left/right. Press spacebar to attract fish nearby. Fish move randomly otherwise.
 
 ***
 
