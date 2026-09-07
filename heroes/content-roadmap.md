@@ -180,7 +180,7 @@ The kids will code their first scratch programm.&#x20;
 
 <mark style="color:$info;">🇩🇪 Deutsch</mark>
 
-Was haben wir letzte Woche gelernt? Stelle offene Fragen und identifiziere die wesentlichen Punkte von letzter Woche, an die sich die Kinder erinnern sollen. Was ist die STOP-Methode. Was ist Scratch? Was sind Tastenkombinationen?
+Was haben wir letzte Woche gelernt? Stelle offene Fragen und identifiziere die wesentlichen Punkte von letzter Woche, an die sich die Kinder erinnern sollen. Was ist die STOP-Methode? Was ist Scratch? Was sind Tastenkombinationen?
 
 <mark style="color:$info;">🇬🇧 English</mark>
 
@@ -296,7 +296,15 @@ First you are the "programmer". You decide on a move sequence (with 2-3 moves) e
 
 ***
 
-🧠 **Wiederholen · Recap**🇩🇪 DeutschWas haben wir letzte Woche gelernt? Stelle offene Fragen und identifiziere die wesentlichen Punkte von letzter Woche, an die sich die Kinder erinnern sollen. Was ist die STOP-Methode. Was ist Scratch? Was sind Tastenkombinationen?🇬🇧 EnglishWhat did we learn last week? Ask open-ended Questions and identify what the kids should remember from last week. What is the STOP-method? What is Scratch? What are shortcuts?
+🧠 **Wiederholen · Recap**
+
+🇩🇪 <mark style="color:$info;">Deutsch</mark>
+
+Was haben wir letzte Woche gelernt? Stelle offene Fragen und identifiziere die wesentlichen Punkte von letzter Woche, an die sich die Kinder erinnern sollen. Was sind Wenn-dann/ Falls-dann Befingungen? Was sind Beispiele für Bedingungen? Wie benutzt man Bedingungen in Scratch?
+
+🇬🇧 <mark style="color:$info;">English</mark>
+
+What did we learn last week? Ask open-ended Questions and identify what the kids should remember from last week. What are if/if-else conditions? What are examples for conditions? How do you use conditions in Scratch?
 
 ***
 
