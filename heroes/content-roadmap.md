@@ -181,43 +181,13 @@ Explain conditions to the students by giving real-world examples. Show then how 
 
 **Interaktiver Charakter:** Wenn auf die Figur geklickt wird -> sag "Hallo!". Wenn die Leertaste gedrückt wird -> bewegen.
 
-Aquarium Projekt: Baue einen Unterwasser-Hintegrund unf füge einen Tintenfish und drei Fische hinzu. Steuere den Tintenfisch mit den Pfeiltasten, er soll dabei nach rechts/links in die richtige Richtung schauen. Wenn die Leertaste gedrückt wird sollen Fische in der Nähe angezogen werden. Sonst sollen sich die Fische zufällig bewegen.
+**Aquarium Projekt:** Baue einen Unterwasser-Hintegrund unf füge einen Tintenfish und drei Fische hinzu. Steuere den Tintenfisch mit den Pfeiltasten, er soll dabei nach rechts/links in die richtige Richtung schauen. Wenn die Leertaste gedrückt wird sollen Fische in der Nähe angezogen werden. Sonst sollen sich die Fische zufällig bewegen.
 
 <mark style="color:$info;">🇬🇧 English</mark>
 
 **Interactive Character:** When sprite is clicked → say 'Hallo!'. When spacebar is pressed → move. Kids test both conditions.
 
 **Aquarium Project:** Build an underwater background and add an octopus and three fish. Control the octopus with arrow keys, he should look in the right direction left/right. Press spacebar to attract fish nearby. Fish move randomly otherwise.
-
-***
-
-**⌨️ Tastenkombinationen · Keyboard Shortcuts:**
-
-🇩🇪 <mark style="color:$info;">Deutsch</mark>
-
-Die Schüler\*innen sollen Notepad öffnen, einen Satz schreiben und dann Ctrl+C, Ctrl+V, Ctrl+X, Ctrl+Z eins nach dem anderen üben.
-
-<mark style="color:$info;">🇬🇧 English</mark>
-
-The kids should open Notepad, type a sentence, then practice Ctrl+C, Ctrl+V, Ctrl+X, Ctrl+Z one by one.
-
-***
-
-**🟢 Erstes Programm · First Program:**
-
-🇩🇪 <mark style="color:$info;">Deutsch</mark>
-
-Die Kinder schreiben ihr erstes Scratch-Programm.
-
-* Gebe Schritt für Schritt Anweisungen.
-* Fange an zu programmieren, während du präsentierst, schreibe ein erses Programm.
-
-<mark style="color:$info;">🇬🇧 English</mark>
-
-The kids will code their first scratch programm.&#x20;
-
-* Provide step-by-step instructions.&#x20;
-* Start programming, while presenting and create a first programm.
 
 ***
 
@@ -229,22 +199,23 @@ The kids will code their first scratch programm.&#x20;
 
 🇩🇪 <mark style="color:$info;">Deutsch</mark>
 
-📋**Vor dem Unterricht:** Öffne scratch.mit.edu auf allen Computern. Halte den Kahoot-Link bereit. Bereite 3–4 erfundene Schlagzeilen für die Aufwärmphase vor.
+📋**Vor dem Unterricht:** Bereite das Aquarium-Starterprojekt (Oktopus + 2 Fisch-Sprites) vor und teile den Link. Halte das Kahoot bereit.&#x20;
 
-⏱️**Zeitplan:** Aufwärmen: 10 Min. → Einführungstour durch Scratch: 15 Min. → Tastenkombinationen: 15 Min. → Einführungstour durch Scratch: 15 Min. → Erstes Programm: 30 Min. → Kahoot: 10 Min.
+⏱️**Zeitplan:** Brainstorming: 10 Min. → Interaktive Figur: 20 Min. → Aquarium: 40 Min. → Kahoot: 10 Min.&#x20;
 
-🚨**Häufiger Fehler:** Kinder ziehen oft Blöcke auf die Arbeitsfläche, vergessen aber, sie miteinander zu verbinden. Zeige ihnen, wie die Blöcke „einrasten“ und grün werden, sobald sie verbunden sind.\
-🗣️**Erklärungshilfe:** Sag: „Scratch ist wie LEGO für Code – man steckt die Teile einfach zusammen, anstatt zu tippen.“ Das verstehen sie sofort.\
-🏃**Wenn Kinder schnell sind:** Bitte sie, die Figur (das „Sprite“) etwas sagen oder die Farbe wechseln zu lassen oder einen Ton abzuspielen, wenn man darauf klickt.
+🚨**Häufiger Fehler:** Kinder platzieren Aktionen _außerhalb_ des „Falls“-Blocks (if-Block). Zeige die Einrückung deutlich – nur Code _innerhalb_ des Blocks wird ausgeführt, wenn die Bedingung erfüllt ist.&#x20;
+
+🗣️**Erklärungshilfe:** Nutze das Ampel-Beispiel: „WENN die Ampel grün ist, DANN fahre los. ANDERNFALLS halte an.“ Spiele die Situation gemeinsam mit der Klasse nach.&#x20;
+
+🔗**Bezug zu:** Lektion 1 (grüne Flagge, Bewegung). Erinnere die Kinder daran, dass sie die Bausteine ​​bereits kennen – hier kommt lediglich eine Entscheidungsmöglichkeit hinzu.
 
 <mark style="color:$info;">🇬🇧 English</mark>
 
-📋**Before class:** Open scratch.mit.edu on all computers. Have the Kahoot link ready. Prepare 3–4 fake headlines for the warm-up.\
-⏱️**Timing guide:** Warm-up: 10 min → Scratch intro tour: 15 min → Shortcuts: 15 min →  First program: 30 min → Kahoot: 10 min.\
-🚨**Common mistake:** Kids often drag blocks but forget to connect them. Show how blocks 'snap' together and turn green when connected.\
-🗣️**How to explain:** Say: 'Scratch is like LEGO for code — you snap pieces together instead of typing.' This clicks instantly.
-
-🏃**If kids are fast:** Ask them to make the sprite say something, change colour, or play a sound when clicked.
+📋**Before class:** Pre-build the Aquarium starter project (octopus + 2 fish sprites) and share the link. Have the Kahoot ready.\
+⏱️**Timing guide:** Brainstorm: 10 min → Interactive Character: 20 min → Aquarium: 40 min → Kahoot: 10 min.\
+🚨**Common mistake:** Kids put actions OUTSIDE the if-block. Show the indentation clearly — only code INSIDE the block runs when true.\
+🗣️**How to explain:** Use the traffic light: 'IF the light is green, THEN drive. ELSE, stop.' Act it out physically with the class.\
+🔗**Connects to:** Session 1 (green flag, movement). Remind kids they already know the building blocks — this just adds a decision.
 
 </details>
 
