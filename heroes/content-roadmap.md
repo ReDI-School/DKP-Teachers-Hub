@@ -288,11 +288,11 @@ Explain conditions to the students by giving real-world examples. Show then how 
 
 🇩🇪 <mark style="color:$info;">Deutsch</mark>
 
-
+Zunächst schlüpfst du in die Rolle des „Programmierers“. Du legst eine Bewegungsabfolge fest (bestehend aus 2–3 Bewegungen), z. B. „Klatschen – Springen – Drehen“, sowie eine Anzahl an Wiederholungen (zwischen 2 und 4), z. B. 3. Nun müssen die Kinder diese Abfolge nachmachen (in diesem Beispiel dreimal), während du die Wiederholungen mitzählst. Spiele 2–4 Runden, bevor ein Schüler oder eine Schülerin die Rolle des Programmierers übernimmt. Achte darauf, dass insgesamt 5–6 Kinder an der Reihe sind.
 
 🇬🇧 <mark style="color:$info;">English</mark>
 
-
+First you are the "programmer". You decide on a move sequence (with 2-3 moves) e.g. "Clap - Jump - Spin" and a repetition number (between 2 and 4) e.g. 3. Now the kids have to repeat this sequence  (three times in this example) while you count the repitions. Play 2-4 rounds of this before a student is the programmer. Make sure to rotate through 5-6 students.
 
 ***
 
