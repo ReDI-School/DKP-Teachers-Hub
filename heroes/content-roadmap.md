@@ -322,6 +322,19 @@ Explain what loops are and why we use them. Emphasize how they save time. Give s
 
 🧩 **Scratch Programme · Scratch programs:**
 
+🇩🇪 <mark style="color:$info;">Deutsch</mark>
+
+Die Schüler\*innen werden nun eigene Programme mit Schleifen erstellen:
+
+* Übung 1: Erstelle eine Figur und animiere sie, sodass sie springt.&#x20;
+* Übung 2: (Zeige ihnen hierfür wie man "Malstift" als Erweiterung hinzufügt) Zeichne mit einer Schleife ein Quadrat.
+* Übung 3: Zeichne mit einer Schleife einen Stern
+* Übung 4: Erstelle mit einer Schleife dein eigenes Muster mit verschiedenen Formen.
+
+Anschließend können Schüler\*innen ihr Programm vorstellen.
+
+🇬🇧 <mark style="color:$info;">English</mark>
+
 ***
 
 **🎮 Kahoot — Zeit zum Spielen! · Kahoot — Game Time!**
