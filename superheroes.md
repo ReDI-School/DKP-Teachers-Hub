@@ -1,8 +1,6 @@
----
-description: Overview
----
-
 # 🦸‍♀️ SUPERHEROES
+
+**SuperHeroes** is the advanced level of our Sunday Class, designed for children aged **11–13**. Kids take the next step in their programming journey by transitioning from **block-based programming to text-based coding with Python**. Using **ImagineCharm**, they develop their coding skills through hands-on projects while learning core Python concepts and exploring how text-based programming works.
 
 ### 🦸🏽‍♀️ Superheroes Goals
 

@@ -1,8 +1,6 @@
----
-description: Overview
----
-
 # 🥷 NINJAS
+
+**Ninjas** is the beginner level of our Sunday Class, designed for children **aged 8–10**. Kids build their **basic computer skills**, learn how computers work, and develop their first computational thinking and programming skills. They learn to create simple games using **block-based programming with Calliope**, exploring concepts such as algorithms, loops, conditions, variables, input, and output.
 
 ### 🥷 Ninjas Goals
 
