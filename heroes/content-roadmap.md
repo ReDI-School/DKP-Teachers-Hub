@@ -98,9 +98,28 @@ The kids will code their first scratch programm.&#x20;
 
 **🎮 Kahoot — Zeit zum Spielen! · Kahoot — Game Time!**
 
+***
+
+**📝 Lehrer\*innenhandbuch ·  Teacher Notes**
+
 🇩🇪 <mark style="color:$info;">Deutsch</mark>
 
+📋**Vor dem Unterricht:** Öffne scratch.mit.edu auf allen Computern. Halte den Kahoot-Link bereit. Bereite 3–4 erfundene Schlagzeilen für die Aufwärmphase vor.
+
+⏱️**Zeitplan:** Aufwärmen: 10 Min. → Einführungstour durch Scratch: 15 Min. → Tastenkombinationen: 15 Min. → Einführungstour durch Scratch: 15 Min. → Erstes Programm: 30 Min. → Kahoot: 10 Min.
+
+🚨**Häufiger Fehler:** Kinder ziehen oft Blöcke auf die Arbeitsfläche, vergessen aber, sie miteinander zu verbinden. Zeige ihnen, wie die Blöcke „einrasten“ und grün werden, sobald sie verbunden sind.\
+🗣️**Erklärungshilfe:** Sag: „Scratch ist wie LEGO für Code – man steckt die Teile einfach zusammen, anstatt zu tippen.“ Das verstehen sie sofort.\
+🏃**Wenn Kinder schnell sind:** Bitte sie, die Figur (das „Sprite“) etwas sagen oder die Farbe wechseln zu lassen oder einen Ton abzuspielen, wenn man darauf klickt.
+
 <mark style="color:$info;">🇬🇧 English</mark>
+
+📋**Before class:** Open scratch.mit.edu on all computers. Have the Kahoot link ready. Prepare 3–4 fake headlines for the warm-up.\
+⏱️**Timing guide:** Warm-up: 10 min → Scratch intro tour: 15 min → Shortcuts: 15 min →  First program: 30 min → Kahoot: 10 min.\
+🚨**Common mistake:** Kids often drag blocks but forget to connect them. Show how blocks 'snap' together and turn green when connected.\
+🗣️**How to explain:** Say: 'Scratch is like LEGO for code — you snap pieces together instead of typing.' This clicks instantly.
+
+🏃**If kids are fast:** Ask them to make the sprite say something, change colour, or play a sound when clicked.
 
 </details>
 
