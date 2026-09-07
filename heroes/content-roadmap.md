@@ -127,7 +127,116 @@ The kids will code their first scratch programm.&#x20;
 
 <summary><mark style="color:orange;"><strong>Week 2:</strong></mark> 🔀 Scratch &#x26; Bedingungen · Scratch &#x26; Conditions</summary>
 
+<mark style="color:$info;">**🎯**</mark>**&#x20;Ziele · Goals**
 
+<mark style="color:$info;">Die Schüler\*innen lernen heute über Bedingungen in Scratch</mark>
+
+<mark style="color:$info;">Today the students will learn about conditions in scratch.</mark>
+
+***
+
+**🔥 Aufwärmen · Warm-Up**
+
+🇩🇪 <mark style="color:$info;">Deutsch</mark>
+
+Versammelt euch zusammen im Kreis. Du fängst an indem du deinen Namen nennst, deine Gefühle heute beschreibst, und einen lustigen Move machst. Danach munterst du alle auf deinen Move nachzumachen. So geht das Spiel jetzt im Kreis weiter: der/die nächste/r stellt sich vor etc. Bleibt respektvoll und habt Spaß!
+
+<mark style="color:$info;">🇬🇧 English</mark>
+
+Gather in a big circle. You will start by saying your name, how you are feeling today and doing a silly move. Now encourage everyone in the group to copy your move. This is how the game continues: The next in the circle introduces themselves etc. Be respectful and have fun!
+
+***
+
+**💻 Unsere Klassenregeln · Class Rules**
+
+🇩🇪 <mark style="color:$info;">Deutsch</mark>
+
+Ihr werdet jetzt gemeinsam mit den Schüler\*innen die Klassenregeln bestimmen. Dazu gehören Fragen wie: Wie gehen wir miteinander um? Wie gehen wir mit den Laptops um? Wie zeigen wir einander Respekt?
+
+<mark style="color:$info;">🇬🇧 English</mark>
+
+You will now be establishing the class rules together with the students. Relevant questions are: How do we treat each other? How do we behave around the Laptops?  How do we show respect to each other?
+
+***
+
+**🛡️ Cyber Guard Mission · Cyber Guard Mission:**
+
+🇩🇪 <mark style="color:$info;">Deutsch</mark>
+
+Die Schüler\*innen lernen was Fake News sind. Sie lernen die STOP-Methode kennen um Fake News zu erkennen. Ihr Wissen werden sie dann in einem Spiel anwenden: Der/die Lehrer/in wird eine Nachricht zeigen und die Schüler\*innen haben drei Sekunden Zeit um sich zu entscheiden, ob es sich um Fake News handelt oder nicht. Dazu müssen sie in die entsprechende Seite des Raumes rennen. Wer falsch liegt muss drei Kniebeuge machen.
+
+<mark style="color:$info;">🇬🇧 English</mark>
+
+The students learn what fake news is. They learn about the STOP-method to help identify fake news. They can then use their knowledge in a game: The teacher will show a piece of news and the students have three seconds to decide whether it is fake news or not. To make this decision they must run to the corresponding side of the room. If someone makes mistake they have to do three squats.
+
+***
+
+**🐱 Scratch Interface · Scratch Interface:**
+
+🇩🇪 <mark style="color:$info;">Deutsch</mark>
+
+Geht gemeinsam das Scratch-tutorial durch. Zeige die Bühne, Sprites und die Codeblöcke auf deinem Laptop.
+
+<mark style="color:$info;">🇬🇧 English</mark>
+
+Walk through the Scratch tutorial together. Show the stage, sprites, and code blocks on your laptop.
+
+***
+
+**⌨️ Tastenkombinationen · Keyboard Shortcuts:**
+
+🇩🇪 <mark style="color:$info;">Deutsch</mark>
+
+Die Schüler\*innen sollen Notepad öffnen, einen Satz schreiben und dann Ctrl+C, Ctrl+V, Ctrl+X, Ctrl+Z eins nach dem anderen üben.
+
+<mark style="color:$info;">🇬🇧 English</mark>
+
+The kids should open Notepad, type a sentence, then practice Ctrl+C, Ctrl+V, Ctrl+X, Ctrl+Z one by one.
+
+***
+
+**🟢 Erstes Programm · First Program:**
+
+🇩🇪 <mark style="color:$info;">Deutsch</mark>
+
+Die Kinder schreiben ihr erstes Scratch-Programm.
+
+* Gebe Schritt für Schritt Anweisungen.
+* Fange an zu programmieren, während du präsentierst, schreibe ein erses Programm.
+
+<mark style="color:$info;">🇬🇧 English</mark>
+
+The kids will code their first scratch programm.&#x20;
+
+* Provide step-by-step instructions.&#x20;
+* Start programming, while presenting and create a first programm.
+
+***
+
+**🎮 Kahoot — Zeit zum Spielen! · Kahoot — Game Time!**
+
+***
+
+**📝 Lehrer\*innenhandbuch ·  Teacher Notes**
+
+🇩🇪 <mark style="color:$info;">Deutsch</mark>
+
+📋**Vor dem Unterricht:** Öffne scratch.mit.edu auf allen Computern. Halte den Kahoot-Link bereit. Bereite 3–4 erfundene Schlagzeilen für die Aufwärmphase vor.
+
+⏱️**Zeitplan:** Aufwärmen: 10 Min. → Einführungstour durch Scratch: 15 Min. → Tastenkombinationen: 15 Min. → Einführungstour durch Scratch: 15 Min. → Erstes Programm: 30 Min. → Kahoot: 10 Min.
+
+🚨**Häufiger Fehler:** Kinder ziehen oft Blöcke auf die Arbeitsfläche, vergessen aber, sie miteinander zu verbinden. Zeige ihnen, wie die Blöcke „einrasten“ und grün werden, sobald sie verbunden sind.\
+🗣️**Erklärungshilfe:** Sag: „Scratch ist wie LEGO für Code – man steckt die Teile einfach zusammen, anstatt zu tippen.“ Das verstehen sie sofort.\
+🏃**Wenn Kinder schnell sind:** Bitte sie, die Figur (das „Sprite“) etwas sagen oder die Farbe wechseln zu lassen oder einen Ton abzuspielen, wenn man darauf klickt.
+
+<mark style="color:$info;">🇬🇧 English</mark>
+
+📋**Before class:** Open scratch.mit.edu on all computers. Have the Kahoot link ready. Prepare 3–4 fake headlines for the warm-up.\
+⏱️**Timing guide:** Warm-up: 10 min → Scratch intro tour: 15 min → Shortcuts: 15 min →  First program: 30 min → Kahoot: 10 min.\
+🚨**Common mistake:** Kids often drag blocks but forget to connect them. Show how blocks 'snap' together and turn green when connected.\
+🗣️**How to explain:** Say: 'Scratch is like LEGO for code — you snap pieces together instead of typing.' This clicks instantly.
+
+🏃**If kids are fast:** Ask them to make the sprite say something, change colour, or play a sound when clicked.
 
 </details>
 
