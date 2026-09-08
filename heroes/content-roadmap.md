@@ -452,15 +452,15 @@ Explain to the students what variables are. Use the analogy of a box where items
 
 Die Schüler\*innen werden nun eigene Spiele mit Variablen erstellen:
 
-* Klickergame: Sprites bewegen sich zufällig und verschwinden wenn man sie anklickt. Das soll dann einen Punkt geben, der in einer Variable "Punkte gespeichert" wird. Zu leicht: füge einen Sprite hinzu, der zwei Punkte gibt und einen, der einen Minuspunkt gibt.
-* Ping Pong Game: Es soll ein Ping Pong Spiel erstellt werden, bei dem ein Ball auf einem schlägt bouncen soll. Mit jedem Bounce steigt eine "Punkte" Variable um eins. Wenn der Ball auf dem Boden aufkommt, setzt sich der Score zurück. Zu leicht: Bei einem bestimmten Score kann sich das level und der Hintergrund ändern.
+* Klickergame: Sprites bewegen sich zufällig und verschwinden wenn man sie anklickt. Das soll dann einen Punkt geben, der in einer Variable "Punkte gespeichert" wird. Zu leicht?: füge einen Sprite hinzu, der zwei Punkte gibt und einen, der einen Minuspunkt gibt. Füge einen Timer hinzu, der von 30 Sekunden runterzählt und das Spiel bei 0 beendet.
+* Für Schnelle: Ping Pong Game: Es soll ein Ping Pong Spiel erstellt werden, bei dem ein Ball auf einem schlägt bouncen soll. Mit jedem Bounce steigt eine "Punkte" Variable um eins. Wenn der Ball auf dem Boden aufkommt, setzt sich der Score zurück. Zu leicht?: Bei einem bestimmten Score kann sich das level und der Hintergrund ändern.
 
 🇬🇧 <mark style="color:$info;">English</mark>
 
 Students will now create their own games using variables:
 
-* Clicker Game: Sprites move randomly and disappear when clicked. This should award a point, which is stored in a "Points" variable. Too easy? Add a sprite that awards two points and another that deducts a point.<br>
-* Ping Pong Game: Create a ping-pong game where a ball bounces off a paddle. With every bounce, a "Points" variable increases by one. If the ball hits the ground, the score resets. Too easy? Change the level and background when a certain score is reached.
+* Clicker Game: Sprites move randomly and disappear when clicked. This should award a point, which is stored in a "Points" variable. Too easy?: Add a sprite that awards two points and another that deducts a point. Add a timer that counts down from 30 seconds and end the game when it reaches 0.
+* For fast learners: Ping Pong Game: Create a ping-pong game where a ball bounces off a paddle. With every bounce, a "Points" variable increases by one. If the ball hits the ground, the score resets. Too easy?: Change the level and background when a certain score is reached.
 
 ***
 
