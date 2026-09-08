@@ -775,11 +775,11 @@ The students will make a paper aeroplane. To do so they must follow your instruc
 
 🇩🇪 <mark style="color:$info;">Deutsch</mark>
 
-Was haben wir in den letzten Woche gelernt? Stelle offene Fragen und identifiziere die wesentlichen Punkte aus den letzten Wochen, an die sich die Kinder erinnern sollen. Was sind Bedingungen? Was sind Schleifen? Was sind Variablen? Was gehört alles zu einem Computerspiel?
+Was haben wir in den letzten Woche gelernt? Stelle offene Fragen und identifiziere die wesentlichen Punkte aus den letzten Wochen, an die sich die Kinder erinnern sollen. Was sind Bedingungen? Was sind Schleifen? Was sind Variablen? Was gehört alles zu einem Computerspiel? Was gehört zu einer gelungenen Geschichte?
 
 🇬🇧 <mark style="color:$info;">English</mark>
 
-What did we learn in the last weeks? Ask open-ended Questions and identify what the kids should remember from the last weeks. What are conditions? What are loops? What are variables? What makes a computer game?
+What did we learn in the last weeks? Ask open-ended Questions and identify what the kids should remember from the last weeks. What are conditions? What are loops? What are variables? What makes a computer game? What makes a good story?
 
 ***
 
