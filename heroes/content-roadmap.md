@@ -676,27 +676,27 @@ What did we learn in the last weeks? Ask open-ended Questions and identify what 
 
 ***
 
-📦 **Was gehört zu einen Computerspiel? · What Makes a Game?**
+📦 **Was ist Storytellin (in Scratch)? · What is Storytelling (in Scratch)?**
 
 🇩🇪 <mark style="color:$info;">Deutsch</mark>
 
-Schau dir einige beliebte Spiele an und analysiere ihre Merkmale. Ein Computerspiel ist ein interaktives Abenteuer. Beispiele: Super Mario, Minecraft, Angry Birds. Jedes Spiel besteht aus bestimmten Elementen: Spielidee, Charaktere, Ton/Musik, Regeln, Grafik, Belohnungen, Animation, Ziel und Geschichte. Erkläre, was diese Elemente bedeuten und warum sie benötigt werden.
+Gebe Beispiele für Storytelling aus dem Alltag. erkläre anschließend, dass eine Geschichte einen Anfang, einen Hauptteil und einen Schluss hat. Zeige nun die Hauptbestandteile einer gelungenen Geschichte: Charaktere/Figuren, Ort, Ereignis, Lösung. Erkläre nun, dass das in Scratch auch geht.
 
 🇬🇧 <mark style="color:$info;">English</mark>
 
-Take a look at some popular games and analyse their features. A computer game is an interactive adventure. Examples: Super Mario, Minecraft, Angry Birds. Every game has game elements: Game Idea, Characters, Sound/Music, Rules, Graphics, Rewards, Animation, Goal, and Story. Explain what these mean and why you need them.
+Provide examples of storytelling from everyday life. Then, explain that a story consists of a beginning, a middle, and an end. Next, present the key elements of a successful story: characters, setting, event, and resolution. Explain that this can also be done in Scratch.
 
 ***
 
-🧩 **Ping Pong Spiel · Ping Pong Game:**
+🧩 **Eigene Geschichte kreieren · Creating an own story:**
 
 🇩🇪 <mark style="color:$info;">Deutsch</mark>
 
-Ping Pong Spiel: Es soll ein Ping Pong Spiel erstellt werden, bei dem ein Ball auf einem schlägt bouncen soll. Mit jedem Bounce steigt eine "Punkte" Variable um eins. Wenn der Ball auf dem Boden aufkommt, setzt sich der Score zurück. Zu leicht: Bei einem bestimmten Score kann sich das level und der Hintergrund ändern.
+Jetzt können die Schüler\*innen erstmal eine eigene Geschichte planen. Sie sollten dabei alle wichtigen Bestandteile einer Geschichte berücksichtigen. Dann können sie ihre Geschichte in Scratch programmieren. Im Anschluss können die Schüler\*innen ihre Geschichten in der Gruppe vorstellen.
 
 🇬🇧 <mark style="color:$info;">English</mark>
 
-Ping Pong Game: Create a ping-pong game where a ball bounces off a paddle. With every bounce, a "Points" variable increases by one. If the ball hits the ground, the score resets. Too easy? Change the level and background when a certain score is reached.
+Now, the students can start by planning their own stories. They should take into account all the key elements of a story. Then, they can program their stories in Scratch. Afterward, the students can present their stories to the group.
 
 ***
 
