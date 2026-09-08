@@ -875,7 +875,127 @@ The students will now be creating their own game phases in Scratch:
 
 <summary><mark style="color:purple;"><strong>Week 8:</strong></mark> 🏆 Recap &#x26; Demo Day · Recap &#x26; Demo Day</summary>
 
+**🎯 Ziele · Goals**
 
+🇩🇪 <mark style="color:$info;">Deutsch</mark>
+
+<mark style="color:$info;">Heute wiederholen die Schüler\*innen nochmal alles und bereiten sich auf den Demo Day vor.</mark>
+
+🇬🇧 <mark style="color:$info;">English</mark>
+
+<mark style="color:$info;">Today the students will learn do a full recap of the semester and prepare for Demo Day.</mark>
+
+***
+
+**🔥 Aufwärmen · Warm-Up**
+
+🇩🇪 <mark style="color:$info;">Deutsch</mark>
+
+Die Schüler\*innen bauen ein Papierflieger. Dazu sollen sie wie ein Computer Schritt für Schritt deiner Anleitung folgen. Am Ende können alle ihren Flieger gemeinsam werfen!
+
+🇬🇧 <mark style="color:$info;">English</mark>
+
+The students will make a paper aeroplane. To do so they must follow your instructions step by step like a computer. At the end everyone can throw their aeroplane together
+
+***
+
+🧠 **Wiederholen · Recap**
+
+🇩🇪 <mark style="color:$info;">Deutsch</mark>
+
+Was haben wir in den letzten Woche gelernt? Stelle offene Fragen und identifiziere die wesentlichen Punkte aus den letzten Wochen, an die sich die Kinder erinnern sollen. Was sind Bedingungen? Was sind Schleifen? Was sind Variablen? Was gehört alles zu einem Computerspiel? Was gehört zu einer gelungenen Geschichte?
+
+🇬🇧 <mark style="color:$info;">English</mark>
+
+What did we learn in the last weeks? Ask open-ended Questions and identify what the kids should remember from the last weeks. What are conditions? What are loops? What are variables? What makes a computer game? What makes a good story?
+
+***
+
+📦 **Was sind Nachrichten in Scratch? · What are messages in Scratch?**
+
+🇩🇪 <mark style="color:$info;">Deutsch</mark>
+
+Erkläre erstmal was eine Nachricht ist. Nutze dazu das Sender-Empfänger-Modell. Dann mache klar wie Nachrichten in Scratch funktionieren, vorallem die "Sende" und "Empfange" Befehle.
+
+🇬🇧 <mark style="color:$info;">English</mark>
+
+First, explain what a message is, using the sender-receiver model. Then, clarify how messages work in Scratch—specifically the "broadcast" and "receive" commands.
+
+***
+
+**🎮 Phasen meines Spiels · Phases of my game**
+
+🇩🇪 <mark style="color:$info;">Deutsch</mark>
+
+Erkläre die Startphase, die Spielphasen und die Endphasen eines Spiels und mache klar, wie man für die Umsetzung in Scratch Nachrichten benutzt. Erzähle was zu jeder Spielphase dazugehört (Musik, Schrift, Figuren, Hintergrund).
+
+🇬🇧 <mark style="color:$info;">English</mark>
+
+Explain the start phase, the gameplay phases, and the end phases of a game, and clarify how messages are used to implement them in Scratch. Describe what is included in each game phase (music, text, characters, background).
+
+***
+
+🧩 **Eigene Spielphasen erstellen · Creating your own phases of a game:**
+
+🇩🇪 <mark style="color:$info;">Deutsch</mark>
+
+Die Schüler\*innen erstellen nun ihre eigenen Spielphasen in Scratch:
+
+* Startmenü-Phase: Hintergrund erstellen, Sprite mit Titeltext hinzufügen, Start-Button zeichnen. Musik und Animationen einfügen.
+* Spielphase: Die Spielphase mit Spielfiguren, Hintergrund, Musik und Hindernissen programmieren.
+* Endphasen: Bildschirme für „Gewonnen“ und „Game Over“ hinzufügen, die durch Nachrichten ausgelöst werden.
+
+🇬🇧 <mark style="color:$info;">English</mark>
+
+The students will now be creating their own game phases in Scratch:
+
+* Start Menu Phase: Create backdrop, add title text sprite, draw a Start button. Add music and animations.
+* Game Phase: Program the game phase with characters, a background, music and obstacles.
+* End Phases: Add a "win" and "game over" screen triggered by messages.&#x20;
+
+***
+
+**🎮 Kahoot — Zeit zum Spielen! · Kahoot — Game Time!**
+
+***
+
+**📝 Lehrer\*innenhandbuch · Teacher Notes**
+
+🇩🇪 <mark style="color:$info;">Deutsch</mark>
+
+📋**Vor dem Unterricht:** Zeichne das 3-Phasen-Diagramm auf Papier oder an die Tafel, bevor die Kinder eintreffen. Erstelle vorab ein Beispiel für ein Startmenü, das als Referenz dienen kann.\
+⏱️**Zeitplan:** Aufwärmung: 10 Min. → Erklärung der Nachrichten: 15 Min. → Startmenü: 25 Min. → Spiel & Abschlussphasen: 30 Min. → Kahoot: 10 Min.\
+🚨**Häufiger Fehler:** Kinder senden eine Nachricht („Senden“), vergessen aber, beim anderen Sprite den Block „Wenn ich die Nachricht empfange“ einzufügen. Überprüfe immer beide Seiten.\
+🗣️**Erklärungshilfe:** Nutze einen Vergleich aus dem Alltag: „Eine Nachricht zu senden ist wie eine Gruppen-SMS. Jeder, der das richtige ‚Handy‘ hat (also den Block ‚Wenn ich die Nachricht empfange‘), reagiert darauf.“\
+🔗**Bezug zu:** Lektion 6 (Geschichte). Nachrichten ermöglichen es verschiedenen Teilen der Geschichte, sich gegenseitig auszulösen – genau das lässt interaktive Geschichten lebendig wirken.
+
+🇬🇧 <mark style="color:$info;">English</mark>
+
+📋**Before class:** Draw the 3-phase diagram on paper/board before kids arrive. Pre-build a Start Menu example to show as a reference.\
+⏱️**Timing guide:** Warm-up: 10 min → Broadcast explanation: 15 min → Start Menu: 25 min → Game + End phases: 30 min → Kahoot: 10 min.\
+🚨**Common mistake:** Kids broadcast a message but forget to add a 'When I receive' block on the other sprite. Always check both sides.\
+🗣️**How to explain:** Use a real-life analogy: 'Broadcast is like sending a group text. Anyone with the right phone (When I receive) will react.'\
+🔗**Connects to:** Session 6 (story). Messages let different parts of the story trigger each other — it's what makes interactive stories feel alive.
+
+***
+
+💡**Schnelle Tipps · Quick tips**
+
+🇩🇪 <mark style="color:$info;">Deutsch</mark>
+
+→ Zeichne zuerst die Spielphasen auf das Board: Start → Spielen → Gewinnen/Verlieren.
+
+→ Die Nachrichten sind anfangs verwirrend – zeige eine Demo, in der zwei Sprites miteinander sprechen.
+
+→ Die Kinder können ihr Projekt aus Sitzung 5 oder 6 wiederverwenden und um weitere Phasen ergänzen.
+
+🇬🇧 <mark style="color:$info;">English</mark>
+
+→Draw the game phases on the board first: Start → Play → Win/Lose.
+
+→Messages are confusing at first — demo with two sprites talking to each other.
+
+→Kids can reuse their project from Session 5 or 6 and add phases to it.
 
 </details>
 
