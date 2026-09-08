@@ -452,7 +452,7 @@ Explain to the students what variables are. Use the analogy of a box where items
 
 Die Schüler\*innen werden nun eigene Spiele mit Variablen erstellen:
 
-* Klickergame: Sprites bewegen sich zufällig und verschwinden wenn man sie anklickt. Das soll dann einen Punkt geben, der in einer Variable "Punkte gespeichert" wird. Zu leicht?: füge einen Sprite hinzu, der zwei Punkte gibt und einen, der einen Minuspunkt gibt. Füge einen Timer hinzu, der von 30 Sekunden runterzählt und das Spiel bei 0 beendet.
+* Klickergame: Sprites bewegen sich zufällig und verschwinden wenn man sie anklickt. Das soll dann einen Punkt geben, der in einer Variable "Punkte" gespeichert wird. Zu leicht?: füge einen Sprite hinzu, der zwei Punkte gibt und einen, der einen Minuspunkt gibt. Füge einen Timer hinzu, der von 30 Sekunden runterzählt und das Spiel bei 0 beendet.
 * Für Schnelle: Ping Pong Game: Es soll ein Ping Pong Spiel erstellt werden, bei dem ein Ball auf einem schlägt bouncen soll. Mit jedem Bounce steigt eine "Punkte" Variable um eins. Wenn der Ball auf dem Boden aufkommt, setzt sich der Score zurück. Zu leicht?: Bei einem bestimmten Score kann sich das level und der Hintergrund ändern.
 
 🇬🇧 <mark style="color:$info;">English</mark>
