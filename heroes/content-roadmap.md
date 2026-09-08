@@ -192,11 +192,11 @@ What did we learn last week? Ask open-ended Questions and identify what the kids
 
 🇩🇪 <mark style="color:$info;">Deutsch</mark>
 
-Erkläre den Schüler\*innen Bedingungen anhand von echten Beispielen. Zeige ihnen wie Bedinungen in Scratch funktionieren.
+Erkläre den Schüler\*innen Bedingungen anhand von echten Beispielen z.B. "Wenn es regnet, nehme ich meinen Regenschirm mit" oder "wenn die Ampel rot ist, bleibe ich stehen". Zeige ihnen wie Bedinungen in Scratch funktionieren.
 
 <mark style="color:$info;">🇬🇧 English</mark>
 
-Explain conditions to the students by giving real-world examples. Show then how conditions work in Scratch.&#x20;
+Explain conditions to the students by giving real-world examples e.g. "If it rains, I'll take my umbrella with me" or "if the traffic light is red, I stop". Show them how conditions work in Scratch.&#x20;
 
 ***
 
