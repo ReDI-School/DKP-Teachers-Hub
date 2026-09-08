@@ -508,7 +508,113 @@ Students will now create their own games using variables:
 
 <summary><mark style="color:$success;"><strong>Week 5:</strong></mark> 🎮 Computerspiele · Computer Games</summary>
 
+**🎯 Ziele · Goals**
 
+🇩🇪 <mark style="color:$info;">Deutsch</mark>
+
+<mark style="color:$info;">Die Schüler\*innen lernen heute über Computerspiele.</mark>
+
+🇬🇧 <mark style="color:$info;">English</mark>
+
+<mark style="color:$info;">Today the students will learn about computer games.</mark>
+
+***
+
+**🔥 Aufwärmen · Warm-Up**
+
+🇩🇪 <mark style="color:$info;">Deutsch</mark>
+
+TODO
+
+🇬🇧 <mark style="color:$info;">English</mark>
+
+TODO
+
+***
+
+🧠 **Wiederholen · Recap**
+
+🇩🇪 <mark style="color:$info;">Deutsch</mark>
+
+Was haben wir letzte Woche gelernt? Stelle offene Fragen und identifiziere die wesentlichen Punkte von letzter Woche, an die sich die Kinder erinnern sollen. Was sind Schleifen? Was für Schleifen gibt es? Warum benutzen wir Schleifen?
+
+🇬🇧 <mark style="color:$info;">English</mark>
+
+What did we learn last week? Ask open-ended Questions and identify what the kids should remember from last week. What are loops? What types of loops are there? why do we use loops?
+
+***
+
+📦 **Variablen in Scratch · Variablen in Scratch**
+
+🇩🇪 <mark style="color:$info;">Deutsch</mark>
+
+Erkläre den Schüler\*innen was Variablen sind. Nutze dazu den Vergleich mit einer Kiste, in der man Sachen Speichern kann. Zeige anschließend Beispiele aus dem Alltag für Variablen  und mache klar, warum es sich um Variablen handelt. Zeige den Schüler\*innen dann wie man Variablen in Scratch implementiert ("setze" und "ändere" Blöcke).
+
+🇬🇧 <mark style="color:$info;">English</mark>
+
+Explain to the students what variables are. Use the analogy of a box where items can be stored. Then, present real-life examples of variables and clarify why they qualify as such. Finally, show the students how to implement variables in Scratch (using the "set" and "change" blocks).
+
+***
+
+🧩 **Scratch Spiele · Scratch games:**
+
+🇩🇪 <mark style="color:$info;">Deutsch</mark>
+
+Die Schüler\*innen werden nun eigene Spiele mit Variablen erstellen:
+
+* Klickergame: Sprites bewegen sich zufällig und verschwinden wenn man sie anklickt. Das soll dann einen Punkt geben, der in einer Variable "Punkte gespeichert" wird. Zu leicht: füge einen Sprite hinzu, der zwei Punkte gibt und einen, der einen Minuspunkt gibt.
+* Ping Pong Game: Es soll ein Ping Pong Spiel erstellt werden, bei dem ein Ball auf einem schlägt bouncen soll. Mit jedem Bounce steigt eine "Punkte" Variable um eins. Wenn der Ball auf dem Boden aufkommt, setzt sich der Score zurück. Zu leicht: Bei einem bestimmten Score kann sich das level und der Hintergrund ändern.
+
+🇬🇧 <mark style="color:$info;">English</mark>
+
+Students will now create their own games using variables:
+
+* Clicker Game: Sprites move randomly and disappear when clicked. This should award a point, which is stored in a "Points" variable. Too easy? Add a sprite that awards two points and another that deducts a point.<br>
+* Ping Pong Game: Create a ping-pong game where a ball bounces off a paddle. With every bounce, a "Points" variable increases by one. If the ball hits the ground, the score resets. Too easy? Change the level and background when a certain score is reached.
+
+***
+
+**🎮 Kahoot — Zeit zum Spielen! · Kahoot — Game Time!**
+
+***
+
+**📝 Lehrer\*innenhandbuch · Teacher Notes**
+
+🇩🇪 <mark style="color:$info;">Deutsch</mark>
+
+📋**Vor dem Unterricht:** Bereite die Startversion des Clicker-Spiels vor (Sprite, das sich zufällig bewegt). Halte die Ping-Pong-Vorlage als Zusatzaufgabe bereit.\
+⏱️**Zeitplan:** Aufwärmphase: 10 Min. → Erklärung von Variablen: 10 Min. → Clicker-Spiel: 25 Min. → Timer: 15 Min. → Ping-Pong (für schnelle Kinder): 20 Min.\
+🚨**Häufiger Fehler:** Vergessen, die Variable beim Anklicken der grünen Flagge auf 0 zurückzusetzen. Immer mit „Setze \[Punkte] auf 0“ beginnen.\
+🗣️**Erklärung:** Zeichne einen Kasten an die Tafel. Schreibe „Punkte“ außen und „0“ innen hinein. Wische die Zahl weg und schreibe sie neu, wenn sich der Punktestand ändert. Das ist eine Variable.\
+🔗**Bezug zu:** Lektionen 2 & 3 (Bedingungen + Schleifen). Variablen sind das „Gedächtnis“, das Bedingungen und Schleifen erst sinnvoll macht.
+
+🇬🇧 <mark style="color:$info;">English</mark>
+
+📋**Before class:** Pre-build the Clicker Game starter (random-moving sprite). Have the Ping Pong template ready as a stretch goal.\
+⏱️**Timing guide:** Warm-up: 10 min → Variable explanation: 10 min → Clicker Game: 25 min → Timer: 15 min → Ping Pong (fast kids): 20 min.\
+🚨**Common mistake:** Forgetting to reset the variable to 0 when the green flag is clicked. Always start with 'Set \[Score] to 0'.\
+🗣️**How to explain:** Draw a box on the board. Write 'Punkte' on the outside, '0' inside. Erase and rewrite as the score changes. That's a variable.\
+🔗**Connects to:** Sessions 2 & 3 (conditions + loops). Variables are the 'memory' that makes conditions and loops meaningful.
+
+***
+
+💡**Schnelle Tipps · Quick tips**
+
+🇩🇪 <mark style="color:$info;">Deutsch</mark>
+
+→Die Box-Metapher ist sehr anschaulich – zeichne sie an die Tafel: \[Punkte] = 0.
+
+→Achte darauf, dass die Kinder die Punktzahl zu Beginn (bei der grünen Flagge) auf 0 setzen – ein häufiger Fehler!
+
+→Ping-Pong ist eine Zusatzaufgabe. Das Clicker-Spiel ist die Hauptaufgabe.
+
+🇬🇧 <mark style="color:$info;">English</mark>
+
+→The box metaphor is powerful — draw it on the board: \[Punkte] = 0.
+
+→Make sure kids set Score to 0 at the start (green flag) — common mistake!
+
+→Ping Pong is a stretch goal. Clicker Game is the core activity.
 
 </details>
 
