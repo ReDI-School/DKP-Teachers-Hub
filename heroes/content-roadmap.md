@@ -807,15 +807,23 @@ Explain the start phase, the gameplay phases, and the end phases of a game, and 
 
 ***
 
-🧩 **Eigene Geschichte kreieren · Creating an own story:**
+🧩 **Eigene Spielphasen erstellen · Creating your own phases of a game:**
 
 🇩🇪 <mark style="color:$info;">Deutsch</mark>
 
-Jetzt können die Schüler\*innen erstmal eine eigene Geschichte planen. Sie sollten dabei alle wichtigen Bestandteile einer Geschichte berücksichtigen. Dann können sie ihre Geschichte in Scratch programmieren. Im Anschluss können die Schüler\*innen ihre Geschichten in der Gruppe vorstellen.
+Die Schüler\*innen erstellen nun ihre eigenen Spielphasen in Scratch:
+
+* Startmenü-Phase: Hintergrund erstellen, Sprite mit Titeltext hinzufügen, Start-Button zeichnen. Musik und Animationen einfügen.
+* Spielphase: Die Spielphase mit Spielfiguren, Hintergrund, Musik und Hindernissen programmieren.
+* Endphasen: Bildschirme für „Gewonnen“ und „Game Over“ hinzufügen, die durch Nachrichten ausgelöst werden.
 
 🇬🇧 <mark style="color:$info;">English</mark>
 
-Now, the students can start by planning their own stories. They should take into account all the key elements of a story. Then, they can program their stories in Scratch. Afterward, the students can present their stories to the group.
+The students will now be creating their own game phases in Scratch:
+
+* Start Menu Phase: Create backdrop, add title text sprite, draw a Start button. Add music and animations.
+* Game Phase: Program the game phase with characters, a background, music and obstacles.
+* End Phases: Add a "win" and "game over" screen triggered by messages.&#x20;
 
 ***
 
