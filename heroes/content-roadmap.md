@@ -835,18 +835,19 @@ The students will now be creating their own game phases in Scratch:
 
 🇩🇪 <mark style="color:$info;">Deutsch</mark>
 
-📋**Vor dem Unterricht:** Bereite ein einfaches Arbeitsblatt zur Geschichtenplanung vor (auf Papier): Name, Figuren, Schauplatz, Was passiert?, Wie geht es aus?\
-⏱️**Zeitplan:** Aufwärmphase: 10 Min. → Geschichtenplanung (Papier): 15 Min. → Programmieren mit Scratch: 40 Min. → Präsentationen: 15 Min. → Kahoot: 10 Min.\
-🚨**Häufiger Fehler:** Kinder legen direkt in Scratch los, ohne einen Plan zu haben. Bestehe auf der Planungsphase auf Papier – 5 Minuten Planung ersparen 20 Minuten Verwirrung.\
-🗣️**Erklärung:** Sag: „Jeder Film, jedes Buch und jedes Spiel hat eine Geschichte. Heute seid ihr sowohl die Autoren als auch die Programmierer.“ Das motiviert die Kinder sehr.\
-🔗**Bezug zu:** Einheit 7 (Nachrichten senden/Broadcast-Befehle). Die hier entwickelte Geschichte kann in der nächsten Einheit um Nachrichten und Spielphasen erweitert werden.
+📋**Vor dem Unterricht:** Zeichne das 3-Phasen-Diagramm auf Papier oder an die Tafel, bevor die Kinder eintreffen. Erstelle vorab ein Beispiel für ein Startmenü, das als Referenz dienen kann.\
+⏱️**Zeitplan:** Aufwärmphase: 10 Min. → Erklärung der „Senden“-Funktion (Broadcast): 15 Min. → Startmenü: 25 Min. → Spiel & Abschlussphasen: 30 Min. → Kahoot: 10 Min.\
+🚨Häufiger Fehler: Kinder senden eine Nachricht („Senden“), vergessen aber, beim anderen Sprite den Block „Wenn ich die Nachricht empfange“ einzufügen. Überprüfe immer beide Seiten.\
+🗣️**Erklärungshilfe:** Nutze einen Vergleich aus dem Alltag: „Eine Nachricht zu senden ist wie eine Gruppen-SMS. Jeder, der das richtige ‚Handy‘ hat (also den Block ‚Wenn ich die Nachricht empfange‘), reagiert darauf.“\
+🔗**Bezug zu:** Lektion 6 (Geschichte). Nachrichten ermöglichen es verschiedenen Teilen der Geschichte, sich gegenseitig auszulösen – genau das lässt interaktive Geschichten lebendig wirken.
 
-🇬🇧 <mark style="color:$info;">English</mark>\
-📋**Before class:** Prepare a simple story planning worksheet (paper): Name, Characters, Setting, What happens?, How does it end?\
-⏱️**Timing guide:** Warm-up: 10 min → Story planning (paper): 15 min → Scratch coding: 40 min → Presentations: 15 min → Kahoot: 10 min.\
-🚨**Common mistake:** Kids jump straight into Scratch without a plan. Enforce the paper planning step — 5 minutes of planning saves 20 minutes of confusion.\
-🗣️**How to explain:** Say: 'Every movie, book, and game has a story. Today you are the author AND the programmer.' This motivates kids a lot.\
-🔗**Connects to:** Session 7 (broadcast messages). The story they build here can be extended with messages and game phases next session.
+🇬🇧 <mark style="color:$info;">English</mark>
+
+📋**Before class:** Draw the 3-phase diagram on paper/board before kids arrive. Pre-build a Start Menu example to show as a reference.\
+⏱️**Timing guide:** Warm-up: 10 min → Broadcast explanation: 15 min → Start Menu: 25 min → Game + End phases: 30 min → Kahoot: 10 min.\
+🚨**Common mistake:** Kids broadcast a message but forget to add a 'When I receive' block on the other sprite. Always check both sides.\
+🗣️How to explain: Use a real-life analogy: 'Broadcast is like sending a group text. Anyone with the right phone (When I receive) will react.'\
+🔗**Connects to:** Session 6 (story). Messages let different parts of the story trigger each other — it's what makes interactive stories feel alive.
 
 ***
 
@@ -854,19 +855,19 @@ The students will now be creating their own game phases in Scratch:
 
 🇩🇪 <mark style="color:$info;">Deutsch</mark>
 
-→ Lasse die Kinder ihre Geschichte zuerst auf Papier planen, bevor sie Scratch öffnen.
+→ Zeichne zuerst die Spielphasen auf das Board: Start → Spielen → Gewinnen/Verlieren.
 
-→ Fördere die Kreativität – es gibt keine falschen Geschichten!
+→ Die Nachrichten sind anfangs verwirrend – zeige eine Demo, in der zwei Sprites miteinander sprechen.
 
-→ Präsentationen stärken das Selbstvertrauen. Gib jedem, der seine Geschichte präsentiert, positives Feedback.
+→ Die Kinder können ihr Projekt aus Sitzung 5 oder 6 wiederverwenden und um weitere Phasen ergänzen.
 
 🇬🇧 <mark style="color:$info;">English</mark>
 
-→Have kids plan their story on paper first before opening Scratch.
+→Draw the game phases on the board first: Start → Play → Win/Lose.
 
-→Encourage creativity — there's no wrong story!
+→Messages are confusing at first — demo with two sprites talking to each other.
 
-→Presentations build confidence. Give positive feedback to every presenter.
+→Kids can reuse their project from Session 5 or 6 and add phases to it.
 
 </details>
 
