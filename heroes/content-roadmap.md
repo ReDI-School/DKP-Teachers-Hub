@@ -708,19 +708,18 @@ Now, the students can start by planning their own stories. They should take into
 
 🇩🇪 <mark style="color:$info;">Deutsch</mark>
 
-📋**Vor dem Kurs:** Bereite das Pong-Grundgerüst vor (Ball-Sprite mit Abprall-Funktion, Hintergrund mit roter Linie). Teste es selbst, damit du die Kinder anleiten kannst.\
-⏱️**Zeitplan:** Aufwärmphase: 10 Min. → Diskussion zu Minecraft: 15 Min. → Pong programmieren: 50 Min. → Kahoot: 10 Min.\
-🚨**Häufiger Fehler:** Der Ball bleibt in einer Ecke hängen. Lösung: Verwende zu Beginn den Befehl „in Richtung (Zufallswert 45 bis 135) zeigen“ statt eines festen Winkels.\
-🗣️**Erklärung:** Frage: „Was motiviert euch, ein Spiel weiterzuspielen?“ Notiere die Antworten an der Tafel – das ist deine Lektion zum Thema Spieldesign.\
-🔗**Bezug zu:** Einheit 4 (Variablen für den Punktestand). Die Kinder wenden ihr gesamtes Wissen an: Bedingungen, Schleifen und Variablen – alles in einem einzigen Spiel.
+📋**Vor dem Unterricht:** Bereite ein einfaches Arbeitsblatt zur Geschichtenplanung vor (auf Papier): Name, Figuren, Schauplatz, Was passiert?, Wie geht es aus?\
+⏱️**Zeitplan:** Aufwärmphase: 10 Min. → Geschichtenplanung (Papier): 15 Min. → Programmieren mit Scratch: 40 Min. → Präsentationen: 15 Min. → Kahoot: 10 Min.\
+🚨**Häufiger Fehler:** Kinder legen direkt in Scratch los, ohne einen Plan zu haben. Bestehe auf der Planungsphase auf Papier – 5 Minuten Planung ersparen 20 Minuten Verwirrung.\
+🗣️**Erklärung:** Sag: „Jeder Film, jedes Buch und jedes Spiel hat eine Geschichte. Heute seid ihr sowohl die Autoren als auch die Programmierer.“ Das motiviert die Kinder sehr.\
+🔗**Bezug zu:** Einheit 7 (Nachrichten senden/Broadcast-Befehle). Die hier entwickelte Geschichte kann in der nächsten Einheit um Nachrichten und Spielphasen erweitert werden.
 
-🇬🇧 <mark style="color:$info;">English</mark>
-
-📋**Before class:** Pre-build the Pong starter (ball sprite with bounce, red line backdrop). Test it yourself first so you can guide kids.\
-⏱️**Timing guide:** Warm-up: 10 min → Minecraft discussion: 15 min → Pong build: 50 min → Kahoot: 10 min.\
-🚨**Common mistake:** Ball gets stuck in a corner. Fix: use 'point in direction (random 45 to 135)' at start, not a fixed angle.\
-🗣️**How to explain:** Ask: 'What makes you keep playing a game?' List answers on the board — that's your game design lesson.\
-🔗**Connects to:** Session 4 (variables for score). Kids will use everything they know: conditions, loops, and variables all in one game.
+🇬🇧 <mark style="color:$info;">English</mark>\
+📋**Before class:** Prepare a simple story planning worksheet (paper): Name, Characters, Setting, What happens?, How does it end?\
+⏱️**Timing guide:** Warm-up: 10 min → Story planning (paper): 15 min → Scratch coding: 40 min → Presentations: 15 min → Kahoot: 10 min.\
+🚨**Common mistake:** Kids jump straight into Scratch without a plan. Enforce the paper planning step — 5 minutes of planning saves 20 minutes of confusion.\
+🗣️**How to explain:** Say: 'Every movie, book, and game has a story. Today you are the author AND the programmer.' This motivates kids a lot.\
+🔗**Connects to:** Session 7 (broadcast messages). The story they build here can be extended with messages and game phases next session.
 
 ***
 
@@ -728,17 +727,19 @@ Now, the students can start by planning their own stories. They should take into
 
 🇩🇪 <mark style="color:$info;">Deutsch</mark>
 
-→ Das Aufwärmspiel „Feuer/Wasser/Sturm“ ist bei den Teilnehmenden sehr beliebt – führt es mit Begeisterung durch!\
-→ Nutzt das Gespräch über Minecraft, damit die Kinder erzählen können, was sie an Spielen lieben.\
-→ Das Projekt „Pong“ baut auf dem Thema „Variablen“ (Sitzung 4) auf – erinnert die Kinder daran, was sie bereits wissen.
+→ Lassen Sie die Kinder ihre Geschichte zuerst auf Papier planen, bevor sie Scratch öffnen.
+
+→ Fördern Sie die Kreativität – es gibt keine falschen Geschichten!
+
+→ Präsentationen stärken das Selbstvertrauen. Geben Sie jedem, der seine Geschichte präsentiert, positives Feedback.
 
 🇬🇧 <mark style="color:$info;">English</mark>
 
-→The Fire/Water/Storm warm-up is a fan favourite — do it enthusiastically!
+→Have kids plan their story on paper first before opening Scratch.
 
-→Use the Minecraft discussion to let kids share what they love about games.
+→Encourage creativity — there's no wrong story!
 
-→Pong builds on Variables (Session 4) — remind kids of what they already know.
+→Presentations build confidence. Give positive feedback to every presenter.
 
 </details>
 
