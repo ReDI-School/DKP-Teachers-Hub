@@ -442,18 +442,14 @@ Explain to the students what variables are. Use the analogy of a box where items
 
 ***
 
-🧩 **Scratch Programme · Scratch programs:**
+🧩 **Scratch Spiele · Scratch games:**
 
 🇩🇪 <mark style="color:$info;">Deutsch</mark>
 
-Die Schüler\*innen werden nun eigene Programme mit Schleifen erstellen:
+Die Schüler\*innen werden nun eigene Spiele mit Variablen erstellen:
 
-* Übung 1: Erstelle eine Figur und animiere sie, sodass sie springt.&#x20;
-* Übung 2: (Zeige ihnen hierfür wie man "Malstift" als Erweiterung hinzufügt) Zeichne mit einer Schleife ein Quadrat.
-* Übung 3: Zeichne mit einer Schleife einen Stern
-* Übung 4: Erstelle mit einer Schleife dein eigenes Muster mit verschiedenen Formen.
-
-Anschließend können Schüler\*innen ihr Programm vorstellen.
+* Klickergame: Sprites bewegen sich zufällig und verschwinden wenn man sie anklickt. Das soll dann einen Punkt geben, der in einer Variable "Punkte gespeichert" wird. Zu leicht: füge einen Sprite hinzu, der zwei Punkte gibt und einen, der einen Minuspunkt gibt.
+* Ping Pong Game: Es soll ein Ping Pong Spiel erstellt werden, bei dem ein Ball auf einem schlägt bouncen soll. Mit jedem Bounce steigt eine "Punkte" Variable um eins. Wenn der Ball auf dem Boden aufkommt, setzt sich der Score zurück. Zu leicht: Bei einem bestimmten Score kann sich das level und der Hintergrund ändern.
 
 🇬🇧 <mark style="color:$info;">English</mark>
 
