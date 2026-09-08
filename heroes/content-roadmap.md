@@ -438,11 +438,11 @@ Tip: Calculate the results before hand to definitely have the right answer.
 
 🇩🇪 <mark style="color:$info;">Deutsch</mark>
 
-Erkläre den Schüler\*innen was Variablen sind. Nutze dazu den Vergleich mit einer Kiste, in der man Sachen Speichern kann. Zeige anschließend Beispiele aus dem Alltag für Variablen  und mache klar, warum es sich um Variablen handelt. Zeige den Schüler\*innen dann wie man Variablen in Scratch implementiert ("setze" und "ändere" Blöcke).
+Erkläre den Schüler\*innen was Variablen sind. Nutze dazu den Vergleich mit einer Kiste, in der man Sachen Speichern kann. Zeige anschließend Beispiele, z.B. Punkte in einem Spiel oder Tiktok Likes, aus dem Alltag für Variablen und mache klar, warum es sich um Variablen handelt. Zeige den Schüler\*innen dann wie man Variablen in Scratch implementiert ("setze" und "ändere" Blöcke).
 
 🇬🇧 <mark style="color:$info;">English</mark>
 
-Explain to the students what variables are. Use the analogy of a box where items can be stored. Then, present real-life examples of variables and clarify why they qualify as such. Finally, show the students how to implement variables in Scratch (using the "set" and "change" blocks).
+Explain to the students what variables are. Use the analogy of a box where items can be stored. Then, present real-life examples of variables, e.g. points in a game or tiktok likes, and clarify why they qualify as such. Finally, show the students how to implement variables in Scratch (using the "set" and "change" blocks).
 
 ***
 
