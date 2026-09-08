@@ -727,11 +727,11 @@ Now, the students can start by planning their own stories. They should take into
 
 🇩🇪 <mark style="color:$info;">Deutsch</mark>
 
-→ Lassen Sie die Kinder ihre Geschichte zuerst auf Papier planen, bevor sie Scratch öffnen.
+→ Lasse die Kinder ihre Geschichte zuerst auf Papier planen, bevor sie Scratch öffnen.
 
-→ Fördern Sie die Kreativität – es gibt keine falschen Geschichten!
+→ Fördere die Kreativität – es gibt keine falschen Geschichten!
 
-→ Präsentationen stärken das Selbstvertrauen. Geben Sie jedem, der seine Geschichte präsentiert, positives Feedback.
+→ Präsentationen stärken das Selbstvertrauen. Gib jedem, der seine Geschichte präsentiert, positives Feedback.
 
 🇬🇧 <mark style="color:$info;">English</mark>
 
