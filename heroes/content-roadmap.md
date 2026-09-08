@@ -783,7 +783,7 @@ What did we learn in the last weeks? Ask open-ended Questions and identify what 
 
 ***
 
-📦 **Was sind Nachrichten in Scratch? · What are messages in Scratch?**
+🗣️ **Was sind Nachrichten in Scratch? · What are messages in Scratch?**
 
 🇩🇪 <mark style="color:$info;">Deutsch</mark>
 
@@ -925,47 +925,35 @@ What have we learnt throughout his semester? Do recap the students will play a m
 
 ***
 
-📦 **Was sind Nachrichten in Scratch? · What are messages in Scratch?**
+🧩 **Programmierzeit · Programming time**
 
 🇩🇪 <mark style="color:$info;">Deutsch</mark>
 
-Erkläre erstmal was eine Nachricht ist. Nutze dazu das Sender-Empfänger-Modell. Dann mache klar wie Nachrichten in Scratch funktionieren, vorallem die "Sende" und "Empfange" Befehle.
+Die Schüler\*innen kriegen jetzt Zeit ihr Projekt für den Demo Day fertig zu machen. Dazu können sie entweder an ihrer Geschichte oder einem ihrer Spiele arbeiten oder eine neue Geschichte oder ein neues Spiel erstellen. Du kannst ihnen auch optional eine ausgedruckte Checklist geben, damit sie wissen was in ihrem Projekt nicht fehlen darf.
 
 🇬🇧 <mark style="color:$info;">English</mark>
 
-First, explain what a message is, using the sender-receiver model. Then, clarify how messages work in Scratch—specifically the "broadcast" and "receive" commands.
+The students now have time to finish their projects for Demo Day. They can work on an existing story or game, or create a new one. You can also optionally provide them with a printed checklist so they know what must be included in their projects.
 
 ***
 
-**🎮 Phasen meines Spiels · Phases of my game**
+🎤 **Präsentationstipps und Generalprobe · Presentation tips and dress rehearsal**
 
 🇩🇪 <mark style="color:$info;">Deutsch</mark>
 
-Erkläre die Startphase, die Spielphasen und die Endphasen eines Spiels und mache klar, wie man für die Umsetzung in Scratch Nachrichten benutzt. Erzähle was zu jeder Spielphase dazugehört (Musik, Schrift, Figuren, Hintergrund).
+Gebe den Schüler\*innen Tipps für ihre Präsentation am Demo Day und lass sie sich ihr Projekt in Paaren gegenseitig vorstellen. Tipps sind:
+
+1. Sag deinen Namen und den Projektnamen.
+2. Zeig, was dein Projekt macht. Du kannst jemanden zum Spielen einladen.
+3. Sag mal, was schwierig war oder was dir gefallen hat.
 
 🇬🇧 <mark style="color:$info;">English</mark>
 
-Explain the start phase, the gameplay phases, and the end phases of a game, and clarify how messages are used to implement them in Scratch. Describe what is included in each game phase (music, text, characters, background).
+Give the students tips for their Demo Day presentation and have them present their projects to each other in pairs. Tips include:
 
-***
-
-🧩 **Eigene Spielphasen erstellen · Creating your own phases of a game:**
-
-🇩🇪 <mark style="color:$info;">Deutsch</mark>
-
-Die Schüler\*innen erstellen nun ihre eigenen Spielphasen in Scratch:
-
-* Startmenü-Phase: Hintergrund erstellen, Sprite mit Titeltext hinzufügen, Start-Button zeichnen. Musik und Animationen einfügen.
-* Spielphase: Die Spielphase mit Spielfiguren, Hintergrund, Musik und Hindernissen programmieren.
-* Endphasen: Bildschirme für „Gewonnen“ und „Game Over“ hinzufügen, die durch Nachrichten ausgelöst werden.
-
-🇬🇧 <mark style="color:$info;">English</mark>
-
-The students will now be creating their own game phases in Scratch:
-
-* Start Menu Phase: Create backdrop, add title text sprite, draw a Start button. Add music and animations.
-* Game Phase: Program the game phase with characters, a background, music and obstacles.
-* End Phases: Add a "win" and "game over" screen triggered by messages.&#x20;
+1. State your name and the project name.
+2. Show what your project does. You can invite someone to play with it.
+3. Mention what was difficult or what you enjoyed.
 
 ***
 
@@ -977,19 +965,19 @@ The students will now be creating their own game phases in Scratch:
 
 🇩🇪 <mark style="color:$info;">Deutsch</mark>
 
-📋**Vor dem Unterricht:** Zeichne das 3-Phasen-Diagramm auf Papier oder an die Tafel, bevor die Kinder eintreffen. Erstelle vorab ein Beispiel für ein Startmenü, das als Referenz dienen kann.\
-⏱️**Zeitplan:** Aufwärmung: 10 Min. → Erklärung der Nachrichten: 15 Min. → Startmenü: 25 Min. → Spiel & Abschlussphasen: 30 Min. → Kahoot: 10 Min.\
-🚨**Häufiger Fehler:** Kinder senden eine Nachricht („Senden“), vergessen aber, beim anderen Sprite den Block „Wenn ich die Nachricht empfange“ einzufügen. Überprüfe immer beide Seiten.\
-🗣️**Erklärungshilfe:** Nutze einen Vergleich aus dem Alltag: „Eine Nachricht zu senden ist wie eine Gruppen-SMS. Jeder, der das richtige ‚Handy‘ hat (also den Block ‚Wenn ich die Nachricht empfange‘), reagiert darauf.“\
-🔗**Bezug zu:** Lektion 6 (Geschichte). Nachrichten ermöglichen es verschiedenen Teilen der Geschichte, sich gegenseitig auszulösen – genau das lässt interaktive Geschichten lebendig wirken.
+📋**Vor dem Unterricht:** Erinnere die Kinder per Nachricht/E-Mail daran, den Link zu ihrem Scratch-Projekt mitzubringen. Halte das abschließende Kahoot-Quiz bereit. Drucke die Projekt-Checkliste aus.\
+⏱️**Zeitplan:** Aufwärmphase: 10 Min. → Umfassende Wiederholung: 15 Min. → Feinschliff am Projekt: 30 Min. → Üben der Präsentationen: 25 Min. → Abschließendes Kahoot-Quiz: 10 Min.\
+🚨**Häufiger Fehler:** Die Kinder verbringen die gesamte Zeit mit dem Feinschliff und üben ihre Präsentation nicht. Setze ein striktes Zeitlimit von 30 Minuten für das Programmieren und gehe dann zu den Präsentationen über.\
+🗣️**Erklärung: Sag:** „Der Demo Day ist EUER Moment. Ihr habt etwas Echtes erschaffen. Seid stolz darauf – präsentiert es!“ Begeistere und motiviere sie, bevor sie ihre Projekte vorstellen.\
+📍**Organisation des Demo Day:** Informiere die Kinder über Ort und Zeit des Demo Day.
 
 🇬🇧 <mark style="color:$info;">English</mark>
 
-📋**Before class:** Draw the 3-phase diagram on paper/board before kids arrive. Pre-build a Start Menu example to show as a reference.\
-⏱️**Timing guide:** Warm-up: 10 min → Broadcast explanation: 15 min → Start Menu: 25 min → Game + End phases: 30 min → Kahoot: 10 min.\
-🚨**Common mistake:** Kids broadcast a message but forget to add a 'When I receive' block on the other sprite. Always check both sides.\
-🗣️**How to explain:** Use a real-life analogy: 'Broadcast is like sending a group text. Anyone with the right phone (When I receive) will react.'\
-🔗**Connects to:** Session 6 (story). Messages let different parts of the story trigger each other — it's what makes interactive stories feel alive.
+📋**Before class:** Remind kids via message/email to bring their Scratch project link. Have the Final Kahoot ready. Print the project checklist.\
+⏱️**Timing guide:** Warm-up: 10 min → Full recap: 15 min → Project polish: 30 min → Practice presentations: 25 min → Final Kahoot: 10 min.\
+🚨**Common mistake:** Kids spend all time polishing and don't practice their presentation. Set a hard stop at 30 min for coding and move to presentations.\
+🗣️**How to explain:** Say: 'Demo Day is YOUR moment. You built something real. Be proud — show it off!' Hype them up before they present.\
+📍**Demo Day logistics:** Inform the kids about the location and time of Demo Day
 
 ***
 
@@ -997,19 +985,19 @@ The students will now be creating their own game phases in Scratch:
 
 🇩🇪 <mark style="color:$info;">Deutsch</mark>
 
-→ Zeichne zuerst die Spielphasen auf das Board: Start → Spielen → Gewinnen/Verlieren.
+→ Ermutige die Kinder, heute mindestens eine neue Funktion hinzuzufügen.
 
-→ Die Nachrichten sind anfangs verwirrend – zeige eine Demo, in der zwei Sprites miteinander sprechen.
+→ Übt das Präsentationsformat – das stärkt das Selbstvertrauen für den Demo Day.
 
-→ Die Kinder können ihr Projekt aus Sitzung 5 oder 6 wiederverwenden und um weitere Phasen ergänzen.
+→ Würdigt jedes Projekt, ganz gleich, wie einfach es ist. Jedes Kind ist ein Digital Hero!
 
 🇬🇧 <mark style="color:$info;">English</mark>
 
-→Draw the game phases on the board first: Start → Play → Win/Lose.
+→Encourage kids to add at least one new feature today.
 
-→Messages are confusing at first — demo with two sprites talking to each other.
+→Practice the presentation format — it builds real confidence for Demo Day.
 
-→Kids can reuse their project from Session 5 or 6 and add phases to it.
+→Celebrate every project, no matter how simple. Every kid is a Digital Hero!
 
 </details>
 
