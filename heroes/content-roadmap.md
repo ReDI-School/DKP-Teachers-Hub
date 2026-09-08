@@ -628,7 +628,117 @@ Ping Pong Game: Create a ping-pong game where a ball bounces off a paddle. With 
 
 <summary><mark style="color:violet;"><strong>Week 6:</strong></mark> 📖 Storytelling · Storytelling</summary>
 
+**🎯 Ziele · Goals**
 
+🇩🇪 <mark style="color:$info;">Deutsch</mark>
+
+<mark style="color:$info;">Die Schüler\*innen lernen heute über Computerspiele.</mark>
+
+🇬🇧 <mark style="color:$info;">English</mark>
+
+<mark style="color:$info;">Today the students will learn about computer games.</mark>
+
+***
+
+**🔥 Aufwärmen · Warm-Up**
+
+🇩🇪 <mark style="color:$info;">Deutsch</mark>
+
+Die Schüler\*innen müssen so viele Wörter erraten wie möglich. Regeln:
+
+1. Wählt an jedem Tisch eine Person, die die Wörter erklären soll.\
+   Diese Person kommt nach vorne.
+2. Die Wörter werden der Person gezeigt und sie erklärt das Wort ihrem Team. Die anderen Teams dürfen nicht raten.
+3. Jede Person erklärt so viele Worte wie möglich in 45 Sekunden.
+4. Beim Erklären darf das Wort selbst **nicht** gesagt werden!
+
+🇬🇧 <mark style="color:$info;">English</mark>
+
+The students must guess as many words as possible. Rules:
+
+1. Choose one person at each table to explain the words.\
+   That person comes to the front.
+2. The words are shown to the person, and they explain the word to their team. The other teams are not allowed to guess.
+3. Each person explains as many words as possible in 45 seconds.
+4. You must **not** say the word itself while explaining!
+
+***
+
+🧠 **Wiederholen · Recap**
+
+🇩🇪 <mark style="color:$info;">Deutsch</mark>
+
+Was haben wir in den letzten Woche gelernt? Stelle offene Fragen und identifiziere die wesentlichen Punkte aus den letzten Wochen, an die sich die Kinder erinnern sollen. Was sind Bedingungen? Was sind Schleifen? Was sind Variablen?
+
+🇬🇧 <mark style="color:$info;">English</mark>
+
+What did we learn in the last weeks? Ask open-ended Questions and identify what the kids should remember from the last weeks. What are conditions? What are loops? What are variables?
+
+***
+
+📦 **Was gehört zu einen Computerspiel? · What Makes a Game?**
+
+🇩🇪 <mark style="color:$info;">Deutsch</mark>
+
+Schau dir einige beliebte Spiele an und analysiere ihre Merkmale. Ein Computerspiel ist ein interaktives Abenteuer. Beispiele: Super Mario, Minecraft, Angry Birds. Jedes Spiel besteht aus bestimmten Elementen: Spielidee, Charaktere, Ton/Musik, Regeln, Grafik, Belohnungen, Animation, Ziel und Geschichte. Erkläre, was diese Elemente bedeuten und warum sie benötigt werden.
+
+🇬🇧 <mark style="color:$info;">English</mark>
+
+Take a look at some popular games and analyse their features. A computer game is an interactive adventure. Examples: Super Mario, Minecraft, Angry Birds. Every game has game elements: Game Idea, Characters, Sound/Music, Rules, Graphics, Rewards, Animation, Goal, and Story. Explain what these mean and why you need them.
+
+***
+
+🧩 **Ping Pong Spiel · Ping Pong Game:**
+
+🇩🇪 <mark style="color:$info;">Deutsch</mark>
+
+Ping Pong Spiel: Es soll ein Ping Pong Spiel erstellt werden, bei dem ein Ball auf einem schlägt bouncen soll. Mit jedem Bounce steigt eine "Punkte" Variable um eins. Wenn der Ball auf dem Boden aufkommt, setzt sich der Score zurück. Zu leicht: Bei einem bestimmten Score kann sich das level und der Hintergrund ändern.
+
+🇬🇧 <mark style="color:$info;">English</mark>
+
+Ping Pong Game: Create a ping-pong game where a ball bounces off a paddle. With every bounce, a "Points" variable increases by one. If the ball hits the ground, the score resets. Too easy? Change the level and background when a certain score is reached.
+
+***
+
+**🎮 Kahoot — Zeit zum Spielen! · Kahoot — Game Time!**
+
+***
+
+**📝 Lehrer\*innenhandbuch · Teacher Notes**
+
+🇩🇪 <mark style="color:$info;">Deutsch</mark>
+
+📋**Vor dem Kurs:** Bereite das Pong-Grundgerüst vor (Ball-Sprite mit Abprall-Funktion, Hintergrund mit roter Linie). Teste es selbst, damit du die Kinder anleiten kannst.\
+⏱️**Zeitplan:** Aufwärmphase: 10 Min. → Diskussion zu Minecraft: 15 Min. → Pong programmieren: 50 Min. → Kahoot: 10 Min.\
+🚨**Häufiger Fehler:** Der Ball bleibt in einer Ecke hängen. Lösung: Verwende zu Beginn den Befehl „in Richtung (Zufallswert 45 bis 135) zeigen“ statt eines festen Winkels.\
+🗣️**Erklärung:** Frage: „Was motiviert euch, ein Spiel weiterzuspielen?“ Notiere die Antworten an der Tafel – das ist deine Lektion zum Thema Spieldesign.\
+🔗**Bezug zu:** Einheit 4 (Variablen für den Punktestand). Die Kinder wenden ihr gesamtes Wissen an: Bedingungen, Schleifen und Variablen – alles in einem einzigen Spiel.
+
+🇬🇧 <mark style="color:$info;">English</mark>
+
+📋**Before class:** Pre-build the Pong starter (ball sprite with bounce, red line backdrop). Test it yourself first so you can guide kids.\
+⏱️**Timing guide:** Warm-up: 10 min → Minecraft discussion: 15 min → Pong build: 50 min → Kahoot: 10 min.\
+🚨**Common mistake:** Ball gets stuck in a corner. Fix: use 'point in direction (random 45 to 135)' at start, not a fixed angle.\
+🗣️**How to explain:** Ask: 'What makes you keep playing a game?' List answers on the board — that's your game design lesson.\
+🔗**Connects to:** Session 4 (variables for score). Kids will use everything they know: conditions, loops, and variables all in one game.
+
+***
+
+💡**Schnelle Tipps · Quick tips**
+
+🇩🇪 <mark style="color:$info;">Deutsch</mark>
+
+→ Das Aufwärmspiel „Feuer/Wasser/Sturm“ ist bei den Teilnehmenden sehr beliebt – führt es mit Begeisterung durch!\
+→ Nutzt das Gespräch über Minecraft, damit die Kinder erzählen können, was sie an Spielen lieben.\
+→ Das Projekt „Pong“ baut auf dem Thema „Variablen“ (Sitzung 4) auf – erinnert die Kinder daran, was sie bereits wissen.
+
+🇬🇧 <mark style="color:$info;">English</mark>
+
+→The Fire/Water/Storm warm-up is a fan favourite — do it enthusiastically!
+
+→Use the Minecraft discussion to let kids share what they love about games.
+
+→Pong builds on Variables (Session 4) — remind kids of what they already know.
 
 </details>
 
