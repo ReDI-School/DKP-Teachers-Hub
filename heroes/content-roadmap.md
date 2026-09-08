@@ -406,18 +406,6 @@ Afterwards, students can present their programs.
 
 ***
 
-**🔥 Aufwärmen · Warm-Up**
-
-🇩🇪 <mark style="color:$info;">Deutsch</mark>
-
-TODO
-
-🇬🇧 <mark style="color:$info;">English</mark>
-
-TODO
-
-***
-
 🧠 **Wiederholen · Recap**
 
 🇩🇪 <mark style="color:$info;">Deutsch</mark>
@@ -427,6 +415,22 @@ Was haben wir letzte Woche gelernt? Stelle offene Fragen und identifiziere die w
 🇬🇧 <mark style="color:$info;">English</mark>
 
 What did we learn last week? Ask open-ended Questions and identify what the kids should remember from last week. What are loops? What types of loops are there? why do we use loops?
+
+***
+
+**🔥 Aufwärmen · Warm-Up**
+
+🇩🇪 <mark style="color:$info;">Deutsch</mark>
+
+ihr spielt das Spiel „Secret Sumber“ und du vermittelst dabei den Schüler\*innen das Konzept der Variablen, ohne diesen Begriff explizit zu nennen. Nenne den Schülern dazu zunächst eine Zahl. Gebe ihnen dann verschiedene Rechenoperationen für diese Zahl auf (z. B. 5 addieren, 8 subtrahieren, die Zahl verdoppeln usw.). Wenn du „Stopp“ sagst, müssen die Schüler ihre Ergebnisse mitteilen. Achte darauf, dass nicht gesprochen wird, und lasse die Schüler die Augen schließen, falls sie zusammenarbeiten. Du kannst auch Punkte vergeben.
+
+Tipp: Berechne die Ergebnisse im Vorfeld, um sicherzugehen, dass du die richtige Lösung kennst.
+
+🇬🇧 <mark style="color:$info;">English</mark>
+
+You will be playing "Secret Number" and teaching the students the concepts of variables without actually mentioning them. To do so announce a number to the students. Then give them some mathematical operations to do with this number e.g. add 5, subtract 8, double the number, etc. When you say STOP they must share their results. Make sure there is no talking and make them close their eyes if they are working together. You can also add points.
+
+Tip: Calculate the results before hand to definitely have the right answer.
 
 ***
 
