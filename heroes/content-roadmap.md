@@ -550,11 +550,11 @@ After a few rounds a student can be giving the instructions. You can also add yo
 
 🇩🇪 <mark style="color:$info;">Deutsch</mark>
 
-Was haben wir in den letzten Woche gelernt? Stelle offene Fragen und identifiziere die wesentlichen Punkte aus den letzten Wochen, an die sich die Kinder erinnern sollen.
+Was haben wir in den letzten Woche gelernt? Stelle offene Fragen und identifiziere die wesentlichen Punkte aus den letzten Wochen, an die sich die Kinder erinnern sollen. Was sind Bedingungen? Was sind Schleifen? Was sind Variablen?
 
 🇬🇧 <mark style="color:$info;">English</mark>
 
-What did we learn in the last weeks? Ask open-ended Questions and identify what the kids should remember from the last weeks.
+What did we learn in the last weeks? Ask open-ended Questions and identify what the kids should remember from the last weeks. What are conditions? What are loops? What are variables?
 
 ***
 
