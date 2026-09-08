@@ -558,7 +558,7 @@ What did we learn in the last weeks? Ask open-ended Questions and identify what 
 
 ***
 
-📦 **Was gehört zu einen Computerspiel? · What Makes a Game?**
+&#x20;🎮 **Was gehört zu einen Computerspiel? · What Makes a Game?**
 
 🇩🇪 <mark style="color:$info;">Deutsch</mark>
 
@@ -676,7 +676,7 @@ What did we learn in the last weeks? Ask open-ended Questions and identify what 
 
 ***
 
-📦 **Was ist Storytellin (in Scratch)? · What is Storytelling (in Scratch)?**
+📖 **Was ist Storytelling (in Scratch)? · What is Storytelling (in Scratch)?**
 
 🇩🇪 <mark style="color:$info;">Deutsch</mark>
 
@@ -688,7 +688,7 @@ Provide examples of storytelling from everyday life. Then, explain that a story 
 
 ***
 
-🧩 **Eigene Geschichte kreieren · Creating an own story:**
+&#x20;🏰 **Eigene Geschichte kreieren · Creating an own story:**
 
 🇩🇪 <mark style="color:$info;">Deutsch</mark>
 
@@ -783,15 +783,15 @@ What did we learn in the last weeks? Ask open-ended Questions and identify what 
 
 ***
 
-📦 **Was ist Storytellin (in Scratch)? · What is Storytelling (in Scratch)?**
+📦 **Was sind Nachrichten in Scratch? · What are messages in Scratch?**
 
 🇩🇪 <mark style="color:$info;">Deutsch</mark>
 
-Gebe Beispiele für Storytelling aus dem Alltag. erkläre anschließend, dass eine Geschichte einen Anfang, einen Hauptteil und einen Schluss hat. Zeige nun die Hauptbestandteile einer gelungenen Geschichte: Charaktere/Figuren, Ort, Ereignis, Lösung. Erkläre nun, dass das in Scratch auch geht.
+
 
 🇬🇧 <mark style="color:$info;">English</mark>
 
-Provide examples of storytelling from everyday life. Then, explain that a story consists of a beginning, a middle, and an end. Next, present the key elements of a successful story: characters, setting, event, and resolution. Explain that this can also be done in Scratch.
+
 
 ***
 
