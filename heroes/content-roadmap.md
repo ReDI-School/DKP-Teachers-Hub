@@ -453,14 +453,10 @@ Die Schüler\*innen werden nun eigene Spiele mit Variablen erstellen:
 
 🇬🇧 <mark style="color:$info;">English</mark>
 
-Students will now create their own programs using loops:
+Students will now create their own games using variables:
 
-* Exercise 1: Create a character and animate it to make it jump.
-* Exercise 2: (Show them how to add the "Pen" extension for this) Draw a square using a loop.
-* Exercise 3: Draw a star using a loop.
-* Exercise 4: Create your own pattern using various shapes and a loop.
-
-Afterwards, students can present their programs.
+* Clicker Game: Sprites move randomly and disappear when clicked. This should award a point, which is stored in a "Points" variable. Too easy? Add a sprite that awards two points and another that deducts a point.<br>
+* Ping Pong Game: Create a ping-pong game where a ball bounces off a paddle. With every bounce, a "Points" variable increases by one. If the ball hits the ground, the score resets. Too easy? Change the level and background when a certain score is reached.
 
 ***
 
