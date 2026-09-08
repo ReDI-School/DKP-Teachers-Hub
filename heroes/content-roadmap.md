@@ -468,19 +468,19 @@ Students will now create their own games using variables:
 
 🇩🇪 <mark style="color:$info;">Deutsch</mark>
 
-📋**Vor dem Unterricht:** Bereite 3–4 „Code-Detektiv“-Schnipsel vor (einen für jeden Schleifentyp). Halte eine einfache Kostümwechsel-Animation zur Demonstration bereit.\
-⏱️**Zeitplan:** Aufwärmphase: 10 Min. → Code-Detektiv: 15 Min. → Animationsprojekt: 45 Min. → Kahoot: 10 Min.\
-🚨**Häufiger Fehler:** Kinder verwenden „wiederhole fortlaufend“, obwohl sie eigentlich „wiederhole 10-mal“ benötigen. Frage: „Soll das irgendwann aufhören?“, um bei der Auswahl zu helfen.\
-🗣️**Erklärung:** Sag: „Eine Schleife ist eine Abkürzung – anstatt den Befehl ‚gehe 10 Schritte‘ 100-mal zu schreiben, schreibst du ihn einmal und lässt ihn wiederholen.“ Spart Zeit, gleiches Ergebnis.\
-🔗**Verbindung zu:** Lektion 2 (Bedingungen). „Wiederhole bis“ bildet die Brücke – es ist gleichzeitig eine Schleife und eine Bedingung.
+📋**Vor dem Unterricht:** Bereite die Startversion des Clicker-Spiels vor (Sprite, das sich zufällig bewegt). Halte die Ping-Pong-Vorlage als Zusatzaufgabe bereit.\
+⏱️**Zeitplan:** Aufwärmphase: 10 Min. → Erklärung von Variablen: 10 Min. → Clicker-Spiel: 25 Min. → Timer: 15 Min. → Ping-Pong (für schnelle Kinder): 20 Min.\
+🚨**Häufiger Fehler:** Vergessen, die Variable beim Anklicken der grünen Flagge auf 0 zurückzusetzen. Immer mit „Setze \[Punkte] auf 0“ beginnen.\
+🗣️**Erklärung:** Zeichne einen Kasten an die Tafel. Schreibe „Punkte“ außen und „0“ innen hinein. Wische die Zahl weg und schreibe sie neu, wenn sich der Punktestand ändert. Das ist eine Variable.\
+🔗**Bezug zu:** Lektionen 2 & 3 (Bedingungen + Schleifen). Variablen sind das „Gedächtnis“, das Bedingungen und Schleifen erst sinnvoll macht.
 
 🇬🇧 <mark style="color:$info;">English</mark>
 
-📋**Before class:** Prepare 3–4 Code Detective snippets (one for each loop type). Have a simple costume-change animation ready to demo.\
-⏱️**Timing guide:** Warm-up: 10 min → Code Detective: 15 min → Animation project: 45 min → Kahoot: 10 min.\
-🚨**Common mistake:** Kids use 'repeat forever' when they want 'repeat 10 times'. Ask: 'Should this stop at some point?' to guide the choice.\
-🗣️**How to explain:** Say: 'A loop is a shortcut — instead of writing move 10 steps 100 times, you write it once and repeat it.' Save time, same result.\
-🔗**Connects to:** Session 2 (conditions). 'Repeat until' is the bridge — it's a loop AND a condition at the same time.
+📋**Before class:** Pre-build the Clicker Game starter (random-moving sprite). Have the Ping Pong template ready as a stretch goal.\
+⏱️**Timing guide:** Warm-up: 10 min → Variable explanation: 10 min → Clicker Game: 25 min → Timer: 15 min → Ping Pong (fast kids): 20 min.\
+🚨**Common mistake:** Forgetting to reset the variable to 0 when the green flag is clicked. Always start with 'Set \[Score] to 0'.\
+🗣️**How to explain:** Draw a box on the board. Write 'Punkte' on the outside, '0' inside. Erase and rewrite as the score changes. That's a variable.\
+🔗**Connects to:** Sessions 2 & 3 (conditions + loops). Variables are the 'memory' that makes conditions and loops meaningful.
 
 ***
 
@@ -488,19 +488,19 @@ Students will now create their own games using variables:
 
 🇩🇪 <mark style="color:$info;">Deutsch</mark>
 
-→ Physische Demonstrationen funktionieren hervorragend: „Wiederhole unendlich“ = klatsche weiter, bis ich „Stopp“ sage.
+→Die Box-Metapher ist sehr anschaulich – zeichne sie an die Tafel: \[Punkte] = 0.
 
-→ „Code Detective“ eignet sich hervorragend, um Fähigkeiten im Lesen von Code zu entwickeln.
+→Achte darauf, dass die Kinder die Punktzahl zu Beginn (bei der grünen Flagge) auf 0 setzen – ein häufiger Fehler!
 
-→ Anknüpfung an Sitzung 2: Schleifen + Bedingungen = leistungsstarke Kombinationen!
+→Ping-Pong ist eine Zusatzaufgabe. Das Clicker-Spiel ist die Hauptaufgabe.
 
 🇬🇧 <mark style="color:$info;">English</mark>
 
-→Physical demos work great: 'repeat forever' = keep clapping until I say stop.
+→The box metaphor is powerful — draw it on the board: \[Punkte] = 0.
 
-→Code Detective is excellent for building code-reading skills.
+→Make sure kids set Score to 0 at the start (green flag) — common mistake!
 
-→Connect to Session 2: loops + conditions = powerful combos!
+→Ping Pong is a stretch goal. Clicker Game is the core activity.
 
 </details>
 
