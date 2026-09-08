@@ -300,7 +300,7 @@ First you are the "programmer". You decide on a move sequence (with 2-3 moves) e
 
 🇩🇪 <mark style="color:$info;">Deutsch</mark>
 
-Was haben wir letzte Woche gelernt? Stelle offene Fragen und identifiziere die wesentlichen Punkte von letzter Woche, an die sich die Kinder erinnern sollen. Zeige dazu den Kindern Bilder von Scratchcode und sie müssen entscheiden, ob es sich um eine Bedingung handelt (daumen hoch) oder nicht (daumen runter).
+Was haben wir letzte Woche gelernt? Stelle offene Fragen und identifiziere die wesentlichen Punkte von letzter Woche, an die sich die Kinder erinnern sollen. Zeige dazu den Kindern Bilder von Code in Scratch und sie müssen entscheiden, ob es sich um eine Bedingung handelt (daumen hoch) oder nicht (daumen runter).
 
 🇬🇧 <mark style="color:$info;">English</mark>
 
