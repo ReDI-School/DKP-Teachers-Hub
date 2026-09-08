@@ -632,11 +632,11 @@ Ping Pong Game: Create a ping-pong game where a ball bounces off a paddle. With 
 
 🇩🇪 <mark style="color:$info;">Deutsch</mark>
 
-<mark style="color:$info;">Die Schüler\*innen lernen heute über Computerspiele.</mark>
+<mark style="color:$info;">Die Schüler\*innen lernen heute über Storytelling und erstellen eine Geschichte in Scratch.</mark>
 
 🇬🇧 <mark style="color:$info;">English</mark>
 
-<mark style="color:$info;">Today the students will learn about computer games.</mark>
+<mark style="color:$info;">Today the students will learn about storytelling and will create an own story in Scratch.</mark>
 
 ***
 
@@ -747,7 +747,106 @@ Now, the students can start by planning their own stories. They should take into
 
 <summary><mark style="color:pink;"><strong>Week 7:</strong></mark> 📨 Nachrichten &#x26; Spielelemente · News &#x26; Game Elements</summary>
 
+**🎯 Ziele · Goals**
 
+🇩🇪 <mark style="color:$info;">Deutsch</mark>
+
+<mark style="color:$info;">Die Schüler\*innen lernen heute über Nachrichten in Scratch.</mark>
+
+🇬🇧 <mark style="color:$info;">English</mark>
+
+<mark style="color:$info;">Today the students will learn about messages in Scratch.</mark>
+
+***
+
+**🔥 Aufwärmen · Warm-Up**
+
+🇩🇪 <mark style="color:$info;">Deutsch</mark>
+
+Die Schüler\*innen bauen ein Papierflieger. Dazu sollen sie wie ein Computer Schritt für Schritt deiner Anleitung folgen. Am Ende können alle ihren Flieger gemeinsam werfen!
+
+🇬🇧 <mark style="color:$info;">English</mark>
+
+The students will make a paper aeroplane. To do so they must follow your instructions step by step like a computer. At the end everyone can throw their aeroplane together
+
+***
+
+🧠 **Wiederholen · Recap**
+
+🇩🇪 <mark style="color:$info;">Deutsch</mark>
+
+Was haben wir in den letzten Woche gelernt? Stelle offene Fragen und identifiziere die wesentlichen Punkte aus den letzten Wochen, an die sich die Kinder erinnern sollen. Was sind Bedingungen? Was sind Schleifen? Was sind Variablen? Was gehört alles zu einem Computerspiel?
+
+🇬🇧 <mark style="color:$info;">English</mark>
+
+What did we learn in the last weeks? Ask open-ended Questions and identify what the kids should remember from the last weeks. What are conditions? What are loops? What are variables? What makes a computer game?
+
+***
+
+📦 **Was ist Storytellin (in Scratch)? · What is Storytelling (in Scratch)?**
+
+🇩🇪 <mark style="color:$info;">Deutsch</mark>
+
+Gebe Beispiele für Storytelling aus dem Alltag. erkläre anschließend, dass eine Geschichte einen Anfang, einen Hauptteil und einen Schluss hat. Zeige nun die Hauptbestandteile einer gelungenen Geschichte: Charaktere/Figuren, Ort, Ereignis, Lösung. Erkläre nun, dass das in Scratch auch geht.
+
+🇬🇧 <mark style="color:$info;">English</mark>
+
+Provide examples of storytelling from everyday life. Then, explain that a story consists of a beginning, a middle, and an end. Next, present the key elements of a successful story: characters, setting, event, and resolution. Explain that this can also be done in Scratch.
+
+***
+
+🧩 **Eigene Geschichte kreieren · Creating an own story:**
+
+🇩🇪 <mark style="color:$info;">Deutsch</mark>
+
+Jetzt können die Schüler\*innen erstmal eine eigene Geschichte planen. Sie sollten dabei alle wichtigen Bestandteile einer Geschichte berücksichtigen. Dann können sie ihre Geschichte in Scratch programmieren. Im Anschluss können die Schüler\*innen ihre Geschichten in der Gruppe vorstellen.
+
+🇬🇧 <mark style="color:$info;">English</mark>
+
+Now, the students can start by planning their own stories. They should take into account all the key elements of a story. Then, they can program their stories in Scratch. Afterward, the students can present their stories to the group.
+
+***
+
+**🎮 Kahoot — Zeit zum Spielen! · Kahoot — Game Time!**
+
+***
+
+**📝 Lehrer\*innenhandbuch · Teacher Notes**
+
+🇩🇪 <mark style="color:$info;">Deutsch</mark>
+
+📋**Vor dem Unterricht:** Bereite ein einfaches Arbeitsblatt zur Geschichtenplanung vor (auf Papier): Name, Figuren, Schauplatz, Was passiert?, Wie geht es aus?\
+⏱️**Zeitplan:** Aufwärmphase: 10 Min. → Geschichtenplanung (Papier): 15 Min. → Programmieren mit Scratch: 40 Min. → Präsentationen: 15 Min. → Kahoot: 10 Min.\
+🚨**Häufiger Fehler:** Kinder legen direkt in Scratch los, ohne einen Plan zu haben. Bestehe auf der Planungsphase auf Papier – 5 Minuten Planung ersparen 20 Minuten Verwirrung.\
+🗣️**Erklärung:** Sag: „Jeder Film, jedes Buch und jedes Spiel hat eine Geschichte. Heute seid ihr sowohl die Autoren als auch die Programmierer.“ Das motiviert die Kinder sehr.\
+🔗**Bezug zu:** Einheit 7 (Nachrichten senden/Broadcast-Befehle). Die hier entwickelte Geschichte kann in der nächsten Einheit um Nachrichten und Spielphasen erweitert werden.
+
+🇬🇧 <mark style="color:$info;">English</mark>\
+📋**Before class:** Prepare a simple story planning worksheet (paper): Name, Characters, Setting, What happens?, How does it end?\
+⏱️**Timing guide:** Warm-up: 10 min → Story planning (paper): 15 min → Scratch coding: 40 min → Presentations: 15 min → Kahoot: 10 min.\
+🚨**Common mistake:** Kids jump straight into Scratch without a plan. Enforce the paper planning step — 5 minutes of planning saves 20 minutes of confusion.\
+🗣️**How to explain:** Say: 'Every movie, book, and game has a story. Today you are the author AND the programmer.' This motivates kids a lot.\
+🔗**Connects to:** Session 7 (broadcast messages). The story they build here can be extended with messages and game phases next session.
+
+***
+
+💡**Schnelle Tipps · Quick tips**
+
+🇩🇪 <mark style="color:$info;">Deutsch</mark>
+
+→ Lasse die Kinder ihre Geschichte zuerst auf Papier planen, bevor sie Scratch öffnen.
+
+→ Fördere die Kreativität – es gibt keine falschen Geschichten!
+
+→ Präsentationen stärken das Selbstvertrauen. Gib jedem, der seine Geschichte präsentiert, positives Feedback.
+
+🇬🇧 <mark style="color:$info;">English</mark>
+
+→Have kids plan their story on paper first before opening Scratch.
+
+→Encourage creativity — there's no wrong story!
+
+→Presentations build confidence. Give positive feedback to every presenter.
 
 </details>
 
