@@ -422,11 +422,11 @@ First you are the "programmer". You decide on a move sequence (with 2-3 moves) e
 
 🇩🇪 <mark style="color:$info;">Deutsch</mark>
 
-Was haben wir letzte Woche gelernt? Stelle offene Fragen und identifiziere die wesentlichen Punkte von letzter Woche, an die sich die Kinder erinnern sollen. Zeige dazu den Kindern Bilder von Scratchcode und sie müssen entscheiden, ob es sich um eine Bedingung handelt (daumen hoch) oder nicht (daumen runter).
+Was haben wir letzte Woche gelernt? Stelle offene Fragen und identifiziere die wesentlichen Punkte von letzter Woche, an die sich die Kinder erinnern sollen. Was sind Schleifen? Was für Schleifen gibt es? Warum benutzen wir Schleifen?
 
 🇬🇧 <mark style="color:$info;">English</mark>
 
-What did we learn last week? Ask open-ended Questions and identify what the kids should remember from last week. To do so, show the kids some pictures of scratch code and they have to decide whether the code is a condition (thumbs up) or not (thumbs down).
+What did we learn last week? Ask open-ended Questions and identify what the kids should remember from last week. What are loops? What types of loops are there? why do we use loops?
 
 ***
 
