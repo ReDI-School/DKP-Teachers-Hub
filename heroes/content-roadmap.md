@@ -903,11 +903,25 @@ The students will now have to line up in order according to a criterion. To do s
 
 🇩🇪 <mark style="color:$info;">Deutsch</mark>
 
-Was haben wir in den letzten Woche gelernt? Stelle offene Fragen und identifiziere die wesentlichen Punkte aus den letzten Wochen, an die sich die Kinder erinnern sollen. Was sind Bedingungen? Was sind Schleifen? Was sind Variablen? Was gehört alles zu einem Computerspiel? Was gehört zu einer gelungenen Geschichte?
+Was haben wir in diesem Semester alles gelernt? Dazu spielen die Schüler\*innen in Gruppen ein Memoryspiel. Die audruckbaren Karten findest du [hier](https://docs.google.com/document/d/10EoSgwsrqkM6dhQPl7YIYdRpNkszWnIuoGqgOZwJ60M/edit?tab=t.0). Im Anschluss geht ihr als Gruppe nochmal alle Themen durch:
+
+* Bedingungen
+* Schleifen
+* Variablen
+* Computerspiele
+* Storytelling
+* Nachrichten
 
 🇬🇧 <mark style="color:$info;">English</mark>
 
-What did we learn in the last weeks? Ask open-ended Questions and identify what the kids should remember from the last weeks. What are conditions? What are loops? What are variables? What makes a computer game? What makes a good story?
+What have we learnt throughout his semester? Do recap the students will play a memory game in groups. The printable cards are [here](https://docs.google.com/document/d/10EoSgwsrqkM6dhQPl7YIYdRpNkszWnIuoGqgOZwJ60M/edit?tab=t.0). Afterwards you will discuss all topics again as a group:
+
+* Conditions
+* Loops
+* Variables
+* Computer games
+* Storytelling
+* Messages
 
 ***
 
