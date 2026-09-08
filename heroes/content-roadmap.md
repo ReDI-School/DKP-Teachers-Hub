@@ -312,11 +312,11 @@ What did we learn last week? Ask open-ended Questions and identify what the kids
 
 🇩🇪 <mark style="color:$info;">Deutsch</mark>
 
-Erkläre, was Schleifen sind und warum wir sie verwenden. Hebe hervor, wie sie Zeit sparen. Nenne Beispiele aus dem Alltag und bitte die Schüler, selbst Beispiele für Schleifen in ihrem täglichen Leben zu nennen. Erkläre anschließend, welche Arten von Schleifen es gibt – zum Beispiel „x-mal wiederholen“, „wiederholen bis“ oder „endlos wiederholen“. Zeige den Schülern nun, wie man Schleifen in Scratch verwendet.
+Erkläre, was Schleifen sind und warum wir sie verwenden. Hebe hervor, wie sie Zeit sparen. Nenne Beispiele aus dem Alltag und bitte die Schüler, selbst Beispiele für Schleifen in ihrem täglichen Leben zu nennen z.B. Treppensteigen oder ein wöchentlicher Besuch bei ReDI. Erkläre anschließend, welche Arten von Schleifen es gibt – zum Beispiel „x-mal wiederholen“, „wiederholen bis“ oder „endlos wiederholen“. Zeige den Schülern nun, wie man Schleifen in Scratch verwendet.
 
 🇬🇧 <mark style="color:$info;">English</mark>
 
-Explain what loops are and why we use them. Emphasize how they save time. Give some everyday examples and ask the students for some examples of loops in their everyday lives. Then explain what types of loops there are e.g. repeat x times, repeat untill, repeat forever. Now show the students how to use loops in Scratch.
+Explain what loops are and why we use them. Emphasize how they save time. Give some everyday examples and ask the students for some examples of loops in their everyday lives e.g. going up stairs or weekly attendance at ReDI. Then explain what types of loops there are e.g. repeat x times, repeat untill, repeat forever. Now show the students how to use loops in Scratch.
 
 ***
 
