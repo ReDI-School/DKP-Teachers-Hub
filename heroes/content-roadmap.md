@@ -590,19 +590,19 @@ Ping Pong Game: Create a ping-pong game where a ball bounces off a paddle. With 
 
 🇩🇪 <mark style="color:$info;">Deutsch</mark>
 
-📋**Vor dem Unterricht:** Bereite die Startversion des Clicker-Spiels vor (Sprite, das sich zufällig bewegt). Halte die Ping-Pong-Vorlage als Zusatzaufgabe bereit.\
-⏱️**Zeitplan:** Aufwärmphase: 10 Min. → Erklärung von Variablen: 10 Min. → Clicker-Spiel: 25 Min. → Timer: 15 Min. → Ping-Pong (für schnelle Kinder): 20 Min.\
-🚨**Häufiger Fehler:** Vergessen, die Variable beim Anklicken der grünen Flagge auf 0 zurückzusetzen. Immer mit „Setze \[Punkte] auf 0“ beginnen.\
-🗣️**Erklärung:** Zeichne einen Kasten an die Tafel. Schreibe „Punkte“ außen und „0“ innen hinein. Wische die Zahl weg und schreibe sie neu, wenn sich der Punktestand ändert. Das ist eine Variable.\
-🔗**Bezug zu:** Lektionen 2 & 3 (Bedingungen + Schleifen). Variablen sind das „Gedächtnis“, das Bedingungen und Schleifen erst sinnvoll macht.
+📋**Vor dem Kurs:** Bereite das Pong-Grundgerüst vor (Ball-Sprite mit Abprall-Funktion, Hintergrund mit roter Linie). Teste es selbst, damit du die Kinder anleiten kannst.\
+⏱️**Zeitplan:** Aufwärmphase: 10 Min. → Diskussion zu Minecraft: 15 Min. → Pong programmieren: 50 Min. → Kahoot: 10 Min.\
+🚨**Häufiger Fehler:** Der Ball bleibt in einer Ecke hängen. Lösung: Verwende zu Beginn den Befehl „in Richtung (Zufallswert 45 bis 135) zeigen“ statt eines festen Winkels.\
+🗣️**Erklärung:** Frage: „Was motiviert euch, ein Spiel weiterzuspielen?“ Notiere die Antworten an der Tafel – das ist deine Lektion zum Thema Spieldesign.\
+🔗**Bezug zu:** Einheit 4 (Variablen für den Punktestand). Die Kinder wenden ihr gesamtes Wissen an: Bedingungen, Schleifen und Variablen – alles in einem einzigen Spiel.
 
 🇬🇧 <mark style="color:$info;">English</mark>
 
-📋**Before class:** Pre-build the Clicker Game starter (random-moving sprite). Have the Ping Pong template ready as a stretch goal.\
-⏱️**Timing guide:** Warm-up: 10 min → Variable explanation: 10 min → Clicker Game: 25 min → Timer: 15 min → Ping Pong (fast kids): 20 min.\
-🚨**Common mistake:** Forgetting to reset the variable to 0 when the green flag is clicked. Always start with 'Set \[Score] to 0'.\
-🗣️**How to explain:** Draw a box on the board. Write 'Punkte' on the outside, '0' inside. Erase and rewrite as the score changes. That's a variable.\
-🔗**Connects to:** Sessions 2 & 3 (conditions + loops). Variables are the 'memory' that makes conditions and loops meaningful.
+📋**Before class:** Pre-build the Pong starter (ball sprite with bounce, red line backdrop). Test it yourself first so you can guide kids.\
+⏱️**Timing guide:** Warm-up: 10 min → Minecraft discussion: 15 min → Pong build: 50 min → Kahoot: 10 min.\
+🚨**Common mistake:** Ball gets stuck in a corner. Fix: use 'point in direction (random 45 to 135)' at start, not a fixed angle.\
+🗣️**How to explain:** Ask: 'What makes you keep playing a game?' List answers on the board — that's your game design lesson.\
+🔗**Connects to:** Session 4 (variables for score). Kids will use everything they know: conditions, loops, and variables all in one game.
 
 ***
 
@@ -610,19 +610,17 @@ Ping Pong Game: Create a ping-pong game where a ball bounces off a paddle. With 
 
 🇩🇪 <mark style="color:$info;">Deutsch</mark>
 
-→Die Box-Metapher ist sehr anschaulich – zeichne sie an die Tafel: \[Punkte] = 0.
-
-→Achte darauf, dass die Kinder die Punktzahl zu Beginn (bei der grünen Flagge) auf 0 setzen – ein häufiger Fehler!
-
-→Ping-Pong ist eine Zusatzaufgabe. Das Clicker-Spiel ist die Hauptaufgabe.
+→ Das Aufwärmspiel „Feuer/Wasser/Sturm“ ist bei den Teilnehmenden sehr beliebt – führt es mit Begeisterung durch!\
+→ Nutzt das Gespräch über Minecraft, damit die Kinder erzählen können, was sie an Spielen lieben.\
+→ Das Projekt „Pong“ baut auf dem Thema „Variablen“ (Sitzung 4) auf – erinnert die Kinder daran, was sie bereits wissen.
 
 🇬🇧 <mark style="color:$info;">English</mark>
 
-→The box metaphor is powerful — draw it on the board: \[Punkte] = 0.
+→The Fire/Water/Storm warm-up is a fan favourite — do it enthusiastically!
 
-→Make sure kids set Score to 0 at the start (green flag) — common mistake!
+→Use the Minecraft discussion to let kids share what they love about games.
 
-→Ping Pong is a stretch goal. Clicker Game is the core activity.
+→Pong builds on Variables (Session 4) — remind kids of what they already know.
 
 </details>
 
