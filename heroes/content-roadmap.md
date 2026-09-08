@@ -280,7 +280,7 @@ Explain conditions to the students by giving real-world examples. Show then how 
 
 🇬🇧 <mark style="color:$info;">English</mark>
 
-<mark style="color:$info;">The students learn about loops ins scratch.</mark>
+<mark style="color:$info;">The students learn about loops in scratch.</mark>
 
 ***
 
@@ -394,7 +394,121 @@ Afterwards, students can present their programs.
 
 <summary><mark style="color:blue;"><strong>Week 4:</strong></mark> 📦 Variablen · Variables</summary>
 
+**🎯 Ziele · Goals**
 
+🇩🇪 <mark style="color:$info;">Deutsch</mark>
+
+<mark style="color:$info;">Die Schüler\*innen lernen über Variablen in Scratch.</mark>
+
+🇬🇧 <mark style="color:$info;">English</mark>
+
+<mark style="color:$info;">The students learn about variables in scratch.</mark>
+
+***
+
+**🔥 Aufwärmen · Warm-Up**
+
+🇩🇪 <mark style="color:$info;">Deutsch</mark>
+
+Zunächst schlüpfst du in die Rolle des „Programmierers“. Du legst eine Bewegungsabfolge fest (bestehend aus 2–3 Bewegungen), z. B. „Klatschen – Springen – Drehen“, sowie eine Anzahl an Wiederholungen (zwischen 2 und 4), z. B. 3. Nun müssen die Kinder diese Abfolge nachmachen (in diesem Beispiel dreimal), während du die Wiederholungen mitzählst. Spiele 2–4 Runden, bevor ein Schüler oder eine Schülerin die Rolle des Programmierers übernimmt. Achte darauf, dass insgesamt 5–6 Kinder an der Reihe sind.
+
+🇬🇧 <mark style="color:$info;">English</mark>
+
+First you are the "programmer". You decide on a move sequence (with 2-3 moves) e.g. "Clap - Jump - Spin" and a repetition number (between 2 and 4) e.g. 3. Now the kids have to repeat this sequence  (three times in this example) while you count the repitions. Play 2-4 rounds of this before a student is the programmer. Make sure to rotate through 5-6 students.
+
+***
+
+🧠 **Wiederholen · Recap**
+
+🇩🇪 <mark style="color:$info;">Deutsch</mark>
+
+Was haben wir letzte Woche gelernt? Stelle offene Fragen und identifiziere die wesentlichen Punkte von letzter Woche, an die sich die Kinder erinnern sollen. Zeige dazu den Kindern Bilder von Scratchcode und sie müssen entscheiden, ob es sich um eine Bedingung handelt (daumen hoch) oder nicht (daumen runter).
+
+🇬🇧 <mark style="color:$info;">English</mark>
+
+What did we learn last week? Ask open-ended Questions and identify what the kids should remember from last week. To do so, show the kids some pictures of scratch code and they have to decide whether the code is a condition (thumbs up) or not (thumbs down).
+
+***
+
+🔀 **Schleifen in Scratch · Loops in Scratch**
+
+🇩🇪 <mark style="color:$info;">Deutsch</mark>
+
+Erkläre, was Schleifen sind und warum wir sie verwenden. Hebe hervor, wie sie Zeit sparen. Nenne Beispiele aus dem Alltag und bitte die Schüler, selbst Beispiele für Schleifen in ihrem täglichen Leben zu nennen. Erkläre anschließend, welche Arten von Schleifen es gibt – zum Beispiel „x-mal wiederholen“, „wiederholen bis“ oder „endlos wiederholen“. Zeige den Schülern nun, wie man Schleifen in Scratch verwendet.
+
+🇬🇧 <mark style="color:$info;">English</mark>
+
+Explain what loops are and why we use them. Emphasize how they save time. Give some everyday examples and ask the students for some examples of loops in their everyday lives. Then explain what types of loops there are e.g. repeat x times, repeat untill, repeat forever. Now show the students how to use loops in Scratch.
+
+***
+
+🧩 **Scratch Programme · Scratch programs:**
+
+🇩🇪 <mark style="color:$info;">Deutsch</mark>
+
+Die Schüler\*innen werden nun eigene Programme mit Schleifen erstellen:
+
+* Übung 1: Erstelle eine Figur und animiere sie, sodass sie springt.&#x20;
+* Übung 2: (Zeige ihnen hierfür wie man "Malstift" als Erweiterung hinzufügt) Zeichne mit einer Schleife ein Quadrat.
+* Übung 3: Zeichne mit einer Schleife einen Stern
+* Übung 4: Erstelle mit einer Schleife dein eigenes Muster mit verschiedenen Formen.
+
+Anschließend können Schüler\*innen ihr Programm vorstellen.
+
+🇬🇧 <mark style="color:$info;">English</mark>
+
+Students will now create their own programs using loops:
+
+* Exercise 1: Create a character and animate it to make it jump.
+* Exercise 2: (Show them how to add the "Pen" extension for this) Draw a square using a loop.
+* Exercise 3: Draw a star using a loop.
+* Exercise 4: Create your own pattern using various shapes and a loop.
+
+Afterwards, students can present their programs.
+
+***
+
+**🎮 Kahoot — Zeit zum Spielen! · Kahoot — Game Time!**
+
+***
+
+**📝 Lehrer\*innenhandbuch · Teacher Notes**
+
+🇩🇪 <mark style="color:$info;">Deutsch</mark>
+
+📋**Vor dem Unterricht:** Bereite 3–4 „Code-Detektiv“-Schnipsel vor (einen für jeden Schleifentyp). Halte eine einfache Kostümwechsel-Animation zur Demonstration bereit.\
+⏱️**Zeitplan:** Aufwärmphase: 10 Min. → Code-Detektiv: 15 Min. → Animationsprojekt: 45 Min. → Kahoot: 10 Min.\
+🚨**Häufiger Fehler:** Kinder verwenden „wiederhole fortlaufend“, obwohl sie eigentlich „wiederhole 10-mal“ benötigen. Frage: „Soll das irgendwann aufhören?“, um bei der Auswahl zu helfen.\
+🗣️**Erklärung:** Sag: „Eine Schleife ist eine Abkürzung – anstatt den Befehl ‚gehe 10 Schritte‘ 100-mal zu schreiben, schreibst du ihn einmal und lässt ihn wiederholen.“ Spart Zeit, gleiches Ergebnis.\
+🔗**Verbindung zu:** Lektion 2 (Bedingungen). „Wiederhole bis“ bildet die Brücke – es ist gleichzeitig eine Schleife und eine Bedingung.
+
+🇬🇧 <mark style="color:$info;">English</mark>
+
+📋**Before class:** Prepare 3–4 Code Detective snippets (one for each loop type). Have a simple costume-change animation ready to demo.\
+⏱️**Timing guide:** Warm-up: 10 min → Code Detective: 15 min → Animation project: 45 min → Kahoot: 10 min.\
+🚨**Common mistake:** Kids use 'repeat forever' when they want 'repeat 10 times'. Ask: 'Should this stop at some point?' to guide the choice.\
+🗣️**How to explain:** Say: 'A loop is a shortcut — instead of writing move 10 steps 100 times, you write it once and repeat it.' Save time, same result.\
+🔗**Connects to:** Session 2 (conditions). 'Repeat until' is the bridge — it's a loop AND a condition at the same time.
+
+***
+
+💡**Schnelle Tipps · Quick tips**
+
+🇩🇪 <mark style="color:$info;">Deutsch</mark>
+
+→ Physische Demonstrationen funktionieren hervorragend: „Wiederhole unendlich“ = klatsche weiter, bis ich „Stopp“ sage.
+
+→ „Code Detective“ eignet sich hervorragend, um Fähigkeiten im Lesen von Code zu entwickeln.
+
+→ Anknüpfung an Sitzung 2: Schleifen + Bedingungen = leistungsstarke Kombinationen!
+
+🇬🇧 <mark style="color:$info;">English</mark>
+
+→Physical demos work great: 'repeat forever' = keep clapping until I say stop.
+
+→Code Detective is excellent for building code-reading skills.
+
+→Connect to Session 2: loops + conditions = powerful combos!
 
 </details>
 
