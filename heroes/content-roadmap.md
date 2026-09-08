@@ -422,7 +422,7 @@ What did we learn last week? Ask open-ended Questions and identify what the kids
 
 🇩🇪 <mark style="color:$info;">Deutsch</mark>
 
-ihr spielt das Spiel „Secret Sumber“ und du vermittelst dabei den Schüler\*innen das Konzept der Variablen, ohne diesen Begriff explizit zu nennen. Nenne den Schülern dazu zunächst eine Zahl. Gebe ihnen dann verschiedene Rechenoperationen für diese Zahl auf (z. B. 5 addieren, 8 subtrahieren, die Zahl verdoppeln usw.). Wenn du „Stopp“ sagst, müssen die Schüler ihre Ergebnisse mitteilen. Achte darauf, dass nicht gesprochen wird, und lasse die Schüler die Augen schließen, falls sie zusammenarbeiten. Du kannst auch Punkte vergeben.
+ihr spielt das Spiel „Secret Sumber“ und du vermittelst dabei den Schüler\*innen das Konzept der Variablen, ohne diesen Begriff explizit zu nennen. Nenne den Schülern dazu zunächst eine Zahl. Gebe ihnen dann verschiedene Rechenoperationen für diese Zahl auf (z. B. 5 addieren, 8 subtrahieren, die Zahl verdoppeln usw.). Wenn du STOPP sagst, müssen die Schüler ihre Ergebnisse mitteilen. Achte darauf, dass nicht gesprochen wird, und lasse die Schüler die Augen schließen, falls sie zusammenarbeiten. Du kannst auch Punkte vergeben.
 
 Tipp: Berechne die Ergebnisse im Vorfeld, um sicherzugehen, dass du die richtige Lösung kennst.
 
