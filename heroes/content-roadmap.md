@@ -558,33 +558,27 @@ What did we learn in the last weeks? Ask open-ended Questions and identify what 
 
 ***
 
-📦 **Variablen in Scratch · Variablen in Scratch**
+📦 **Was gehört zu einen Computerspiel? · What Makes a Game?**
 
 🇩🇪 <mark style="color:$info;">Deutsch</mark>
 
-Erkläre den Schüler\*innen was Variablen sind. Nutze dazu den Vergleich mit einer Kiste, in der man Sachen Speichern kann. Zeige anschließend Beispiele aus dem Alltag für Variablen  und mache klar, warum es sich um Variablen handelt. Zeige den Schüler\*innen dann wie man Variablen in Scratch implementiert ("setze" und "ändere" Blöcke).
+Schau dir einige beliebte Spiele an und analysiere ihre Merkmale. Ein Computerspiel ist ein interaktives Abenteuer. Beispiele: Super Mario, Minecraft, Angry Birds. Jedes Spiel besteht aus bestimmten Elementen: Spielidee, Charaktere, Ton/Musik, Regeln, Grafik, Belohnungen, Animation, Ziel und Geschichte. Erkläre, was diese Elemente bedeuten und warum sie benötigt werden.
 
 🇬🇧 <mark style="color:$info;">English</mark>
 
-Explain to the students what variables are. Use the analogy of a box where items can be stored. Then, present real-life examples of variables and clarify why they qualify as such. Finally, show the students how to implement variables in Scratch (using the "set" and "change" blocks).
+Take a look at some popular games and analyse their features. A computer game is an interactive adventure. Examples: Super Mario, Minecraft, Angry Birds. Every game has game elements: Game Idea, Characters, Sound/Music, Rules, Graphics, Rewards, Animation, Goal, and Story. Explain what these mean and why you need them.
 
 ***
 
-🧩 **Scratch Spiele · Scratch games:**
+🧩 **Ping Pong Spiel · Ping Pong Game:**
 
 🇩🇪 <mark style="color:$info;">Deutsch</mark>
 
-Die Schüler\*innen werden nun eigene Spiele mit Variablen erstellen:
-
-* Klickergame: Sprites bewegen sich zufällig und verschwinden wenn man sie anklickt. Das soll dann einen Punkt geben, der in einer Variable "Punkte gespeichert" wird. Zu leicht: füge einen Sprite hinzu, der zwei Punkte gibt und einen, der einen Minuspunkt gibt.
-* Ping Pong Game: Es soll ein Ping Pong Spiel erstellt werden, bei dem ein Ball auf einem schlägt bouncen soll. Mit jedem Bounce steigt eine "Punkte" Variable um eins. Wenn der Ball auf dem Boden aufkommt, setzt sich der Score zurück. Zu leicht: Bei einem bestimmten Score kann sich das level und der Hintergrund ändern.
+Ping Pong Spiel: Es soll ein Ping Pong Spiel erstellt werden, bei dem ein Ball auf einem schlägt bouncen soll. Mit jedem Bounce steigt eine "Punkte" Variable um eins. Wenn der Ball auf dem Boden aufkommt, setzt sich der Score zurück. Zu leicht: Bei einem bestimmten Score kann sich das level und der Hintergrund ändern.
 
 🇬🇧 <mark style="color:$info;">English</mark>
 
-Students will now create their own games using variables:
-
-* Clicker Game: Sprites move randomly and disappear when clicked. This should award a point, which is stored in a "Points" variable. Too easy? Add a sprite that awards two points and another that deducts a point.<br>
-* Ping Pong Game: Create a ping-pong game where a ball bounces off a paddle. With every bounce, a "Points" variable increases by one. If the ball hits the ground, the score resets. Too easy? Change the level and background when a certain score is reached.
+Ping Pong Game: Create a ping-pong game where a ball bounces off a paddle. With every bounce, a "Points" variable increases by one. If the ball hits the ground, the score resets. Too easy? Change the level and background when a certain score is reached.
 
 ***
 
