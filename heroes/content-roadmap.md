@@ -524,11 +524,25 @@ Students will now create their own games using variables:
 
 🇩🇪 <mark style="color:$info;">Deutsch</mark>
 
-TODO
+Ihr spielt Feuer, Wasser, Sturm. Die Schüler\*innen laufen frei im Raum herum. Wenn du ein Befehl gibst, müssen alle Schüler\*innen diesen befolgen. Die Befehle sind:
+
+* 🔥 Feuer: Lauft in die Raumecke!
+* 💧 Wasser: Setzt euch auf einen Stuhl (Füße hoch)!
+* ⛈️ Sturm: Legt euch flach auf den Bauch!
+* 🧊 Eis: Bleibt wie eingefroren stehen!
+
+Nach ein paar Runden kann dann ein/e Schüler/in die Befehle geben. Ihr könnt auch eigene Befehle hinzufügen oder andere Wörter (z.B. Tornado) zur Verwirrung sagen.
 
 🇬🇧 <mark style="color:$info;">English</mark>
 
-TODO
+You will be playing Feuer, Wasser, Sturm. The students will be walking through the room freely. When you give an instruction, they must do the corresponding action. The instructions are:
+
+* 🔥 Feuer: Run to a corner of the room!
+* 💧 Wasser: Sit down on a chair (lift your feet)!
+* ⛈️ Sturm: Lay down flat on your belly!
+* 🧊 Eis: Stand still as if you were frozen!
+
+After a few rounds a student can be giving the instructions. You can also add your own instructions or add in random words (e.g. Tornado) for confusion.
 
 ***
 
@@ -536,11 +550,11 @@ TODO
 
 🇩🇪 <mark style="color:$info;">Deutsch</mark>
 
-Was haben wir letzte Woche gelernt? Stelle offene Fragen und identifiziere die wesentlichen Punkte von letzter Woche, an die sich die Kinder erinnern sollen. Was sind Schleifen? Was für Schleifen gibt es? Warum benutzen wir Schleifen?
+Was haben wir in den letzten Woche gelernt? Stelle offene Fragen und identifiziere die wesentlichen Punkte aus den letzten Wochen, an die sich die Kinder erinnern sollen.
 
 🇬🇧 <mark style="color:$info;">English</mark>
 
-What did we learn last week? Ask open-ended Questions and identify what the kids should remember from last week. What are loops? What types of loops are there? why do we use loops?
+What did we learn in the last weeks? Ask open-ended Questions and identify what the kids should remember from the last weeks.
 
 ***
 
