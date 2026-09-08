@@ -308,7 +308,7 @@ What did we learn last week? Ask open-ended Questions and identify what the kids
 
 ***
 
-🔀 **Schleifen in Scratch · Loops in Scratch**
+🔁 **Schleifen in Scratch · Loops in Scratch**
 
 🇩🇪 <mark style="color:$info;">Deutsch</mark>
 
@@ -430,15 +430,15 @@ What did we learn last week? Ask open-ended Questions and identify what the kids
 
 ***
 
-🔀 **Schleifen in Scratch · Loops in Scratch**
+📦 **Variablen in Scratch · Variablen in Scratch**
 
 🇩🇪 <mark style="color:$info;">Deutsch</mark>
 
-Erkläre, was Schleifen sind und warum wir sie verwenden. Hebe hervor, wie sie Zeit sparen. Nenne Beispiele aus dem Alltag und bitte die Schüler, selbst Beispiele für Schleifen in ihrem täglichen Leben zu nennen. Erkläre anschließend, welche Arten von Schleifen es gibt – zum Beispiel „x-mal wiederholen“, „wiederholen bis“ oder „endlos wiederholen“. Zeige den Schülern nun, wie man Schleifen in Scratch verwendet.
+Erkläre den Schüler\*innen was Variablen sind. Nutze dazu den Vergleich mit einer Kiste, in der man Sachen Speichern kann. Zeige anschließend Beispiele aus dem Alltag für Variablen  und mache klar, warum es sich um Variablen handelt. Zeige den Schüler\*innen dann wie man Variablen in Scratch implementiert ("setze" und "ändere" Blöcke).
 
 🇬🇧 <mark style="color:$info;">English</mark>
 
-Explain what loops are and why we use them. Emphasize how they save time. Give some everyday examples and ask the students for some examples of loops in their everyday lives. Then explain what types of loops there are e.g. repeat x times, repeat untill, repeat forever. Now show the students how to use loops in Scratch.
+Explain to the students what variables are. Use the analogy of a box where items can be stored. Then, present real-life examples of variables and clarify why they qualify as such. Finally, show the students how to implement variables in Scratch (using the "set" and "change" blocks).
 
 ***
 
