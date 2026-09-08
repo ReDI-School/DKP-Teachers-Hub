@@ -430,7 +430,7 @@ Tipp: Berechne die Ergebnisse im Vorfeld, um sicherzugehen, dass du die richtige
 
 You will be playing "Secret Number" and teaching the students the concepts of variables without actually mentioning them. To do so announce a number to the students. Then give them some mathematical operations to do with this number e.g. add 5, subtract 8, double the number, etc. When you say STOP they must share their results. Make sure there is no talking and make them close their eyes if they are working together. You can also add points.
 
-Tip: Calculate the results before hand to definitely have the right answer.
+Tip: Calculate the results beforehand to definitely have the right answer.
 
 ***
 
