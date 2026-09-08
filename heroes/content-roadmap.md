@@ -787,11 +787,23 @@ What did we learn in the last weeks? Ask open-ended Questions and identify what 
 
 🇩🇪 <mark style="color:$info;">Deutsch</mark>
 
-
+Erkläre erstmal was eine Nachricht ist. Nutze dazu das Sender-Empfänger-Modell. Dann mache klar wie Nachrichten in Scratch funktionieren, vorallem die "Sende" und "Empfange" Befehle.
 
 🇬🇧 <mark style="color:$info;">English</mark>
 
+First, explain what a message is, using the sender-receiver model. Then, clarify how messages work in Scratch—specifically the "broadcast" and "receive" commands.
 
+***
+
+**🎮 Phasen meines Spiels · Phases of my game**
+
+🇩🇪 <mark style="color:$info;">Deutsch</mark>
+
+Erkläre die Startphase, die Spielphasen und die Endphasen eines Spiels und mache klar, wie man für die Umsetzung in Scratch Nachrichten benutzt. Erzähle was zu jeder Spielphase dazugehört (Musik, Schrift, Figuren, Hintergrund).
+
+🇬🇧 <mark style="color:$info;">English</mark>
+
+Explain the start phase, the gameplay phases, and the end phases of a game, and clarify how messages are used to implement them in Scratch. Describe what is included in each game phase (music, text, characters, background).
 
 ***
 
