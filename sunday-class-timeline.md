@@ -64,7 +64,7 @@ The Organizational Spreadsheet is also saved in the **Slack channel bookmarks**,
 {% step %}
 ### Kick-off Session
 
-**Spring Semester:** April 19th
+**Fall Semester:** September 20th
 
 The goal of this session is to meet finally on-site, for you to meet the rest of the team members, review the course content and align on roles, responsibilities, and collaboration to ensure a strong learning experience for students.
 
@@ -91,9 +91,9 @@ _Please be generous with the reactions, so we know our messages are reaching you
 {% step %}
 ### Semester Kick-Off
 
-**Spring: the first official day of the semester is April 26th.**
+**Spring: the first official day of the semester is September 27th.**
 
-The semester lasts 8 sessions plus Demo Day.&#x20;
+The semester lasts 8 sessions plus Demo Day.
 {% endstep %}
 
 {% step %}
@@ -158,7 +158,7 @@ Please let us know promptly if there’s anything the ReDI team needs to prepare
 {% step %}
 ### Demo Day Celebration! **🎉**&#x20;
 
-**Spring Semester:** June 21st
+**Fall Semester:** November 22nd
 
 **Where?** We usually choose a special location to make Demo Day memorable.
 
