@@ -151,7 +151,7 @@ The students should open compute-it.toxicode.fr on their computers. Then they ca
 
 ***
 
-**🔥 Aufwärmen — Compute-it Level 2 · Warm-Up — Compute-it Level 2**
+**🔥 Aufwärmen · Warm-Up**
 
 <mark style="color:$info;">🇩🇪 Deutsch</mark>
 
@@ -292,7 +292,7 @@ The students should open compute-it.toxicode.fr on their computers. Then they ca
 
 ***
 
-**🔥 Aufwärmen — Compute-it Level 3 · Warm-Up — Compute-it Level 3**
+**🔥 Aufwärmen · Warm-Up**&#x20;
 
 🇩🇪 <mark style="color:$info;">Deutsch</mark>
 
@@ -427,7 +427,7 @@ The students should open compute-it.toxicode.fr on their computers. Then they ca
 
 ***
 
-**🔥 Aufwärmen — Compute-it Level 4 · Warm-Up — Compute-it Level 4**
+**🔥 Aufwärmen  · Warm-Up**&#x20;
 
 🇩🇪 <mark style="color:$info;">Deutsch</mark>
 
@@ -565,7 +565,7 @@ The students should open compute-it.toxicode.fr on their computers. Then they ca
 
 ***
 
-**🔥 Aufwärmen — Compute-it Level 5 · Warm-Up — Compute-it Level 5**
+**🔥 Aufwärmen · Warm-Up**&#x20;
 
 🇩🇪 <mark style="color:$info;">Deutsch</mark>
 
@@ -703,7 +703,7 @@ The students should open compute-it.toxicode.fr on their computers. Then they ca
 
 ***
 
-**🔥 Aufwärmen — Compute-it Level 6 · Warm-Up — Compute-it Level 6**
+**🔥 Aufwärmen · Warm-Up**
 
 <mark style="color:$info;">🇩🇪 Deutsch</mark>
 
@@ -841,7 +841,7 @@ The students should open compute-it.toxicode.fr on their computers. Then they ca
 
 ***
 
-**🔥 Aufwärmen — Compute-it Level 7 · Warm-Up — Compute-it Level 7**
+**🔥 Aufwärmen · Warm-Up**
 
 🇩🇪 <mark style="color:$info;">Deutsch</mark>
 
@@ -994,7 +994,7 @@ The students should open compute-it.toxicode.fr on their computers. Then they ca
 
 ***
 
-**🔥 Aufwärmen — Compute-it Level 8 + Rückblick · Warm-Up — Compute-it Level 8 + Review**
+**🔥 Aufwärmen· Warm-Up**
 
 🇩🇪 <mark style="color:$info;">Deutsch</mark>
 
