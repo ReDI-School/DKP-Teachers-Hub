@@ -102,7 +102,7 @@ The kids will code their first scratch programm.&#x20;
 
 📋**Vor dem Unterricht:** Öffne scratch.mit.edu auf allen Computern. Halte den Kahoot-Link bereit. Bereite 3–4 erfundene Schlagzeilen für die Aufwärmphase vor.
 
-⏱️**Zeitplan:** Aufwärmen: 10 Min. → Einführungstour durch Scratch: 15 Min. → Tastenkombinationen: 15 Min. → Einführungstour durch Scratch: 15 Min. → Erstes Programm: 30 Min. → Kahoot: 10 Min.
+⏱️**Zeitplan:** Aufwärmen: 10 Min. → Unsere Klassenregeln: 10 min → Einführungstour durch Scratch: 15 Min. → Tastenkombinationen: 10 Min. → Einführungstour durch Scratch: 15 Min. → Erstes Programm: 30 Min. → Kahoot: 10 Min.
 
 🚨**Häufiger Fehler:** Kinder ziehen oft Blöcke auf die Arbeitsfläche, vergessen aber, sie miteinander zu verbinden. Zeige ihnen, wie die Blöcke „einrasten“ und grün werden, sobald sie verbunden sind.
 
@@ -114,7 +114,7 @@ The kids will code their first scratch programm.&#x20;
 
 📋**Before class:** Open scratch.mit.edu on all computers. Have the Kahoot link ready. Prepare 3–4 fake headlines for the warm-up.
 
-⏱️**Timing guide:** Warm-up: 10 min → Scratch intro tour: 15 min → Shortcuts: 15 min →  First program: 30 min → Kahoot: 10 min.
+⏱️**Timing guide:** Warm-up: 10 min → Our class rules: 10min →Scratch intro tour: 15 min → Shortcuts: 10 min →  First program: 30 min → Kahoot: 10 min.
 
 🚨**Common mistake:** Kids often drag blocks but forget to connect them. Show how blocks 'snap' together and turn green when connected.
 
