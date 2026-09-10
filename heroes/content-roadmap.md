@@ -226,7 +226,7 @@ Explain conditions to the students by giving real-world examples e.g. "If it rai
 
 📋**Vor dem Unterricht:** Bereite das Aquarium-Starterprojekt (Oktopus + 2 Fisch-Sprites) vor und teile den Link. Halte das Kahoot bereit.&#x20;
 
-⏱️**Zeitplan:** Brainstorming: 10 Min. → Interaktive Figur: 20 Min. → Aquarium: 40 Min. → Kahoot: 10 Min.&#x20;
+⏱️**Zeitplan:** Warm-up: 10 min → Wiederholung: 10 min → Bedingungen in Scratch: 25 Min. → Interaktive Figur: 20 Min. → Aquarium: 40 Min. → Kahoot: 10 Min.&#x20;
 
 🚨**Häufiger Fehler:** Kinder platzieren Aktionen _außerhalb_ des „Falls“-Blocks (if-Block). Zeige die Einrückung deutlich – nur Code _innerhalb_ des Blocks wird ausgeführt, wenn die Bedingung erfüllt ist.&#x20;
 
@@ -238,7 +238,7 @@ Explain conditions to the students by giving real-world examples e.g. "If it rai
 
 📋**Before class:** Pre-build the Aquarium starter project (octopus + 2 fish sprites) and share the link. Have the Kahoot ready.
 
-⏱️**Timing guide:** Brainstorm: 10 min → Interactive Character: 20 min → Aquarium: 40 min → Kahoot: 10 min.
+⏱️**Timing guide:** Warm-up: 10 min → Recap: 10 min → Conditions in Scratch: 25 min → Interactive Character: 20 min → Aquarium: 40 min → Kahoot: 10 min.
 
 🚨**Common mistake:** Kids put actions OUTSIDE the if-block. Show the indentation clearly — only code INSIDE the block runs when true.
 
