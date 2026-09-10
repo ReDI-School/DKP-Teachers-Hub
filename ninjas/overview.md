@@ -1049,9 +1049,9 @@ My Ninja Project — Build your own Calliope Mini creation for Demo Day! Choose 
 
 <summary><mark style="color:cyan;"><strong>Week 9:</strong></mark> 🥳 Demo Day · Demo Day</summary>
 
-<mark style="color:$info;">Die Schüler\*innen haben es geschafft! Zeit, die Bühne zu betreten, ihr Projekt vorzustellen, und der Welt zu zeigen, was sie mit Scratch gebaut haben!</mark>
+<mark style="color:$info;">Die Schüler\*innen haben es geschafft! Zeit, die Bühne zu betreten, ihr Projekt vorzustellen, und der Welt zu zeigen, was sie mit dem Calliope Mini gebaut haben!</mark>
 
-<mark style="color:$info;">The students have done it! Time to take the stage, present their projects, and show the world what they built with Scratch!</mark>
+<mark style="color:$info;">The students have done it! Time to take the stage, present their projects, and show the world what they built with the Calliope Mini!</mark>
 
 ***
 
@@ -1071,23 +1071,11 @@ Teacher shares highlights from the 9-week journey with the audience.
 
 <mark style="color:$info;">🇩🇪 Deutsch</mark>
 
-Jede/r Schüler/in zeigt ihr Scratch-Projekt und erklärt ein teil des Codes, auf den er/sie stolz ist.
+Jede/r Schüler/in zeigt ihr Calliope Mini Projekt und erklärt ein teil des Codes, auf den er/sie stolz ist.
 
 <mark style="color:$info;">🇬🇧 English</mark>
 
-Each student shows their Scratch project and explains one piece of code they're proud of.
-
-***
-
-🧩 **Ausprobieren! · Trying out!**
-
-<mark style="color:$info;">🇩🇪 Deutsch</mark>
-
-Schüler\*innen können sich gegenseitig einladen ihr Projekt auszuprobieren.
-
-<mark style="color:$info;">🇬🇧 English</mark>
-
-Students can invite eachother to try out their projects.
+Each student shows their Calliope Mini project and explains one piece of code they're proud of.
 
 ***
 
@@ -1095,10 +1083,10 @@ Students can invite eachother to try out their projects.
 
 <mark style="color:$info;">🇩🇪 Deutsch</mark>
 
-Zertifikate werden vergeben. Gruppenfoto. Du bist jetzt offiziell ein/e Scratch-Programmierer/in!
+Zertifikate werden vergeben. Gruppenfoto. Du bist jetzt offiziell ein/e Block-Programmierer/in!
 
 <mark style="color:$info;">🇬🇧 English</mark>
 
-Certificates awarded. Group photo. You are officially a Scratch coder!
+Certificates awarded. Group photo. You are officially a block coder!
 
 </details>
