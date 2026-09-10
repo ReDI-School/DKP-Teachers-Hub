@@ -355,7 +355,7 @@ Afterwards, students can present their programs.
 🇩🇪 <mark style="color:$info;">Deutsch</mark>
 
 📋**Vor dem Unterricht:** Bereite 3–4 „Code-Detektiv“-Schnipsel vor (einen für jeden Schleifentyp). Halte eine einfache Kostümwechsel-Animation zur Demonstration bereit.\
-⏱️**Zeitplan:** Aufwärmphase: 10 Min. → Code-Detektiv: 15 Min. → Animationsprojekt: 45 Min. → Kahoot: 10 Min.\
+⏱️**Zeitplan:** Aufwärmphase: 15 Min. → Wiederholung: 10 min. → Daumen hoch/runter Spiel: 5 min. → Schleifen in Scratch: 20 min. → Animationsprojekt: 45 Min. → Kahoot: 10 Min.\
 🚨**Häufiger Fehler:** Kinder verwenden „wiederhole fortlaufend“, obwohl sie eigentlich „wiederhole 10-mal“ benötigen. Frage: „Soll das irgendwann aufhören?“, um bei der Auswahl zu helfen.\
 🗣️**Erklärung:** Sag: „Eine Schleife ist eine Abkürzung – anstatt den Befehl ‚gehe 10 Schritte‘ 100-mal zu schreiben, schreibst du ihn einmal und lässt ihn wiederholen.“ Spart Zeit, gleiches Ergebnis.\
 🔗**Verbindung zu:** Lektion 2 (Bedingungen). „Wiederhole bis“ bildet die Brücke – es ist gleichzeitig eine Schleife und eine Bedingung.
@@ -363,7 +363,7 @@ Afterwards, students can present their programs.
 🇬🇧 <mark style="color:$info;">English</mark>
 
 📋**Before class:** Prepare 3–4 Code Detective snippets (one for each loop type). Have a simple costume-change animation ready to demo.\
-⏱️**Timing guide:** Warm-up: 10 min → Code Detective: 15 min → Animation project: 45 min → Kahoot: 10 min.\
+⏱️**Timing guide:** Warm-up: 15 min. → Recap: 10 min → Thumbs up/down game: 5 min. → Loops in Scratch: 20 min. → Animation project: 45 min. → Kahoot: 10 min.\
 🚨**Common mistake:** Kids use 'repeat forever' when they want 'repeat 10 times'. Ask: 'Should this stop at some point?' to guide the choice.\
 🗣️**How to explain:** Say: 'A loop is a shortcut — instead of writing move 10 steps 100 times, you write it once and repeat it.' Save time, same result.\
 🔗**Connects to:** Session 2 (conditions). 'Repeat until' is the bridge — it's a loop AND a condition at the same time.
