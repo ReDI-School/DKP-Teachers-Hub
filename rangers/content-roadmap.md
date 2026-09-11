@@ -18,11 +18,11 @@ The Content Roadmap is a living document with **goals** **and** **sub-goals** **
 
 🇩🇪 <mark style="color:$info;">Deutsch</mark>
 
-Die Kinder werden sich gegenseitig programmieren. Teile dazu die Kinder in Paare ein. Ein Kind ist der/die Programmierer/in  und das andere Kind ist der Roboter. Der/die Programmierer/in muss nun dem Roboter Schritt für Schritt Anweisungen geben um eine Aufgabe zu machen. Der Roboter darf aber nur GENAU das machen, was ihm der/die Programmier/in sagt. Das führt du lustigen Fehlern, die der/die Programmier/in beheben muss. Nachdem die Aufgabe erfüllt ist, tauschen die Kinder ihre Rollen. Beispielaufgaben: Ein Quadrat zeichnen auf Papier oder etwas kleines aus Bausteinen bauen.
+Die SchülerInnen werden sich gegenseitig programmieren. Teile dazu die Kinder in Paare ein. Ein Kind ist der/die Programmierer/in  und das andere Kind ist der Roboter. Der/die Programmierer/in muss nun dem Roboter Schritt für Schritt Anweisungen geben um eine Aufgabe zu machen. Der Roboter darf aber nur GENAU das machen, was ihm der/die Programmier/in sagt. Das führt du lustigen Fehlern, die der/die Programmier/in beheben muss. Nachdem die Aufgabe erfüllt ist, tauschen die Kinder ihre Rollen. Beispielaufgaben: Ein Quadrat zeichnen auf Papier oder etwas kleines aus Bausteinen bauen.
 
 🇬🇧 <mark style="color:$info;">English</mark>
 
-The kids will be programming each other. Pair the students up. One kid is the programmer and one kid is the robot. The programmer will now be giving the robot step by step instructions to do a task. However, the robot is only allowed to do EXACTLY what he is instructed. This causes funny mistakes that the programmer has to fix. After the task is finished, the kids will swap roles. Example tasks: Draw a square on a piece of paper or build something small out of blocks.
+The students will be programming each other. Pair the students up. One kid is the programmer and one kid is the robot. The programmer will now be giving the robot step by step instructions to do a task. However, the robot is only allowed to do EXACTLY what he is instructed. This causes funny mistakes that the programmer has to fix. After the task is finished, the kids will swap roles. Example tasks: Draw a square on a piece of paper or build something small out of blocks.
 
 ***
 
@@ -106,11 +106,11 @@ Task 3 (5 min):&#x20;
 
 🇩🇪 <mark style="color:$info;">Deutsch</mark>
 
-Die Kinder werden sich gegenseitig programmieren. Teile dazu die Kinder in Paare ein. Ein Kind ist der/die Programmierer/in  und das andere Kind ist der Roboter. Der/die Programmierer/in muss nun dem Roboter Schritt für Schritt Anweisungen geben um eine Aufgabe zu machen. Der Roboter darf aber nur GENAU das machen, was ihm der/die Programmier/in sagt. Das führt du lustigen Fehlern, die der/die Programmier/in beheben muss. Nachdem die Aufgabe erfüllt ist, tauschen die Kinder ihre Rollen. Beispielaufgaben: Ein Quadrat zeichnen auf Papier oder etwas kleines aus Bausteinen bauen.
+Die SchülerInnen werden nun die Lehrkraft (den Roboter) "programmieren" eine Sonnenbrille aufzuziehen. Sie müssen dafür den Roboter durch die Stühle navigieren und den Roboter die Sonnenbrille aufsetzen lassen. Dafür dürfen nur SchülerInnen, die dran genommen wurden einen Befehl geben. Außerdem dürfen Sie nur Befehle aus der Vereinbarten Befehlsliste geben. Andere Befehle versteht der Rooboter nicht und es kommt zum Systemfehler (Der Roboter friert ein).
 
 🇬🇧 <mark style="color:$info;">English</mark>
 
-The kids will be programming each other. Pair the students up. One kid is the programmer and one kid is the robot. The programmer will now be giving the robot step by step instructions to do a task. However, the robot is only allowed to do EXACTLY what he is instructed. This causes funny mistakes that the programmer has to fix. After the task is finished, the kids will swap roles. Example tasks: Draw a square on a piece of paper or build something small out of blocks.
+The students will now "program" the teacher (the robot) to put on a pair of sunglasses. To do this, they must navigate the robot through the chairs and have it put on the glasses. Only students who have been called upon are permitted to issue a command. Furthermore, they may only use commands from the agreed-upon list; the robot does not understand other commands, which results in a system error (the robot freezes).
 
 ***
 
