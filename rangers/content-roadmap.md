@@ -26,6 +26,18 @@ The kids will be programming each other. Pair the students up. One kid is the pr
 
 ***
 
+📖 **Was ist Coding? · What is Coding?**
+
+🇩🇪 <mark style="color:$info;">Deutsch</mark>
+
+Erkläre den SchülerInnen, dass es heute darum geht Python kennenzulernen. Mache klar, dass wir heute nicht nur Code schieben, sondern auch schreiben werden und sage, dass Python im Prinzip nur ein neues Werkzeug ist, die Logik aber gleich bleibt. Erkäre ihnen nun die drei Konzepte der Sequenz, der Selektion und der Iteration.
+
+🇬🇧 <mark style="color:$info;">English</mark>
+
+Explain to the students that today is about getting to know Python. Make it clear that we won't just be moving code around but actually writing it, and point out that Python is essentially just a new tool—the underlying logic remains the same. Now, explain the three concepts: sequence, selection, and iteration.
+
+***
+
 </details>
 
 <details>
