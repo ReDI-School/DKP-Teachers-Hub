@@ -38,6 +38,16 @@ Explain to the students that today is about getting to know Python. Make it clea
 
 ***
 
+🐍 **Einführung in EduBlocks  · Intro to EduBlocks**
+
+🇩🇪 <mark style="color:$info;">Deutsch</mark>
+
+Erkläre wie EduBlocks ein Tool ist, das zwei Programmiersprachen kombiniert. Zeige den SchülerInnen wie sie ein neues Projekt in EduBlocks erstellen. Zeige den SchülerInnen vorne das EduBlocks Interface indem du die wichtigsten Bereiche erklärst: links Befehlsblöcke, in der Mitte Blockbereich, rechts Text, oben rechts "Run" Knopf. Erkläre am Beispiel den "print" Befehl und mache klar, wie die Logik an sich gleich ist wie in Scratch.
+
+🇬🇧 <mark style="color:$info;">English</mark>
+
+Explain how EduBlocks is a tool that combines two programming languages. Show the students how to create a new project in EduBlocks. Demonstrate the EduBlocks interface to the class by explaining the key areas: command blocks on the left, the block workspace in the center, the text view on the right, and the "Run" button in the top right corner. Explain the "print" command using the example, and clarify that the underlying logic is the same as in Scratch.
+
 </details>
 
 <details>
