@@ -92,13 +92,13 @@ Task 3 (5 min):&#x20;
 
 <details>
 
-<summary><mark style="color:blue;"><strong>Week 2:</strong></mark> 👾</summary>
+<summary><mark style="color:blue;"><strong>Week 2:</strong></mark> 👾 Inputs und Conditions in Python · Inputs and Conditions in Python</summary>
 
 <mark style="color:$info;">**🎯**</mark>**&#x20;Ziele · Goals**
 
-<mark style="color:$info;">Die SchülerInnen erweitern heute ihr Python Wissen. Dazu lernen sie Inputs, Bedingungen und Funktionen in Python kennen.</mark>
+<mark style="color:$info;">Die SchülerInnen erweitern heute ihr Python Wissen. Dazu lernen sie Inputs und Bedingungen in Python kennen.</mark>
 
-<mark style="color:$info;">Today, the students will be expanding their knowledge of Python. To do this, they'll be introduced to inputs, Conditions, and functions in Python.</mark>
+<mark style="color:$info;">Today, the students will be expanding their knowledge of Python. To do this, they'll be introduced to inputs and Conditions in Python.</mark>
 
 ***
 
