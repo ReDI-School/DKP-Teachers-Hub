@@ -595,7 +595,7 @@ Ping Pong Game: Create a ping-pong game where a ball bounces off a paddle. With 
 🇩🇪 <mark style="color:$info;">Deutsch</mark>
 
 📋**Vor dem Kurs:** Bereite das Pong-Grundgerüst vor (Ball-Sprite mit Abprall-Funktion, Hintergrund mit roter Linie). Teste es selbst, damit du die Kinder anleiten kannst.\
-⏱️**Zeitplan:** Aufwärmphase: 10 Min. → Diskussion zu Minecraft: 15 Min. → Pong programmieren: 50 Min. → Kahoot: 10 Min.\
+⏱️**Zeitplan:** Aufwärmphase: 10 Min. → Wiederholung: 10 Min. → Diskussion zu Minecraft: 15 Min. → Pong programmieren: 50 Min. → Kahoot: 10 Min.\
 🚨**Häufiger Fehler:** Der Ball bleibt in einer Ecke hängen. Lösung: Verwende zu Beginn den Befehl „in Richtung (Zufallswert 45 bis 135) zeigen“ statt eines festen Winkels.\
 🗣️**Erklärung:** Frage: „Was motiviert euch, ein Spiel weiterzuspielen?“ Notiere die Antworten an der Tafel – das ist deine Lektion zum Thema Spieldesign.\
 🔗**Bezug zu:** Einheit 4 (Variablen für den Punktestand). Die Kinder wenden ihr gesamtes Wissen an: Bedingungen, Schleifen und Variablen – alles in einem einzigen Spiel.
@@ -603,7 +603,7 @@ Ping Pong Game: Create a ping-pong game where a ball bounces off a paddle. With 
 🇬🇧 <mark style="color:$info;">English</mark>
 
 📋**Before class:** Pre-build the Pong starter (ball sprite with bounce, red line backdrop). Test it yourself first so you can guide kids.\
-⏱️**Timing guide:** Warm-up: 10 min → Minecraft discussion: 15 min → Pong build: 50 min → Kahoot: 10 min.\
+⏱️**Timing guide:** Warm-up: 10 min. → Recap: 10 min. → Minecraft discussion: 15 min → Pong build: 50 min → Kahoot: 10 min.\
 🚨**Common mistake:** Ball gets stuck in a corner. Fix: use 'point in direction (random 45 to 135)' at start, not a fixed angle.\
 🗣️**How to explain:** Ask: 'What makes you keep playing a game?' List answers on the board — that's your game design lesson.\
 🔗**Connects to:** Session 4 (variables for score). Kids will use everything they know: conditions, loops, and variables all in one game.
