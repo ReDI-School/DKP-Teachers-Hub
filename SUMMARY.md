@@ -24,7 +24,9 @@
 * [🦸‍♀️ SUPERHEROES](superheroes.md)
   * [Content Roadmap](superheroes/content-roadmap.md)
   * [Teaching Material](superheroes/teaching-material.md)
-* [👩‍🌾 RANGERS](rangers.md)
+* [👩‍🌾 RANGERS](rangers/README.md)
+  * [Content Roadmap](rangers/content-roadmap.md)
+  * [Teaching Material](rangers/teaching-material.md)
 * [🤖 CODING CAMPS](coding-camps.md)
 
 ## 🧰 TOOLS; RESOURCES & SUPPORT
