@@ -130,13 +130,13 @@ Explain to the students why they are learning python. Name some advantages that 
 
 🇩🇪 <mark style="color:$info;">Deutsch</mark>
 
-Was haben wir beim letzten mal gemacht? Was macht der Print Befehl? Wie macht man Schleifen in Python? Wie funktionieren Variablen in Python?
+Was haben wir beim letzten mal gelernt? Was macht der Print Befehl? Wie macht man Schleifen in Python? Wie funktionieren Variablen in Python?
 
 Als kleine Wiederholungsaufgabe: Lasse die SchülerInnen ein Programm mit einer Schleife schreiben, das ihren Namen drei mal ausgibt.
 
 🇬🇧 <mark style="color:$info;">English</mark>
 
-What did we do last time? What does the print command do? How do you create loops in Python? How do variables work in Python?&#x20;
+What did we learn last time? What does the print command do? How do you create loops in Python? How do variables work in Python?&#x20;
 
 As a quick review exercise: Have the students write a program with a loop that prints their name three times.
 
