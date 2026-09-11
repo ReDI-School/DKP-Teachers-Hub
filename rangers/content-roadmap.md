@@ -114,6 +114,18 @@ The students will now "program" the teacher (the robot) to put on a pair of sung
 
 ***
 
+❓**Warum Python? · Why Python?**
+
+🇩🇪 <mark style="color:$info;">Deutsch</mark>
+
+Erkläre den SchülerInnen warum sie ausgerechnet Python lernen. Nenne dazu ein paar Vorteile von Python und gebe Beispiele an, wofür Python alles benutzt wird.
+
+🇬🇧 <mark style="color:$info;">English</mark>
+
+Explain to the students why they are learning python. Name some advantages that Python has and give some examples what Python is used for.
+
+***
+
 📖 **Was ist Coding? · What is Coding?**
 
 🇩🇪 <mark style="color:$info;">Deutsch</mark>
