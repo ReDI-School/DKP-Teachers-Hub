@@ -713,14 +713,14 @@ Now, the students can start by planning their own stories. They should take into
 🇩🇪 <mark style="color:$info;">Deutsch</mark>
 
 📋**Vor dem Unterricht:** Bereite ein einfaches Arbeitsblatt zur Geschichtenplanung vor (auf Papier): Name, Figuren, Schauplatz, Was passiert?, Wie geht es aus?\
-⏱️**Zeitplan:** Aufwärmphase: 10 Min. → Geschichtenplanung (Papier): 15 Min. → Programmieren mit Scratch: 40 Min. → Präsentationen: 15 Min. → Kahoot: 10 Min.\
+⏱️**Zeitplan:** Aufwärmphase: 10 Min. → Wiederholung: 10 Min. → Geschichtenplanung (Papier): 15 Min. → Programmieren mit Scratch: 40 Min. → Präsentationen: 15 Min. → Kahoot: 10 Min.\
 🚨**Häufiger Fehler:** Kinder legen direkt in Scratch los, ohne einen Plan zu haben. Bestehe auf der Planungsphase auf Papier – 5 Minuten Planung ersparen 20 Minuten Verwirrung.\
 🗣️**Erklärung:** Sag: „Jeder Film, jedes Buch und jedes Spiel hat eine Geschichte. Heute seid ihr sowohl die Autoren als auch die Programmierer.“ Das motiviert die Kinder sehr.\
 🔗**Bezug zu:** Einheit 7 (Nachrichten senden/Broadcast-Befehle). Die hier entwickelte Geschichte kann in der nächsten Einheit um Nachrichten und Spielphasen erweitert werden.
 
 🇬🇧 <mark style="color:$info;">English</mark>\
 📋**Before class:** Prepare a simple story planning worksheet (paper): Name, Characters, Setting, What happens?, How does it end?\
-⏱️**Timing guide:** Warm-up: 10 min → Story planning (paper): 15 min → Scratch coding: 40 min → Presentations: 15 min → Kahoot: 10 min.\
+⏱️**Timing guide:** Warm-up: 10 min. → Recap: 10 min. → Story planning (paper): 15 min .→ Scratch coding: 40 min. → Presentations: 15 min. → Kahoot: 10 min.\
 🚨**Common mistake:** Kids jump straight into Scratch without a plan. Enforce the paper planning step — 5 minutes of planning saves 20 minutes of confusion.\
 🗣️**How to explain:** Say: 'Every movie, book, and game has a story. Today you are the author AND the programmer.' This motivates kids a lot.\
 🔗**Connects to:** Session 7 (broadcast messages). The story they build here can be extended with messages and game phases next session.
