@@ -8,7 +8,9 @@ The Content Roadmap is a living document with **goals** **and** **sub-goals** **
 
 <mark style="color:$info;">**🎯**</mark>**&#x20;Ziele · Goals**
 
-<mark style="color:$info;">TODO</mark>
+<mark style="color:$info;">Die SchülerInnen lerne heute was code in Python ist und bewegen sich langsam weg von der Blockprogrammierung. Dazu lernen sie Befehle, Variablen und Schleifen in Python kennen.</mark>
+
+<mark style="color:$info;">Today, the students are learning what Python code is and are gradually moving away from block-based programming. To do this, they'll be introduced to commands, variables, and loops in Python.</mark>
 
 ***
 
