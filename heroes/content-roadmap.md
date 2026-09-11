@@ -406,18 +406,6 @@ Afterwards, students can present their programs.
 
 ***
 
-🧠 **Wiederholen · Recap**
-
-🇩🇪 <mark style="color:$info;">Deutsch</mark>
-
-Was haben wir letzte Woche gelernt? Stelle offene Fragen und identifiziere die wesentlichen Punkte von letzter Woche, an die sich die Kinder erinnern sollen. Was sind Schleifen? Was für Schleifen gibt es? Warum benutzen wir Schleifen?
-
-🇬🇧 <mark style="color:$info;">English</mark>
-
-What did we learn last week? Ask open-ended Questions and identify what the kids should remember from last week. What are loops? What types of loops are there? why do we use loops?
-
-***
-
 **🔥 Aufwärmen · Warm-Up**
 
 🇩🇪 <mark style="color:$info;">Deutsch</mark>
@@ -431,6 +419,30 @@ Tipp: Berechne die Ergebnisse im Vorfeld, um sicherzugehen, dass du die richtige
 You will be playing "Secret Number" and teaching the students the concepts of variables without actually mentioning them. To do so announce a number to the students. Then give them some mathematical operations to do with this number e.g. add 5, subtract 8, double the number, etc. When you say STOP they must share their results. Make sure there is no talking and make them close their eyes if they are working together. You can also add points.
 
 Tip: Calculate the results beforehand to definitely have the right answer.
+
+***
+
+🧠 **Wiederholen · Recap**
+
+🇩🇪 <mark style="color:$info;">Deutsch</mark>
+
+Was haben wir letzte Woche gelernt? Stelle offene Fragen und identifiziere die wesentlichen Punkte von letzter Woche, an die sich die Kinder erinnern sollen. Was sind Schleifen? Was für Schleifen gibt es? Warum benutzen wir Schleifen?
+
+🇬🇧 <mark style="color:$info;">English</mark>
+
+What did we learn last week? Ask open-ended Questions and identify what the kids should remember from last week. What are loops? What types of loops are there? why do we use loops?
+
+***
+
+🔍 **Code DetektivInnen · Code Detektives**
+
+🇩🇪 <mark style="color:$info;">Deutsch</mark>
+
+Du zeigst den SchülerInnen ein Programm und sie müssen herausfinden, was es macht. Gemeinsam verbessert ihr dann dieses Programm. Hierbei müssen die SchülerInnen ihr wissen über Schleifen und Bedingungen anwenden.
+
+🇬🇧 <mark style="color:$info;">English</mark>
+
+You show the students a program, and they have to figure out what it does. Together, you then improve the program. In doing so, the students must apply their knowledge of loops and conditions.
 
 ***
 
