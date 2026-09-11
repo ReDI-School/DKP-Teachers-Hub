@@ -86,6 +86,18 @@ Task 3 (5 min):&#x20;
 
 ***
 
+💻 **Compute-it · Compute-It**
+
+🇩🇪 <mark style="color:$info;">Deutsch</mark>
+
+Die SchülerInnen spiele ein paar Compute-It level. Dazu sollen sie den Pythoncode verstehen und ihm mit den Pfeiltasten folgen.
+
+🇬🇧 <mark style="color:$info;">English</mark>
+
+The students play a few Compute-It levels. To do this, they need to understand the Python code and follow it using the arrow keys.
+
+***
+
 **🎮 Kahoot — Zeit zum Spielen! · Kahoot — Game Time!**
 
 </details>
@@ -205,6 +217,18 @@ Final Mission (15 min.): Your adventure story. Your program must:&#x20;
 
 * Ask for the name (input)&#x20;
 * Make a decision (if/else), Example: Brave or cautious?
+
+***
+
+💻 **Compute-it · Compute-It**
+
+🇩🇪 <mark style="color:$info;">Deutsch</mark>
+
+Die SchülerInnen spiele ein paar Compute-It level. Dazu sollen sie den Pythoncode verstehen und ihm mit den Pfeiltasten folgen.
+
+🇬🇧 <mark style="color:$info;">English</mark>
+
+The students play a few Compute-It levels. To do this, they need to understand the Python code and follow it using the arrow keys.
 
 ***
 
