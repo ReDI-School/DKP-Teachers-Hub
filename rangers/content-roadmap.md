@@ -6,7 +6,23 @@ The Content Roadmap is a living document with **goals** **and** **sub-goals** **
 
 <summary><mark style="color:red;"><strong>Week 1:</strong></mark></summary>
 
+<mark style="color:$info;">**🎯**</mark>**&#x20;Ziele · Goals**
 
+<mark style="color:$info;">TODO</mark>
+
+***
+
+**🔥 Aufwärmen · Warm-Up**
+
+🇩🇪 <mark style="color:$info;">Deutsch</mark>
+
+Die Kinder werden sich gegenseitig programmieren. Teile dazu die Kinder in Paare ein. Ein Kind ist der/die Programmierer/in  und das andere Kind ist der Roboter. Der/die Programmierer/in muss nun dem Roboter Schritt für Schritt Anweisungen geben um eine Aufgabe zu machen. Der Roboter darf aber nur GENAU das machen, was ihm der/die Programmier/in sagt. Das führt du lustigen Fehlern, die der/die Programmier/in beheben muss. Nachdem die Aufgabe erfüllt ist, tauschen die Kinder ihre Rollen. Beispielaufgaben: Ein Quadrat zeichnen auf Papier oder etwas kleines aus Bausteinen bauen.
+
+🇬🇧 <mark style="color:$info;">English</mark>
+
+The kids will be programming each other. Pair the students up. One kid is the programmer and one kid is the robot. The programmer will now be giving the robot step by step instructions to do a task. However, the robot is only allowed to do EXACTLY what he is instructed. This causes funny mistakes that the programmer has to fix. After the task is finished, the kids will swap roles. Example tasks: Draw a square on a piece of paper or build something small out of blocks.
+
+***
 
 </details>
 
