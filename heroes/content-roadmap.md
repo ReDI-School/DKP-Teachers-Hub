@@ -972,7 +972,7 @@ Give the students tips for their Demo Day presentation and have them present the
 📋**Vor dem Unterricht:** Erinnere die Kinder per Nachricht/E-Mail daran, den Link zu ihrem Scratch-Projekt mitzubringen. Halte das abschließende Kahoot-Quiz bereit. Drucke die Projekt-Checkliste aus.\
 ⏱️**Zeitplan:** Aufwärmphase: 10 Min. → Umfassende Wiederholung: 15 Min. → Feinschliff am Projekt: 30 Min. → Üben der Präsentationen: 25 Min. → Abschließendes Kahoot-Quiz: 10 Min.\
 🚨**Häufiger Fehler:** Die Kinder verbringen die gesamte Zeit mit dem Feinschliff und üben ihre Präsentation nicht. Setze ein striktes Zeitlimit von 30 Minuten für das Programmieren und gehe dann zu den Präsentationen über.\
-🗣️**Erklärung: Sag:** „Der Demo Day ist EUER Moment. Ihr habt etwas Echtes erschaffen. Seid stolz darauf – präsentiert es!“ Begeistere und motiviere sie, bevor sie ihre Projekte vorstellen.\
+🗣️**Erklärung:** Sag: „Der Demo Day ist EUER Moment. Ihr habt etwas Echtes erschaffen. Seid stolz darauf – präsentiert es!“ Begeistere und motiviere sie, bevor sie ihre Projekte vorstellen.\
 📍**Organisation des Demo Day:** Informiere die Kinder über Ort und Zeit des Demo Day.
 
 🇬🇧 <mark style="color:$info;">English</mark>
