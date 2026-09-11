@@ -4,7 +4,7 @@ The Content Roadmap is a living document with **goals** **and** **sub-goals** **
 
 <details>
 
-<summary><mark style="color:red;"><strong>Week 1:</strong></mark></summary>
+<summary><mark style="color:red;"><strong>Week 1:</strong></mark> 🐍 Einführung in Python mit EduBlocks · Intro into Python using EduBlocks</summary>
 
 <mark style="color:$info;">**🎯**</mark>**&#x20;Ziele · Goals**
 
@@ -47,6 +47,46 @@ Erkläre wie EduBlocks ein Tool ist, das zwei Programmiersprachen kombiniert. Ze
 🇬🇧 <mark style="color:$info;">English</mark>
 
 Explain how EduBlocks is a tool that combines two programming languages. Show the students how to create a new project in EduBlocks. Demonstrate the EduBlocks interface to the class by explaining the key areas: command blocks on the left, the block workspace in the center, the text view on the right, and the "Run" button in the top right corner. Explain the "print" command using the example, and clarify that the underlying logic is the same as in Scratch.
+
+***
+
+🧩 **Übungen in EduBlocks · Exercises in EduBlocks**
+
+🇩🇪 <mark style="color:$info;">Deutsch</mark>
+
+Aufgabe 1 (5 Min.): Drucke deinen Namen in EduBlocks. Erweiterung: lasst euer Lieblingsessen oder Lieblingstier drucken.
+
+Stelle nun die Schleifen in EduBlocks (for i in range()). Zeige sowohl den Block als auch den Code.
+
+Aufgabe 2 (5 Min.): Baue eine Schleife die etwas drei mal macht. Überprüfe vor dem Ausführen ob der Befehl in der Schleife ist. Ändere die 3 zu einer anderen Zahl — Was passiert?
+
+Stelle jetzt die Variablen in EduBlocks vor. Zeige wieder Sowohl den Block als auch den Code. Erkläre die Funktionsweise von Variablen auch im Allgemeinen.
+
+Aufgabe 3 (5 Min.):&#x20;
+
+1. Deklariere eine Variable "punkte" mit dem Wert 0 in EduBlocks und lasse sie Drucken. Was passiert?
+2. Setze "punkte" auf 100 und drucke Punkte. Was passiert jetzt?
+3. Rechne mit den Punkten: punkte = 10; punkte = punkte + 5; print (punkte) — Was wird angezeigt?
+
+🇬🇧 <mark style="color:$info;">English</mark>
+
+Task 1 (5 min): Print your name in EduBlocks. Extension: print your favorite food or favorite animal.&#x20;
+
+Now set up loops in EduBlocks (for i in range()). Show both the block and the code.&#x20;
+
+Task 2 (5 min): Build a loop that performs an action three times. Before running it, check whether the command is inside the loop. Change the 3 to a different number—what happens?&#x20;
+
+Now introduce variables in EduBlocks. Again, show both the block and the code. Also, explain how variables work in general.&#x20;
+
+Task 3 (5 min):&#x20;
+
+1. Declare a variable "points" to 0 in EduBlocks and print it. What happens?&#x20;
+2. Set "points" to 100 and print "points". What happens now?&#x20;
+3. Perform a calculation with the points: points = 10; points = points + 5; print(points) — What is displayed?
+
+***
+
+**🎮 Kahoot — Zeit zum Spielen! · Kahoot — Game Time!**
 
 </details>
 
