@@ -81,6 +81,26 @@ With a partner, discuss these situations and decide: SAFE or NOT SAFE?&#x20;
 
 ***
 
+🤖 **KI Sicherheit · AI Safety**
+
+🇩🇪 <mark style="color:$info;">Deutsch</mark>
+
+Die SchülerInnnen lernen erstmal was KI ist. Danach lernen sie die drei goldenen KI-Sicherheitsregeln kennen. Diese lauten:
+
+1. Keine Geheimnisse teilen!
+2. KI ist kein echter Freund!
+3. Sei fair und ehrlich!
+
+🇬🇧 <mark style="color:$info;">English</mark>
+
+The students will learn what AI is first of all. After that they will learn about the three golden rules of AI-safety. The are:
+
+1. Don't share secrets!
+2. AI isn't a real friend!
+3. Be fair and honest!
+
+***
+
 **🎨 Abschlussprojekt · End Project**
 
 🇩🇪 <mark style="color:$info;">Deutsch</mark>
