@@ -91,6 +91,8 @@ Die SchülerInnnen lernen erstmal was KI ist. Danach lernen sie die drei goldene
 2. KI ist kein echter Freund!
 3. Sei fair und ehrlich!
 
+Das Motto lautet Denken -> Checken -> dann Teilen!
+
 🇬🇧 <mark style="color:$info;">English</mark>
 
 The students will learn what AI is first of all. After that they will learn about the three golden rules of AI-safety. The are:
@@ -98,6 +100,8 @@ The students will learn what AI is first of all. After that they will learn abou
 1. Don't share secrets!
 2. AI isn't a real friend!
 3. Be fair and honest!
+
+The motto is think -> check -> then share!
 
 ***
 
