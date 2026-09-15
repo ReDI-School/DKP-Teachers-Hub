@@ -435,7 +435,7 @@ My Calliope Name Tag — Program your Calliope Mini to show your name, a symbol 
 
 <mark style="color:$info;">🇩🇪 Deutsch</mark>
 
-Versammelt euch im Kreis. Wir möchten verstehen, dass wir Menschen auch Sensoren haben. Dazu sagt jede/r einen Satz der Form: "Ich habe einen ...-sensor, und fühle ...". Geht dabei den Kreis durch. Beispielsätze sind: "Ich habe einen Temperatursensor, und ich fühle, dass meine Hände warm sind." oder "Ich habe einen Lichtsensor, und ich sehe, dass es hell ist.".
+Versammelt euch im Kreis. Wir möchten verstehen, dass wir Menschen auch Sensoren haben. Dazu sagt jede/r einen Satz der Form: "Ich habe einen ...-sensor, und fühle ...". Geht dabei den Kreis durch. Beispielsätze sind: "Ich habe einen Temperatursensor, und ich fühle, dass meine Hände warm sind." oder "Ich habe einen Lichtsensor, und ich sehe, dass es hell ist".
 
 <mark style="color:$info;">🇬🇧 English</mark>
 
@@ -534,6 +534,18 @@ Bonus: Add East and West too!
 • South = 180° (value between 135 and 225)
 
 • West = 270° (value between 225 and 315)
+
+***
+
+🤖 **KI Sicherheit · AI Safety**
+
+🇩🇪 <mark style="color:$info;">Deutsch</mark>
+
+Um ihr Wissen über die KI-Sicherheit aufzufrischen schauen die SchülerInnen heute ein spannendes Video. Im Video wird ihnen alles nochmal ausführlich und mit Bildern erklärt.
+
+🇬🇧 <mark style="color:$info;">English</mark>
+
+To refresh their knowledge AI-safety the students will watch a video. In this video everything will be explained to them in detail and with pictures.
 
 ***
 
