@@ -391,6 +391,18 @@ Bonus: If you finish early, make a number blink a chosen number of times!
 
 ***
 
+🤖 **KI Sicherheit · AI Safety**
+
+🇩🇪 <mark style="color:$info;">Deutsch</mark>
+
+Um ihr Wissen über die KI-Sicherheit aufzufrischen spielen die SchülerInnen ein Spiel. Sie werden mit zehn möglichen KI-Situationen aus dem Alltag konfrontiert und müssen entscheiden, ob die Situation sicher ist oder nicht. Dabei lernen sie die drei goldenen Regeln  der Ki-Sicherheit auch anwenden zu können.
+
+🇬🇧 <mark style="color:$info;">English</mark>
+
+To refresh their knowledge AI-safety the students will play a game. They will be confronted with ten possible AI-situation from everyday life and have to decide, whether the situation is safe or not. By playing this game they will learn to actually apply the three golden rules of AI-safety as well.
+
+***
+
 **🎨 Abschlussprojekt · End Project**
 
 <mark style="color:$info;">🇩🇪 Deutsch</mark>
