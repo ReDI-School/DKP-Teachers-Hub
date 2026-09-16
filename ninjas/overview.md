@@ -704,6 +704,18 @@ This creates a moving dot effect!
 
 ***
 
+🤖 **KI Sicherheit · AI Safety**
+
+🇩🇪 <mark style="color:$info;">Deutsch</mark>
+
+Die SchülerInnen wiederholen ihr Wissen über Ki Sicherheit. Dazu wiederholen sie ihr Wissen an echten Beispielen mit If-Anweisungen. SIe wiederholen also die goldenen Regeln der KI Sicherheit und die Logik der If-Anweisungen zugleich.
+
+🇬🇧 <mark style="color:$info;">English</mark>
+
+To refresh their knowledge AI-safety. To do this they will be presented real-life examples for these rules using If-conditions. By doing so they will both repeat their knowledge about the three golden rules of AI safety and the logik of If-conditions.
+
+***
+
 **🎨 Abschlussprojekt · End Project**
 
 🇩🇪 <mark style="color:$info;">Deutsch</mark>
