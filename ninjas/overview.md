@@ -2,6 +2,22 @@
 
 The Content Roadmap is a living document with **goals and sub-goals for each session**, helping us understand the bigger picture of what students should achieve by the end of the semester, while keeping each class connected to the overall learning journey.
 
+{% hint style="info" %}
+<mark style="color:red;">**\*Updates for Fall Semester 2026:**</mark> We’re making a small addition to the **Ninjas curriculum**: an introduction to using AI safely and responsibly. The goal is to give kids some simple principles they can use whenever they interact with AI.&#x20;
+
+During the first session we’ll introduce three **Golden Rules**:
+
+**1.  Don’t share personal information.**\
+**2. AI is not your friend.** It’s a tool, not a person.\
+**3. Be honest and fair!** Use AI responsibly and don’t pretend AI-generated work is your own.
+
+And our motto for the kids will be: **Think → Check → Then share!**
+
+**This will be repeated as recap in certain sessions througout the semester.**&#x20;
+
+The idea is to keep AI literacy simple and age-appropriate for Ninjas, while building the foundations for more advanced AI learning in Heroes and SuperHeroes.&#x20;
+{% endhint %}
+
 <details>
 
 <summary><mark style="color:red;"><strong>Week 1:</strong></mark> 💡 Einführung in die Computerwelt · Intro to the Computer World</summary>

@@ -10,3 +10,4 @@
 * <mark style="color:blue;">**Independent Project Building:**</mark> Complete a mini project i.e. Rock-Paper-Scissors or sensor app.
 * <mark style="color:orange;">**Digital Problem-Solving:**</mark> Build resilience & autonomy to tackle digital challenges.
 * <mark style="color:blue;">**Community & Values:**</mark> Feel part of ReDI, understand inclusion and teamwork.
+* <mark style="color:orange;">**AI Security & Digital Safety:**</mark> Empower kids to navigate AI safely, critically, and confidently, from 3 Golden Rules to AI Security Certificate Level 1.  <br>
