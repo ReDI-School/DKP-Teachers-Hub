@@ -228,6 +228,30 @@ Explain conditions to the students by giving real-world examples e.g. "If it rai
 
 ***
 
+🤖 **KI Prompt Engineering · AI Prompt Engineering**
+
+🇩🇪 <mark style="color:$info;">Deutsch</mark>
+
+Die SchülerInnen lernen was die fünf goldenen Prompt-Regeln sind. Diese sind:
+
+1. Sei spezifisch
+2. Gib Beispiele
+3. Sag, was du willst!
+4. Bleib sicher!
+5. Sei Ehrlich!
+
+🇬🇧 <mark style="color:$info;">English</mark>
+
+The students will learn about the five golden prompt-rules. These are:
+
+1. Be specific
+2. Give examples
+3. Say, what you want!
+4. Stay safe!
+5. Be honest!
+
+***
+
 **🎮 Kahoot — Zeit zum Spielen! · Kahoot — Game Time!**
 
 ***
