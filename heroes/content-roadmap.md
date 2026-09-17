@@ -332,6 +332,18 @@ First you are the "programmer". You decide on a move sequence (with 2-3 moves) e
 
 ***
 
+🤖 **KI Prompt Engineering · AI Prompt Engineering**
+
+🇩🇪 <mark style="color:$info;">Deutsch</mark>
+
+Die SchülerInnen wiederholen die fünf goldenen Prompt-Regeln anhand von Beispielen von schlechten prompts. Die Lehrkraft gibt ein schlechtes Beispiel für einen Prompt an und die SchülerInnen verbessern diesen mit den fünf Regeln.
+
+🇬🇧 <mark style="color:$info;">English</mark>
+
+The students recap the five golden prompt-rules using examples of bad prompts. The teacher will give a bad example for a prompt and the students have to improve the prompt using the five rules.
+
+***
+
 🧠 **Wiederholen · Recap**
 
 🇩🇪 <mark style="color:$info;">Deutsch</mark>
