@@ -92,6 +92,18 @@ The kids will code their first scratch programm.&#x20;
 
 ***
 
+🤖 **KI Prompt Engineering · AI Prompt Engineering**
+
+🇩🇪 <mark style="color:$info;">Deutsch</mark>
+
+Die SchülerInnnen lernen erstmal was Prompt Engineering eigentlich ist. Danach schauen sie sich Beispiele für schlechte und für gute Prompts an.
+
+🇬🇧 <mark style="color:$info;">English</mark>
+
+First of all, the students will learn what prompt engineering is. Afterwards they will have a look at examples of good and bad prompts.
+
+***
+
 **🎮 Kahoot — Zeit zum Spielen! · Kahoot — Game Time!**
 
 ***
