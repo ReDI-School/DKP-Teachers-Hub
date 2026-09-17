@@ -1165,18 +1165,6 @@ Your partner gives you feedback: Was it clear? Was it interesting? What could be
 
 ***
 
-🤖 **KI Sicherheit · AI Safety**
-
-🇩🇪 <mark style="color:$info;">Deutsch</mark>
-
-Heute ist es soweit! Die Schülerinnen können ihr KI-Sicherheits-Zertifikat erhalten. Dazu müssen sie drei goldenen Regeln kennen und anwenden können. Danach spielen sie das Kahoot und kriegen das Zertifikat, wenn sie mindestens 8/10 Aufgaben richtig beantworte. Das Ki-Sicherheits-Arbeitsblatt findest du [hier](https://drive.google.com/file/d/1m2Cy-O1JtaJg3d76vKJATQt10jdEpy1B/view).
-
-🇬🇧 <mark style="color:$info;">English</mark>
-
-Today is the day! The students can get their AI-safety-Certificate. To do so they mus know the three golden rules and be able to apply them. Then they will play a kahoot and receive their certificate if they get at least 8/10 questions correct. The AI-safety-printout is [here](https://drive.google.com/file/d/1m2Cy-O1JtaJg3d76vKJATQt10jdEpy1B/view).
-
-***
-
 **🎨 Abschlussprojekt · End Project**
 
 🇩🇪 <mark style="color:$info;">Deutsch</mark>
