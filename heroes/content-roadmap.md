@@ -2,6 +2,22 @@
 
 The Content Roadmap is a living document with **goals** **and** **sub-goals** **for each session**, helping us keep the big picture clear.
 
+{% hint style="info" %}
+<mark style="color:$danger;">**Updates for Fall Semester 2026:**</mark>&#x20;
+
+We’re making a small addition to the **Heroes curriculum**: an introduction to using AI safely and responsibly, as well as the kids will start learning about prompting and how to interact with AI. Based on the feedback from our Planning Session, we’ve also added AI safety rules to the first session. We’ve adjusted the rest of the session content as well, so it doesn’t become too long with the new AI content.<br>
+
+**Kahoot Integration**
+
+Heroes content will now be **integrated into Kahoot**, including quizzes to make sessions more interactive. **The end-of-session Kahoot remains as well.**
+
+Since we added some Kahoot quiz after a theoretical section, this might result in a slight shift of the class agenda (breaks in between the theory and sometimes shorter or longer Kahoots in the end).
+
+Kahoot doesn’t provide the editing history, so it’s better to **edit the google slides first** (for us to be able to track the changes) and then **duplicate the kahoot and make the changes there**.
+
+
+{% endhint %}
+
 <details>
 
 <summary><mark style="color:red;"><strong>Week 1:</strong></mark> 🚀 Scratch Einführung · Scratch Intro</summary>

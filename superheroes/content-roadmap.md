@@ -2,6 +2,37 @@
 
 The Content Roadmap is a living document with **goals** **and** **sub-goals** **for each session**, helping us keep the big picture clear.
 
+{% hint style="info" %}
+<mark style="color:$danger;">**Updates for Fall Semester 2026:**</mark>&#x20;
+
+**The main update to the Superheroes curriculum is the addition of AI as a practical tool.** The kids will think of an idea before opening the AI tool, in this case we will use **Gemini** and the **ImagiLab AI Helper**. They then ask AI to check or question that idea, decide whether the advice is useful, and finally test their decision through code.
+
+\
+We will use the **4 Step Collaborative Workflow**:
+
+**1.** **Task:** Teacher announces a pixel challenge.
+
+**2. Peer Discussion:** Kids will discuss with peers how to solve it.
+
+**3. AI Check:** Kids will then Ask imagiLab AI or Gemini to double check their logic.
+
+**4. Python Code:** Write code in imagi Edu & light up your charm!
+
+
+
+This approach keeps AI as a tool that supports children’s own thinking, collaboration, and computational skills. This reflects UNESCO’s focus on using AI in a human-centred and responsible way, while encouraging children to think critically about what AI tells them. The use of imagiCharm is where kids will turn their ideas into something they can see, test, and experiment with using Python.<br>
+
+<mark style="color:$danger;">**AI Tools for this Fall Semester:**</mark>&#x20;
+
+**1. Built in Imagilab AI Helper (imagi Edu Code Editor)**
+
+The integrated AI helper directly understands the imagi Edu environment, Python syntax, and common pixel art errors. By using this tool, students stay within a single browser tab ([`edu.imagilabs.com`](http://edu.imagilabs.com)), keeping them focused on their code.
+
+**2. Gemini in a separate browser tab**
+
+Using Gemini will broader problem solving, and will be great for creative logic checks. This builds transferable prompting and critical thinking skills.
+{% endhint %}
+
 <details>
 
 <summary><mark style="color:red;"><strong>Week 1:</strong></mark> 💡 Hallo, imagiCharm! · Hello, imagiCharm!</summary>
