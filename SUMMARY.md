@@ -35,6 +35,7 @@
 * [Slack](tools-resources-and-support/slack.md)
 * [Kahoot](tools-resources-and-support/kahoot.md)
 * [Icebreakers](tools-resources-and-support/icebreakers.md)
+* [Teacher Trainings & Resources](tools-resources-and-support/teacher-trainings-and-resources.md)
 * [Code of Conduct](tools-resources-and-support/code-of-conduct.md)
 * [Conflict Resolution](tools-resources-and-support/conflict-resolution.md)
 * [ReDI DEI Statement](tools-resources-and-support/redi-dei-statement.md)
